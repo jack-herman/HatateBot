@@ -1,529 +1,529 @@
-11,Death Match,1,Power is higher the lower the user's current HP is.
-12,Perfect Aim,1,Defeats the foe if it hits, regardless of their HP.
-13,Phantasmagoria,0,(unimplemented)
-14,Prank,1,Halves the foe's current HP.
-15,Recompensate,1,Lowers the foe's HP to be the same as the user's HP.
-16,Whole Being,1,Bypasses half of the foe's FoDef, but the user faints.
-17,Final Tribulation,1,Bypasses half of the foe's FoDef, but the user faints. Is more powerful for Void-types.
-18,Last Resort,1,Can only be used when all other skills have been used once.
-19,Firm Spirit,2,A two-turn skill. On the first turn, the user's FoDef is raised.
-20,Overskill,2,The user takes 1/3 of the damage in recoil.
-21,Spirit Rush,2,The user takes 1/4 of the damage in recoil.
-22,Frenzied Joururi,1,A normal attack.
-23,Swallow Cut,1,A normal attack with increased priority.
-24,Blow from Calamity,2,Power doubles if the user has a status ailment. Ignores the penalty from Dark status.
-25,Retaliation,1,Power doubles if an ally was defeated last turn.
-26,Piercing Stab,1,Ignores the opponent's stat modifiers.
-27,Struggle,1,(struggle's description should not be visible)
-28,Cruciform,1,Hits twice.
-29,Raid,1,Will always make the foe flinch, but can only be used on entering combat.
-30,Tiger Rush,1,A normal attack with increased priority.
-31,Shadow Rush,1,Bypasses Supernatural Border and Thorned Ivy, and has increased priority.
-32,Danmaku Dance,2,The user attacks for 2-3 turns, then becomes confused.
-33,Crossbow Assault,2,30% chance to paralyze the foe.
-34,Tri-Effect,2,20% chance to paralyze, blind, or scare the foe.
-35,Destruction,2,30% chance to make the foe flinch.
-36,Volley,2,Always hits.
-37,Heavenly Blessing,2,During weather, power doubles and the type changes.
-38,Earthly Blessing,2,During terrain, power doubles and the type changes.
-39,Random Shots,2,Hits two to five times.
-40,False Courage,0,Attempts to survive the next attack with 1 HP. May fail if used consecutively.
-41,Supernatural Border,0,Blocks all damage from the foe's attack. May fail if used consecutively.
-42,Magic Barrier,0,Puts up a barrier using a fourth of the user's max HP.
-43,Invoke Deity,0,Sharply raises one of the user's stats randomly.
-44,First Aid,0,Restores half of the user's HP.
-45,Resourcefulness,0,Recovers a used held item.
-46,Power Spot,0,At the end of the next turn, the current puppet regains half of the user's max HP.
-47,Unconscious Mind,0,Can only be used while stopped. Randomly uses another skill.
-48,Inner Power,0,Sacrifices half of the user's HP to maximize FoAtk.
-49,Camouflage,0,Sharply raises the user's Evasion.
-50,Imposing Air,0,Raises the user's FoAtk and Speed.
-51,Offensive Trance,0,Sharply raises the user's FoAtk, SpAtk, and Speed at the cost of FDef and SDef.
-52,Battle Preparation,0,Raises the user's FoAtk, FoDef, and Accuracy.
-53,Foresee,0,Attempts to use the attacking skill the foe will use, with 50% more power.
-54,Confine,0,Paralyzes the foe.
-55,Backup Plan,0,Switches to another puppet. That puppet inherits the user's stat modifiers.
-56,Yin Energy,2,A normal attack.
-57,Guided Missile,2,10% chance to make the foe flinch.
-58,Yang Energy,2,A normal attack.
-59,Scatter Beam,2,A normal attack that lands critical hits often.
-60,Good Luck,0,Raises one of the user's stats randomly.
-61,Shield Up,0,Raises the user's FoDef.
-62,Barrier Up,0,Raises the user's SpDef.
-63,Speedy Barrage,2,A normal attack.
-64,Dense Barrage,2,A normal attack.
-65,Overrun,2,A normal attack.
-66,Focused Movement,0,Raises the user's FoAtk and FoDef at the cost of Speed.
-67,Eternal Record,0,Replicates Field Barrier, Field Protect, and Lucky Rainbow, but the user faints.
-68,Recollection,0,Copies all of the foe's attributes.
-69,Heavenly Influence,2,During weather, power doubles and the type changes.
-70,Earthly Influence,1,During terrain, power doubles and the type changes.
-101,Conflagration,2,Power is higher if the user's Cost is higher than the foe's.
-102,Purgatory Flicker,1,The user takes 1/3 of the damage in recoil. 10% chance to burn the foe.
-103,Holy Flare,2,50% chance to burn the foe.
-104,Burn Strike,1,10% chance to burn the foe. Lands critical hits more often.
-105,Exploding Blaze,2,30% chance to burn the foe.
-106,Fire Javelin,1,10% chance to burn the foe.
-107,Rising Sun,1,Raises the user's Speed.
-108,Phoenix Waltz,1,Power decreases if the user is not at full HP.
-109,Deflagration,2,The user cannot move next turn.
-110,Volcano,2,Harshly lowers the user's SpAtk.
-111,Inferno,2,10% chance to burn the foe.
-112,Blaze Spear,1,10% chance to burn the foe.
-113,Blaze of Tenmei,1,Burns the foe.
-114,Fire-Dragon Spiral,2,Traps the foe for 4-5 turns.
-115,Backdraft,2,10% chance to burn the foe.
-116,Flashover,2,30% chance to burn the foe.
-117,Flame Wave,2,50% chance to raise the user's SpAtk.
-118,Fire Wall,2,If the foe holds an item, the attack is 50% stronger and destroys the item.
-119,Fire-Snake Spiral,2,Traps the foe for 4-5 turns.
-120,Will-o'-Wisp,0,Burns and blinds the foe.
-121,Thermit,0,Heavily burns the foe.
-122,Terrain [Suzaku],0,Changes the terrain to Suzaku for 5 turns. During Suzaku, healing effects cause harm.
-123,Fireball,1,10% chance to burn the foe.
-124,Flame Pillar,2,20% chance to burn the foe.
-125,Fiery Game,2,10% chance to burn the foe.
-126,Flare,2,10% chance to burn the foe.
-127,Fire Sign,2,A normal attack. A puppet can only know one sign skill at a time.
-128,Rub Burn,0,Burns the foe.
-151,High Tide,1,A normal attack.
-152,Waterfall Drop,1,A normal attack.
-153,Flash Flood,1,A normal attack that lands critical hits often.
-154,Ice Coffin,2,20% chance to make the foe flinch.
-155,Aqua Javelin,1,20% chance to lower the foe's Speed.
-156,Reverse Splash,2,Power doubles if the foe attacks the user on the same turn.
-157,Aquasonic,1,A normal attack with increased priority.
-158,Aqua Cutter,1,A normal attack with increased priority.
-159,Ice Gatling,1,Hits two to five times.
-160,Aqua Cannon,2,Power decreases if the user is not at full HP.
-161,Aqua Rake,2,The user cannot move next turn.
-162,Cold Rain,2,10% chance to stop the foe.
-163,Ice Age,2,10% chance to lower the foe's Speed.
-164,Frozen Prison,1,A normal attack.
-165,Lazy Mist,2,30% chance to weaken the foe.
-166,Geyser,1,A normal attack that always lands critical hits.
-167,Slime Shot,1,Lowers the foe's Speed.
-168,Veil of Water,2,For 5 turns, the user's side cannot have their stats lowered by the foe's side.
-169,Heavy Rain,2,Traps the foe for 4-5 turns.
-170,Cloudburst,0,Raises the user's FoAtk and FoDef at the cost of Speed.
-171,Ebb Tide,0,Harshly lowers the foe's Speed.
-172,Aquatic Waltz,0,Changes the foe's type to Water.
-173,Drought,0,Weakens the foe.
-174,Terrain [Genbu],0,Changes the terrain to Genbu for 5 turns. During Genbu, slower puppets move first.
-175,Water Ball,1,A normal attack.
-176,Frost Edge,1,10% chance to stop the foe.
-177,Foam Bubbles,1,A normal attack.
-178,Snowball Fight,1,10% chance to lower the foe's Speed.
-179,Water Sign,2,A normal attack. A puppet can only know one sign skill at a time.
-180,Quagmire,0,Lowers the foe's Speed.
-201,Tumble Plant,1,Power is higher if the foe's cost is high.
-202,Root Frog,2,A normal attack.
-203,Peach-Thorn Arrow,1,The user takes 1/3 of the damage in recoil.
-204,Voice of Famine,2,10% chance to weaken the foe.
-205,Natural Beauty,1,20% chance to lower the foe's FoAtk.
-206,Grass Javelin,1,10% chance to weaken the foe.
-207,Power Drain,2,The user recovers half of the damage dealt.
-208,Hornet's Flit,1,Hits two to five times.
-209,Sakura Blizzard,1,10% chance to weaken the foe.
-210,Off-Season Bloom,2,Harshly lowers the user's SpAtk.
-211,Petal Dance,2,The user attacks for 2-3 turns, then becomes confused.
-212,Rainbow Flowers,2,A two-turn skill. The user charges on the first turn. Works instantly during Aurora.
-213,Pollen Mist,2,10% chance to lower the foe's SpAtk.
-214,Energy Absorb,2,The user recovers half of the damage dealt.
-215,Swirling Leaves,1,Always hits.
-216,Forest Therapy,0,Heals the user's party of all status ailments.
-217,Fountain of Life,0,The user recovers a little HP every turn, but becomes unable to switch or be blown away.
-218,Thorned Ivy,0,Blocks all damage from the foe's attack and counters strong attacks. May fail if used consecutively.
-219,Drain Seed,0,The foe's HP is drained to the user's side every turn. Does not work on Nature-type puppets.
-220,Grace of Mana,0,Restores half of the user's HP.
-221,White Lily Dance,0,The user faints. The next puppet to come out is restored to full HP and normal status.
-222,Fairy Dance,0,Raises the user's SpAtk, SpDef, and Speed.
-223,White Mist,0,Drastically raises the user's SpAtk.
-224,Mystic Wind,0,Drastically raises the user's FoDef.
-225,Bewitching Pollen,0,Stops the foe. Does not work on Nature-type puppets.
-226,Mystical Bug Mist,0,Paralyzes the foe.
-227,Terrain [Seiryu],0,Changes the terrain to Seiryu for 5 turns. During Seiryu, types do not interact.
-228,Butterfly's Flit,0,The user recovers a little HP every turn.
-229,Parasite,2,The user recovers half of the damage dealt.
-230,Apple Bomb,1,A normal attack that lands critical hits often.
-231,Scatter Beans,1,A normal attack.
-232,Seasonal Flowers,1,10% chance to lower the foe's Sp.Atk.
-233,Nature Sign,2,A normal attack. A puppet can only know one sign skill at a time.
-234,Root Injection,0,Poisons the foe.
-251,Shattering Earth,1,Defeats the foe if it hits, regardless of their HP.
-252,Cataclysm,1,The user cannot move next turn.
-253,Shooting Press,2,A normal attack.
-254,Rocky Barrage,1,A normal attack that lands critical hits often.
-255,Royal Prism,2,30% chance to make the foe flinch.
-256,Rock Drills,1,A normal attack that always lands critical hits.
-257,Spiked Stones,1,Lowers the foe's Speed.
-258,Dust Cloud,1,30% chance to lower the foe's Accuracy.
-259,Stone Throw,1,Hits twice.
-260,Dust Devil Gate,1,Traps the foe for 4-5 turns.
-261,Godstone Frenzy,1,Hits two to five times.
-262,Waves of Earth,2,10% chance to lower the foe's Accuracy.
-263,Unstable Horizon,2,30% chance to lower the foe's Accuracy.
-264,Jewelry Storm,1,A normal attack.
-265,Landslide,1,Power doubles if the foe has less than half of their HP.
-266,Stone Circle,1,10% chance to raise all of the user's stats.
-267,Mine Trap,0,Lays a trap that hurts foes entering the field. Can be set up to 3 times.
-268,Weather [Duststorm],0,Changes the weather to Dust Storm for 5 turns. This harms puppets of most types.
-269,Mud Dango,1,A normal attack.
-270,Stone Rain,1,20% chance to make the foe flinch.
-271,Slingshot,1,Lowers the foe's Accuracy.
-272,Mudslide,1,10% chance to lower the foe's Accuracy.
-273,Earth Sign,2,A normal attack. A puppet can only know one sign skill at a time.
-274,Racing Earth,0,Sharply raises the user's Speed.
-275,Terrain [Kohryu],0,Changes the terrain to Kohryu for 5 turns. This disables the effects of items and abilities.
-276,Earthen Feast,1,10% chance to lower the foe's Accuracy.
-277,Realm [Gold],0,Summons Dust Storm weather and Kohryu terrain.
-278,Destruction Rift,1,Will double in power during any terrain, as well as cancel the terrain.
-301,Clearing Mist,1,Power is higher if the foe's cost is high.
-302,Mirror's Reflection,2,Damage is 50% more than the damage taken from the foe's attack on the same turn.
-303,Impact Rebellion,1,Power is proportional to the foe's Speed, and inversely proportional to the user's Speed.
-304,Full Metal Crash,1,The user takes half of the damage in recoil.
-305,Samurai Edge,1,10% chance to raise the user's FoAtk.
-306,Brandish,1,The user takes 1/3 of the damage in recoil.
-307,Armor Pierce,1,10% chance to make the foe flinch.
-308,Killing Bite,1,A normal attack that always lands critical hits.
-309,Reversal Sword,1,Always hits.
-310,Overtake Strike,1,A normal attack with increased priority.
-311,Last Slash,1,Ruins the user's stance, preventing them from avoiding attacks.
-312,Silver Rain,2,10% chance to raise the user's SpAtk.
-313,Chrome Ray,2,10% chance to lower the foe's SpDef.
-314,Twin Gears,1,Hits twice.
-315,Rapid Throw,1,Hits two to five times.
-316,Focused Stance,0,Raises the user's FoAtk and Accuracy.
-317,Strenuous Stance,0,Sharply raises the user's FoAtk.
-318,Mad Rush Stance,0,Raises the user's FoAtk, and sharply raises their Speed.
-319,Iron Wall Stance,0,Sharply raises the user's FoDef.
-320,Vigilant Watch,0,Sees through the foe's stance, preventing them from avoiding the next attack.
-321,Terrain [Byakko],0,Changes the terrain to Byakko for 5 turns. This prevents anyone from avoiding attacks.
-322,Stealth Trap,0,Lays a trap that hurts foes entering the field. The trap's damage is Steel-typed.
-323,The Ripper,1,A normal attack that lands critical hits often.
-324,Hammer Throw,1,A normal attack that lands critical hits often.
-325,Knife Throw,1,10% chance to lower the foe's SpDef.
-326,Metal Needle,1,20% chance to raise the user's SpAtk.
-327,Steel Sign,2,A normal attack. A puppet can only know one sign skill at a time.
-328,Single-Minded,0,Raises the user's FoAtk.
-329,Hammer Bash,2,10% chance to lower the foe's FoDef.
-351,Gensokyo Typhoon,2,A two-turn skill. The user charges on the first turn. Lands critical hits more often.
-352,Foehn Winds,1,The user takes 1/3 of the damage in recoil.
-353,Wind Javelin,1,10% chance to make the foe flinch.
-354,Air Stamp,1,Forces the foe to switch out for a random puppet after doing damage. Ends battles against wild puppets.
-355,Thieving Wind,2,Steals the foe's held item for yourself.
-356,Wind Train,2,Always hits.
-357,Twister,1,Hits two to five times.
-358,Great Tornado,2,Traps the foe for 4-5 turns.
-359,Macroburst,2,30% chance to confuse the foe.
-360,Swift Air-Raid,2,Always hits. Bypasses the effects of Magical Barrier.
-361,Wind Wave,2,30% chance to make the foe flinch.
-362,Dancing Wind,2,10% chance to raise all of the user's stats.
-363,Smash Spin,2,Clears the user's side of some binding effects, Drain Seed, and Trap skills.
-364,Spring First,2,A normal attack with increased priority.
-365,Wind God's Grace,0,For five turns, the user's party's Speed is doubled. Six turns during Calm weather.
-366,Squall,0,Forces the foe to switch out for a random puppet. Ends battles against wild puppets.
-367,Perch,0,Restores half of the user's HP, and grounds the user for the rest of the turn.
-368,Favorable Wind,0,Raises the user's Evasion.
-369,Skanda,0,Sharply raises the user's Speed.
-370,Weather [Calm],0,Changes the weather to Calm for 5 turns. During Calm, random secondary effects of skills are blocked.
-371,Feather Shot,2,A normal attack.
-372,Wintry Wind,2,A normal attack that lands critical hits often.
-373,Night Wind,2,A normal attack.
-374,Westerlies,2,20% chance to raise the user's Speed.
-375,Wind Sign,2,A normal attack. A puppet can only know one sign skill at a time.
-376,Sharp Wind,0,Raises the user's SpAtk and Speed.
-377,Flying Frenzy,1,10% chance to make the foe flinch.
-378,Spinning Air,2,10% chance to make the foe flinch.
-379,Realm [Serenity],0,Summons Calm weather and Seiryu Terrain.
-380,Passing Breeze,2,Will double in power during any weather, as well as cancel the weather.
-401,Thor's Hammer,1,The user takes 1/3 of the damage in recoil. 10% chance to paralyze the foe.
-402,Lightning Cut,1,10% chance to raise the user's Speed.
-403,Spark Javelin,1,10% chance to paralyze the foe.
-404,Plasma Ball,1,Paralyzes the foe.
-405,Thunderlord's Scorn,2,10% chance to paralyze the foe.
-406,Divine Thunder,2,Paralyzes the foe.
-407,Thunder Force,2,10% chance to paralyze the foe.
-408,Stormcloud's Eye,2,30% chance to paralyze the foe.
-409,Charge Thief,2,The user recovers half of the damage dealt.
-410,Lightning Speed,1,If it inflicts damage, the user switches for another puppet. Ends battles against wild puppets.
-411,Spark Cross,2,Lowers the foe's Speed.
-412,Purple Lightning,2,70% chance to raise the user's SpAtk.
-413,Lightning Charge,0,Raises the user's SpDef. If an Electric-type skill is used next turn, its power is doubled.
-414,High Magnetism,0,Changes the next skill the foe uses to Electric-type.
-415,Thunder Veil,0,Paralyzes and confuses the foe.
-416,Paralyzing Wave,0,Paralyzes the foe.
-417,Spark Shot,2,10% chance to paralyze the foe.
-418,Graze Bolt,2,20% chance to paralyze the foe.
-419,Lightning Strike,2,10% chance to paralyze the foe.
-420,Energy Bolt,2,10% chance to stop the foe.
-421,Electric Sign,2,A normal attack. A puppet can only know one sign skill at a time.
-422,Thunderclap,0,100% chance to make the foe flinch.
-423,Thunder Drill,1,A normal attack that always lands critical hits.
-424,Shocking Wave,0,Shocks the foe. Does not work on Earth-type puppets.
-451,Luminous Flux,2,The user takes 1/3 of the damage in recoil.
-452,Evil-Crushing Arrow,1,10% chance to make the foe flinch.
-453,Atomic Energy,2,The user recovers half of the damage dealt.
-454,Light Javelin,1,10% chance to confuse the foe.
-455,Sunbeam Dance,2,If the Weather is not clear, inflicts double damage and removes it.
-456,Over Ray,2,A normal attack with increased priority.
-457,Pulse Laser,2,The user cannot move next turn.
-458,Arclight,2,Harshly lowers the user's SpAtk.
-459,Moonbow,1,A normal attack.
-460,Star Flare,1,20% chance to lower the foe's Accuracy.
-461,Field Barrier,0,The user's side takes half damage from Spread skills for five turns.
-462,Field Protect,0,The user's side takes half damage from Focus skills for five turns.
-463,Lucky Rainbow,0,The user's side is protected from abnormal status for five turns.
-464,Sun's Protection,0,Raises the user's FoAtk and SpAtk. More potent during Calm and Aurora.
-465,Moon's Protection,0,Raises the user's SpAtk and SpDef.
-466,Astrology,0,Harshly lowers the foe's FoAtk.
-467,Solar Eclipse,0,Scares and confuses the foe.
-468,Flash Bullet,0,Confuses the foe.
-469,Weather [Aurora],0,Changes the weather to Aurora for 5 turns. This strengthens Light attacks and weakens Dark attacks.
-470,Light Up,2,A normal attack that lands critical hits often.
-471,Angel Ladder,2,20% chance to lower the foe's Accuracy.
-472,Light of Origin,2,A normal attack.
-473,Diffusion Laser,2,20% chance to make the foe flinch.
-474,Light Sign,2,A normal attack. A puppet can only know one sign skill at a time.
-475,Gathered Stars,0,Raises the user's FoAtk.
-476,Realm [Corona],0,Summons Aurora weather and Byakko terrain.
-501,Twilight Infection,2,A normal attack.
-502,Dark Sphere,2,20% chance to make the foe flinch. Power increases against camouflage users and guaranteed to hit. 
-503,Blackout,1,30% chance to blind the foe.
-504,Changeling,1,If it inflicts damage, the user switches for another puppet. Ends battles against wild puppets.
-505,Panic Call,2,If the foe holds an item, the attack is 50% stronger and knocks away the item.
-506,Lost Crisis,1,If a Terrain is active, inflicts double damage and removes it.
-507,Dark Arrow,1,Hits twice.
-508,Dark Innocence,2,Hits two to five times.
-509,Darkness Dance,1,The user attacks for 2-3 turns, then becomes confused.
-510,Dark Sweets,2,10% chance to blind the foe.
-511,Eye of Laplace,1,A normal attack that lands critical hits often.
-512,Infinite Darkness,2,Traps the foe for 4-5 turns.
-513,Shark Trade,0,Trades hold items with the foe.
-514,Black Hole,0,The foe becomes unable to switch out until the user leaves the field.
-515,Puppet's Grudge,0,The user faints to harshly lower the foe's FoAtk and SpAtk.
-516,Dark Power,0,Raises the user's FoAtk and FoDef.
-517,Bind Trap,0,Lays a trap that lowers the Speed of foes entering the field.
-518,Sweet Nightmare,0,Blinds the foe.
-519,Weather [Heavy Fog],0,Changes the weather to Fog for 5 turns. This strengthens Dark attacks and weakens Light attacks.
-520,Dark Ball,1,10% chance to blind the foe.
-521,Ominous Doll,1,10% chance to blind the foe.
-522,Bad Moon,1,10% chance to blind the foe.
-523,Bloody Storm,2,10% chance to make the foe flinch.
-524,Dark Sign,2,A normal attack. A puppet can only know one sign skill at a time.
-525,Dead of Night,0,Raises the user's Evasion.
-526,Night Step,1,A normal attack.
-527,Creeping Darkness,0,Poisons and blinds the foe.
-528,Realm [Scarlet Mist],0,Summons Heavy Fog weather and Suzaku terrain.
-551,Venom Nova,1,10% chance to poison the foe.
-552,Dust Bomb,1,30% chance to poison the foe.
-553,Poisoned Arrow,1,10% chance to poison the foe. Lands critical hits more often.
-554,Venom Strike,1,20% chance to poison the foe. Cannot be used when holding an item.
-555,Poison Bomb,1,10% chance to poison the foe.
-556,Venom Fang,1,30% chance to poison the foe.
-557,Mysterious Liquid,1,Does double damage if the foe is poisoned.
-558,Negative Mist,2,Always hits. Clears the foe's stat modifiers.
-559,Toxic Spiral,2,Harshly lowers the foe's SpDef.
-560,Poison Trap,0,Lays a trap that poisons foes entering the field. Can be stacked up to twice.
-561,Miasma,0,Harshly poisons the foe. Always hits if the user is Poison-type.
-562,Purple Smog,2,10% chance to poison the foe.
-563,Slime Ball,1,20% chance to harshly poison the foe.
-564,Smog Shot,1,30% chance to poison the foe.
-565,Toxic Haze,2,20% chance to harshly poison the foe.
-566,Poison Sign,2,A normal attack. A puppet can only know one sign skill at a time.
-567,Contagion,0,Poisons the foe.
-568,Poison Stream,2,A normal attack.
-569,Depressing Rain,2,Always hits. Clears the foe's stat modifiers.
-570,Sweet Desperado,2,Harshly lowers the user's SpAtk.
-571,Acid Tears,0,Poisons and scares the foe.
-601,Midnight Specter,1,The user takes 1/3 of the damage in recoil.
-602,Stalk and Murder,1,A two-turn skill. The user vanishes on the first turn. Bypasses Field Barriers. 
-603,Shadow Javelin,1,10% chance to scare the foe.
-604,Soul Hound,2,Always hits.
-605,Unfettered Soul,2,Does double damage if the user is not holding an item.
-606,Shadow Bomb,1,A normal attack with increased priority.
-607,Charon Ferries,2,Damage is equal to the user's level.
-608,Poltergeist,1,10% chance to scare the foe.
-609,Starving Spirit,1,A normal attack.
-610,Ghost Wave,2,30% chance to scare the foe.
-611,Love or Pain,1,Does double damage if the foe has a status ailment.
-612,Soul Eater,1,10% chance to raise all of the user's stats.
-613,Call of the Dead,0,If the user faints due to a Skill before their next action, the foe also faints.
-614,Curse Reversal,0,Adds the user's and foe's current HP and sets both to half of that.
-615,Shinigami's Waltz,0,Consumes half of the user's HP to sap a fourth of the foe's HP every turn.
-616,Jinx,0,Seals the skill the foe last used for four turns.
-617,Scorn,0,The last skill the foe used loses 4 SP.
-618,Behind You!,0,Scares the foe.
-619,Ghost Trick,1,10% chance to make the foe flinch.
-620,Specter Warning,1,10% chance to make the foe flinch.
-621,Soul Walking,1,30% chance to scare the foe.
-622,Play Ghost,1,10% chance to scare the foe.
-623,Nether Sign,2,A normal attack. A puppet can only know one sign skill at a time.
-624,Stone Pile,0,Raises the user's SpDef.
-625,Specter's Waltz,1,10% chance to scare the foe.
-626,Ghost Chase,0,Makes the user immune to Fighting-type skills.
-627,Eye of Calamity,0,Burns and scares the foe.
-651,Cross Counter,1,Damage is twice the damage taken from the foe's Focus attack on the same turn.
-652,Mountain Breaker,1,Power is higher if the foe's cost is high.
-653,Aikido Arts,1,Damage is equal to the user's level.
-654,Dire State,2,Power is higher the lower the user's current HP is.
-655,Vacuum Rupture,1,The user cannot move next turn.
-656,Meteor Impact,1,Fails if the user is hurt on the same turn they try to use this Skill.
-657,Reckless Dive,1,If the skill fails to inflict damage, the user loses half of their HP.
-658,Exploding Fist,1,Confuses the foe.
-659,Heavenly Ascent,1,Lowers the user's FoDef and SpDef.
-660,Cross Drive,1,Lowers the user's Speed.
-661,Dancing Sword,1,A normal attack that lands critical hits often.
-662,Life Burst,2,Always hits.
-663,Aura Drain,1,The user recovers half of the damage dealt.
-664,Break Shot,1,Breaks the foe's Field Barrier and Field Protect effects before doing damage.
-665,Diligence,2,Power doubles if you take damage from a foe's Skill on the same turn.
-666,Charging Stun,1,Forces the foe to switch out for a random puppet after doing damage. Ends battles against wild puppets.
-667,Corkscrew,1,70% chance to raise the user's FoAtk.
-668,Strike Shot,1,A normal attack with increased priority.
-669,Divine Punishment,2,The user faints to deal damage equal to the current HP.
-670,GIGANTIC,2,10% chance to lower the foe's SpDef.
-671,Concussion,2,20% chance to make the foe flinch.
-672,Understep,1,Lowers the foe's Speed.
-673,Twin Thrust,1,Hits twice.
-674,Rush Attack,1,Hits two to five times.
-675,Hachiman's Blessing,0,Greatly increases the chance that the user will land a critical hit.
-676,Forward Thrust,1,A normal attack that lands critical hits often.
-677,Backhand Blow,1,A normal attack.
-678,Skull Breaker,1,A normal attack
-679,Spiral Strike,2,10% chance to raise the user's SpAtk.
-680,Fighting Sign,2,A normal attack. A puppet can only know one sign skill at a time.
-681,Tense Up,0,Raises the user's FoDef.
-682,Brave Burst,2,A normal attack.
-683,Shooting Arts,1,Hits two to five times.
-701,Miracle Reprisal,2,Power increases the more the foe's stats have been increased.
-702,Revolving Illusions,2,Uses the foe's FoAtk instead of the user's.
-703,Ephemeral,2,10% chance to lower the foe's FoDef.
-704,Sneak Attack,1,Fails if the foe is not readying an attacking Skill, or if the foe moves first.
-705,Mirage Edge,1,A normal attack that lands critical hits often.
-706,Flower of Hell,1,30% chance to break the foe's stance, preventing them from avoiding the next attack.
-707,St. Elmo's Fire,1,If the foe holds an item, the attack is 50% stronger and destroys the item.
-708,Fake Jewel,1,""I'm just borrowin' it 'till I'm dead."" Steals foe's held item.
-709,Invisible Heart,2,Always hits.
-710,Reprimand,1,Power doubles if moving second.
-711,Pursuit,1,If the foe attempts to switch on the same turn, attacks the fleeing puppet for double damage.
-712,Gravity Blast,2,Power decreases if the foe is not at full HP.
-713,Moon's Reflection,2,Damage is twice the damage taken from the foe's Spread attack on the same turn.
-714,Catastrophe,2,10% chance to lower the foe's SpDef.
-715,Glamor Pandemic,2,Confuses the foe.
-716,Unknown Flare,2,30% chance to confuse the foe.
-717,Mysterious Wave,2,Attacks against the foe's FoDef instead of their SpDef.
-718,Continue,0,The user recovers all HP and status, but is stopped for two turns.
-719,Mirage,0,Reflects Status skills back to the other party.
-720,Near-Death Event,0,Duplicates the effect of the last used Skill.
-721,Amnesia,0,The foe will be stopped at the end of the next turn.
-722,Power Swap,0,Switches the user's changes to FoAtk and SpAtk with the foe's.
-723,Power Split,0,Averages the user's FoAtk and SpAtk with the foe's.
-724,Cross Change,0,Switches the user's Ability with the foe's.
-725,Guard Swap,0,Switches the user's changes to FoDef and SpDef with the foe's.
-726,Guard Split,0,Averages the user's FoDef and SpDef with the foe's.
-727,Pretense,0,Changes the user's type to the type of the first Skill they know.
-728,Doppelganger,0,Changes the user's type to the foe's type.
-729,Imagination,0,Switches the user's FoAtk and FoDef.
-730,Honest Man's Lie,0,Moves the user's status ailment to the foe.
-731,Possession,0,Changes the user's Ability to the foe's Ability.
-732,Projection,0,The user copies all of the foe's stat modifiers.
-733,Recall Nightmare,0,Changes the foe's Ability to Active, removing their old ability and preventing them from being Stopped.
-734,Mind Control,0,Changes the foe's Ability to the user's Ability.
-735,Gorgon's Eye,0,Stops the foe.
-736,Bout Drunkard,0,Stops the foe.
-737,Illusion Bullets,1,A normal attack.
-738,Mirror World,2,30% chance to make the foe flinch.
-739,Mysterious Flare,2,A normal attack.
-740,Imaginary Friend,2,10% chance to lower the foe's SpDef.
-741,Illusion Sign,2,A normal attack. A puppet can only know one sign skill at a time.
-742,Heat Haze,0,Lowers the foe's FoAtk.
-743,Hallucination,2,A normal attack.
-744,Word Break,0,Seals two of the foe's skills for four turns.
-751,Detonation Burst,2,Lowers the user's FoAtk and FoDef.
-752,High Tone Crush,1,10% chance to lower one of the foe's stats randomly.
-753,Dancing Rain,1,50% chance to lower the foe's FoDef.
-754,Phantom Ensemble,2,Lowers the foe's FoAtk.
-755,Danmaku Orchestra,2,A normal attack.
-756,Ultra High Tone,1,10% chance to raise one of the user's stats randomly.
-757,Primal Noise,2,50% chance to lower the foe's SpDef.
-758,Fantasy Melody,2,Always hits.
-759,Sorrowful Tune,2,Lowers the foe's SpAtk.
-760,Infinite Scales,2,Power increases the more the user's stats have been increased.
-761,Encourage,0,Forces the foe to keep using the Skill they last used for three turns.
-762,Upbeat,0,Prevents the foe from using Status Skills for three turns.
-763,A Tempo,0,Clears everyone's stat modifiers.
-764,Booing,0,Forces the foe to switch out for a random puppet. Ends battles against wild puppets.
-765,Ruinous Voice,0,Both puppets will faint in 3 turns. Switching out ends the effect.
-766,Brave Song,0,Sharply raises the user's SpAtk.
-767,Cheer,0,Sharply raises the user's SpDef.
-768,Merry Dance,0,Raises the user's FoDef and SpDef.
-769,Inspiration,0,Sharply raises the user's FoDef.
-770,Decrescendo,0,Lowers the foe's FoAtk and SpAtk. The user then switches for another puppet. Ends battles against wild puppets.
-771,Shout,0,Lowers the foe's FoAtk.
-772,Shriek,0,Lowers the foe's SpAtk.
-773,Bellow,0,Lowers the foe's SpDef.
-774,Phase Inversion,0,Inverts the foe's stat modifiers.
-775,Roar,0,Sharply lowers the foe's FoDef.
-776,Claim,0,Prevents the foe from using the same Skill twice in a row.
-777,Lullaby,0,Stops the foe.
-778,Howling Voice,2,A normal attack.
-779,Ambient,2,10% chance to lower one of the foe's stats randomly.
-780,Soprano Voice,2,A normal attack.
-781,Waltz,2,10% chance to raise one of the user's stats randomly.
-782,Sound Sign,2,A normal attack. A puppet can only know one sign skill at a time.
-783,Tuning,0,Raises the user's SpAtk.
-801,Overdrive,2,Harshly lowers the user's FoAtk.
-802,Distortion Bomb,1,10% chance to lower the foe's FoDef.
-803,Alluring Maze,2,Attacks against the foe's SpDef instead of their FoDef.
-804,Stealth Kill,1,Always hits. Bypasses the effects of Magical Barrier.
-805,Trickster,1,A normal attack with increased priority.
-806,Dense Fog Bloom,2,A two-turn skill. The user charges on the first turn. Works instantly during Heavy Fog.
-807,Impulse,2,10% chance to lower the foe's SpDef.
-808,Luscious Whisper,2,Attacks against the foe's FoDef instead of their SpDef.
-809,Field Break,1,Breaks the foe's Field Barrier and Field Protect effects before doing damage.
-810,Irreversible Trick,2,Ignores Field Protect and Barrier Option, will increase in power if foe uses a support skill.
-811,Mirror Damage,2,Power doubles if you take damage from a foe's Skill on the same turn.
-812,Force Shield,0,Removes your weaknesses and resistances this turn to greatly limit damage. May fail if used consecutively.
-813,Element Reverse,0,Inverts the foe's weaknesses and resistances.
-814,Field Shift,0,Moves the foe's Field Barrier, Field Protect, Lucky Rainbow, and Magical Barrier to your side.
-815,Soul Corruption,0,Blinds and confuses the foe.
-816,Weather [Sunshower],0,Changes the weather to Sunshower for 5 turns. During Sunshower, FoDef and SpDef are switched.
-817,Warped Sign,2,A normal attack. A puppet can only know one sign skill at a time.
-818,Realm [Black Rain],0,Summons Sunshower weather and Genbu terrain.
-819,Time Screw,2,Always hits.
-820,Limitless Realm,0,Cancels all weather and terrain.
-821,Supernova,0,Shinki EX only. Causes two random status effects. Always hits.
-822,Blitzkrieg,0,Power doubles if the user moves before the target or the target switches.
-823,Take Over,0,Uses the foe's SpAtk instead of the user's.
-824,Omen,0,Lowers the user's SpAtk and SpDef.
-825,Flash,0,A normal attack with increased priority.
-826,Last Farewell,0,Komachi EX only. Defeats the opponent if it hits.
-827,Spear The Gungnir,0,Remilia EX only. Defending impossible.
-828,Fantasy Seal,0,Reimu EX only. Always hits. Strikes 2-5 times.
-829,Dual Spark,0,Yuuka EX only. Hits twice.
-830,Score Web,0,Benben EX only. If the foe holds an item, attack is 50% stronger and removes said item.
-831,Orreries Sun,0,Mima EX only. Increases all stats by 1 stage.
-832,Swallowtail Lance,0,Yuyuko EX only. Heal 50% of the damage dealt.
-839,Laevateinn,0,Flandre EX only. Lowers SPAtk and SpDef after use.
-840,Stun Bomb,0,Yumemi EX only. Paralyzes the enemy. Strikes first.
-841,Goddess' Decree,0,Shinki EX only. Increases all stats by 1 stage.
-842,Quadruple Barrier,0,Yukari EX only. Increases FoDef after dealing damage. Always hits.
-843,Bombardment,0,Yumemi EX only. Hits twice. Strikes first.
-844,Calamity Scythe,0,Applies weak. Amnisieri only.
-845,Calamity,0,Inflicts 2 random status ailments.
-846,Boundary Rend,0,Maribel EX only. Sets enemy HP to 1.
-847,Season [Winter],0,Replicates the effects of Genbu and Duststorm.
-848,Season [Spring],0,Replicates the effects of Seiryuu and Sunshower.
-849,Season [Summer],0,Replicates the effects of Suzaku and Aurora.
-850,Season [Fall],0,Replicates the effects of Byakko and Heavy Fog.
-851,Season [Doyou],0,Replicates the effects of Kohryu and Calm.
-852,Rainbow Shot,0,Replicates Veil of Water.
-853,Fading Out,0,The user switches for another puppet. Ends battles against wild puppets.
-854,unused,0,unused
-855,Unused,0,Unused
-856,Blade Dance,0,Yumeko EX only. Replicates Smash Spin. Always hits.
-857,unused,0,unused
-858,Master Spark,0,Marisa EX only. Ignores the opponent's stat modifiers.
-859,Rainbow Slash,0,Kogasa EX only. High flinch rate.
-860,Electric Heritage,0,Heals for half the damage dealt.
+Death Match,1,Power is higher the lower the user's current HP is.
+Perfect Aim,1,Defeats the foe if it hits, regardless of their HP.
+Phantasmagoria,0,(unimplemented)
+Prank,1,Halves the foe's current HP.
+Recompensate,1,Lowers the foe's HP to be the same as the user's HP.
+Whole Being,1,Bypasses half of the foe's FoDef, but the user faints.
+Final Tribulation,1,Bypasses half of the foe's FoDef, but the user faints. Is more powerful for Void-types.
+Last Resort,1,Can only be used when all other skills have been used once.
+Firm Spirit,2,A two-turn skill. On the first turn, the user's FoDef is raised.
+Overskill,2,The user takes 1/3 of the damage in recoil.
+Spirit Rush,2,The user takes 1/4 of the damage in recoil.
+Frenzied Joururi,1,A normal attack.
+Swallow Cut,1,A normal attack with increased priority.
+Blow from Calamity,2,Power doubles if the user has a status ailment. Ignores the penalty from Dark status.
+Retaliation,1,Power doubles if an ally was defeated last turn.
+Piercing Stab,1,Ignores the opponent's stat modifiers.
+Struggle,1,(struggle's description should not be visible)
+Cruciform,1,Hits twice.
+Raid,1,Will always make the foe flinch, but can only be used on entering combat.
+Tiger Rush,1,A normal attack with increased priority.
+Shadow Rush,1,Bypasses Supernatural Border and Thorned Ivy, and has increased priority.
+Danmaku Dance,2,The user attacks for 2-3 turns, then becomes confused.
+Crossbow Assault,2,30% chance to paralyze the foe.
+Tri-Effect,2,20% chance to paralyze, blind, or scare the foe.
+Destruction,2,30% chance to make the foe flinch.
+Volley,2,Always hits.
+Heavenly Blessing,2,During weather, power doubles and the type changes.
+Earthly Blessing,2,During terrain, power doubles and the type changes.
+Random Shots,2,Hits two to five times.
+False Courage,0,Attempts to survive the next attack with 1 HP. May fail if used consecutively.
+Supernatural Border,0,Blocks all damage from the foe's attack. May fail if used consecutively.
+Magic Barrier,0,Puts up a barrier using a fourth of the user's max HP.
+Invoke Deity,0,Sharply raises one of the user's stats randomly.
+First Aid,0,Restores half of the user's HP.
+Resourcefulness,0,Recovers a used held item.
+Power Spot,0,At the end of the next turn, the current puppet regains half of the user's max HP.
+Unconscious Mind,0,Can only be used while stopped. Randomly uses another skill.
+Inner Power,0,Sacrifices half of the user's HP to maximize FoAtk.
+Camouflage,0,Sharply raises the user's Evasion.
+Imposing Air,0,Raises the user's FoAtk and Speed.
+Offensive Trance,0,Sharply raises the user's FoAtk, SpAtk, and Speed at the cost of FDef and SDef.
+Battle Preparation,0,Raises the user's FoAtk, FoDef, and Accuracy.
+Foresee,0,Attempts to use the attacking skill the foe will use, with 50% more power.
+Confine,0,Paralyzes the foe.
+Backup Plan,0,Switches to another puppet. That puppet inherits the user's stat modifiers.
+Yin Energy,2,A normal attack.
+Guided Missile,2,10% chance to make the foe flinch.
+Yang Energy,2,A normal attack.
+Scatter Beam,2,A normal attack that lands critical hits often.
+Good Luck,0,Raises one of the user's stats randomly.
+Shield Up,0,Raises the user's FoDef.
+Barrier Up,0,Raises the user's SpDef.
+Speedy Barrage,2,A normal attack.
+Dense Barrage,2,A normal attack.
+Overrun,2,A normal attack.
+Focused Movement,0,Raises the user's FoAtk and FoDef at the cost of Speed.
+Eternal Record,0,Replicates Field Barrier, Field Protect, and Lucky Rainbow, but the user faints.
+Recollection,0,Copies all of the foe's attributes.
+Heavenly Influence,2,During weather, power doubles and the type changes.
+Earthly Influence,1,During terrain, power doubles and the type changes.
+Conflagration,2,Power is higher if the user's Cost is higher than the foe's.
+Purgatory Flicker,1,The user takes 1/3 of the damage in recoil. 10% chance to burn the foe.
+Holy Flare,2,50% chance to burn the foe.
+Burn Strike,1,10% chance to burn the foe. Lands critical hits more often.
+Exploding Blaze,2,30% chance to burn the foe.
+Fire Javelin,1,10% chance to burn the foe.
+Rising Sun,1,Raises the user's Speed.
+Phoenix Waltz,1,Power decreases if the user is not at full HP.
+Deflagration,2,The user cannot move next turn.
+Volcano,2,Harshly lowers the user's SpAtk.
+Inferno,2,10% chance to burn the foe.
+Blaze Spear,1,10% chance to burn the foe.
+Blaze of Tenmei,1,Burns the foe.
+Fire-Dragon Spiral,2,Traps the foe for 4-5 turns.
+Backdraft,2,10% chance to burn the foe.
+Flashover,2,30% chance to burn the foe.
+Flame Wave,2,50% chance to raise the user's SpAtk.
+Fire Wall,2,If the foe holds an item, the attack is 50% stronger and destroys the item.
+Fire-Snake Spiral,2,Traps the foe for 4-5 turns.
+Will-o'-Wisp,0,Burns and blinds the foe.
+Thermit,0,Heavily burns the foe.
+Terrain [Suzaku],0,Changes the terrain to Suzaku for 5 turns. During Suzaku, healing effects cause harm.
+Fireball,1,10% chance to burn the foe.
+Flame Pillar,2,20% chance to burn the foe.
+Fiery Game,2,10% chance to burn the foe.
+Flare,2,10% chance to burn the foe.
+Fire Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+Rub Burn,0,Burns the foe.
+High Tide,1,A normal attack.
+Waterfall Drop,1,A normal attack.
+Flash Flood,1,A normal attack that lands critical hits often.
+Ice Coffin,2,20% chance to make the foe flinch.
+Aqua Javelin,1,20% chance to lower the foe's Speed.
+Reverse Splash,2,Power doubles if the foe attacks the user on the same turn.
+Aquasonic,1,A normal attack with increased priority.
+Aqua Cutter,1,A normal attack with increased priority.
+Ice Gatling,1,Hits two to five times.
+Aqua Cannon,2,Power decreases if the user is not at full HP.
+Aqua Rake,2,The user cannot move next turn.
+Cold Rain,2,10% chance to stop the foe.
+Ice Age,2,10% chance to lower the foe's Speed.
+Frozen Prison,1,A normal attack.
+Lazy Mist,2,30% chance to weaken the foe.
+Geyser,1,A normal attack that always lands critical hits.
+Slime Shot,1,Lowers the foe's Speed.
+Veil of Water,2,For 5 turns, the user's side cannot have their stats lowered by the foe's side.
+Heavy Rain,2,Traps the foe for 4-5 turns.
+Cloudburst,0,Raises the user's FoAtk and FoDef at the cost of Speed.
+Ebb Tide,0,Harshly lowers the foe's Speed.
+Aquatic Waltz,0,Changes the foe's type to Water.
+Drought,0,Weakens the foe.
+Terrain [Genbu],0,Changes the terrain to Genbu for 5 turns. During Genbu, slower puppets move first.
+Water Ball,1,A normal attack.
+Frost Edge,1,10% chance to stop the foe.
+Foam Bubbles,1,A normal attack.
+Snowball Fight,1,10% chance to lower the foe's Speed.
+Water Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+Quagmire,0,Lowers the foe's Speed.
+Tumble Plant,1,Power is higher if the foe's cost is high.
+Root Frog,2,A normal attack.
+Peach-Thorn Arrow,1,The user takes 1/3 of the damage in recoil.
+Voice of Famine,2,10% chance to weaken the foe.
+Natural Beauty,1,20% chance to lower the foe's FoAtk.
+Grass Javelin,1,10% chance to weaken the foe.
+Power Drain,2,The user recovers half of the damage dealt.
+Hornet's Flit,1,Hits two to five times.
+Sakura Blizzard,1,10% chance to weaken the foe.
+Off-Season Bloom,2,Harshly lowers the user's SpAtk.
+Petal Dance,2,The user attacks for 2-3 turns, then becomes confused.
+Rainbow Flowers,2,A two-turn skill. The user charges on the first turn. Works instantly during Aurora.
+Pollen Mist,2,10% chance to lower the foe's SpAtk.
+Energy Absorb,2,The user recovers half of the damage dealt.
+Swirling Leaves,1,Always hits.
+Forest Therapy,0,Heals the user's party of all status ailments.
+Fountain of Life,0,The user recovers a little HP every turn, but becomes unable to switch or be blown away.
+Thorned Ivy,0,Blocks all damage from the foe's attack and counters strong attacks. May fail if used consecutively.
+Drain Seed,0,The foe's HP is drained to the user's side every turn. Does not work on Nature-type puppets.
+Grace of Mana,0,Restores half of the user's HP.
+White Lily Dance,0,The user faints. The next puppet to come out is restored to full HP and normal status.
+Fairy Dance,0,Raises the user's SpAtk, SpDef, and Speed.
+White Mist,0,Drastically raises the user's SpAtk.
+Mystic Wind,0,Drastically raises the user's FoDef.
+Bewitching Pollen,0,Stops the foe. Does not work on Nature-type puppets.
+Mystical Bug Mist,0,Paralyzes the foe.
+Terrain [Seiryu],0,Changes the terrain to Seiryu for 5 turns. During Seiryu, types do not interact.
+Butterfly's Flit,0,The user recovers a little HP every turn.
+Parasite,2,The user recovers half of the damage dealt.
+Apple Bomb,1,A normal attack that lands critical hits often.
+Scatter Beans,1,A normal attack.
+Seasonal Flowers,1,10% chance to lower the foe's Sp.Atk.
+Nature Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+Root Injection,0,Poisons the foe.
+Shattering Earth,1,Defeats the foe if it hits, regardless of their HP.
+Cataclysm,1,The user cannot move next turn.
+Shooting Press,2,A normal attack.
+Rocky Barrage,1,A normal attack that lands critical hits often.
+Royal Prism,2,30% chance to make the foe flinch.
+Rock Drills,1,A normal attack that always lands critical hits.
+Spiked Stones,1,Lowers the foe's Speed.
+Dust Cloud,1,30% chance to lower the foe's Accuracy.
+Stone Throw,1,Hits twice.
+Dust Devil Gate,1,Traps the foe for 4-5 turns.
+Godstone Frenzy,1,Hits two to five times.
+Waves of Earth,2,10% chance to lower the foe's Accuracy.
+Unstable Horizon,2,30% chance to lower the foe's Accuracy.
+Jewelry Storm,1,A normal attack.
+Landslide,1,Power doubles if the foe has less than half of their HP.
+Stone Circle,1,10% chance to raise all of the user's stats.
+Mine Trap,0,Lays a trap that hurts foes entering the field. Can be set up to 3 times.
+Weather [Duststorm],0,Changes the weather to Dust Storm for 5 turns. This harms puppets of most types.
+Mud Dango,1,A normal attack.
+Stone Rain,1,20% chance to make the foe flinch.
+Slingshot,1,Lowers the foe's Accuracy.
+Mudslide,1,10% chance to lower the foe's Accuracy.
+Earth Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+Racing Earth,0,Sharply raises the user's Speed.
+Terrain [Kohryu],0,Changes the terrain to Kohryu for 5 turns. This disables the effects of items and abilities.
+Earthen Feast,1,10% chance to lower the foe's Accuracy.
+Realm [Gold],0,Summons Dust Storm weather and Kohryu terrain.
+Destruction Rift,1,Will double in power during any terrain, as well as cancel the terrain.
+Clearing Mist,1,Power is higher if the foe's cost is high.
+Mirror's Reflection,2,Damage is 50% more than the damage taken from the foe's attack on the same turn.
+Impact Rebellion,1,Power is proportional to the foe's Speed, and inversely proportional to the user's Speed.
+Full Metal Crash,1,The user takes half of the damage in recoil.
+Samurai Edge,1,10% chance to raise the user's FoAtk.
+Brandish,1,The user takes 1/3 of the damage in recoil.
+Armor Pierce,1,10% chance to make the foe flinch.
+Killing Bite,1,A normal attack that always lands critical hits.
+Reversal Sword,1,Always hits.
+Overtake Strike,1,A normal attack with increased priority.
+Last Slash,1,Ruins the user's stance, preventing them from avoiding attacks.
+Silver Rain,2,10% chance to raise the user's SpAtk.
+Chrome Ray,2,10% chance to lower the foe's SpDef.
+Twin Gears,1,Hits twice.
+Rapid Throw,1,Hits two to five times.
+Focused Stance,0,Raises the user's FoAtk and Accuracy.
+Strenuous Stance,0,Sharply raises the user's FoAtk.
+Mad Rush Stance,0,Raises the user's FoAtk, and sharply raises their Speed.
+Iron Wall Stance,0,Sharply raises the user's FoDef.
+Vigilant Watch,0,Sees through the foe's stance, preventing them from avoiding the next attack.
+Terrain [Byakko],0,Changes the terrain to Byakko for 5 turns. This prevents anyone from avoiding attacks.
+Stealth Trap,0,Lays a trap that hurts foes entering the field. The trap's damage is Steel-typed.
+The Ripper,1,A normal attack that lands critical hits often.
+Hammer Throw,1,A normal attack that lands critical hits often.
+Knife Throw,1,10% chance to lower the foe's SpDef.
+Metal Needle,1,20% chance to raise the user's SpAtk.
+Steel Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+Single-Minded,0,Raises the user's FoAtk.
+Hammer Bash,2,10% chance to lower the foe's FoDef.
+Gensokyo Typhoon,2,A two-turn skill. The user charges on the first turn. Lands critical hits more often.
+Foehn Winds,1,The user takes 1/3 of the damage in recoil.
+Wind Javelin,1,10% chance to make the foe flinch.
+Air Stamp,1,Forces the foe to switch out for a random puppet after doing damage. Ends battles against wild puppets.
+Thieving Wind,2,Steals the foe's held item for yourself.
+Wind Train,2,Always hits.
+Twister,1,Hits two to five times.
+Great Tornado,2,Traps the foe for 4-5 turns.
+Macroburst,2,30% chance to confuse the foe.
+Swift Air-Raid,2,Always hits. Bypasses the effects of Magical Barrier.
+Wind Wave,2,30% chance to make the foe flinch.
+Dancing Wind,2,10% chance to raise all of the user's stats.
+Smash Spin,2,Clears the user's side of some binding effects, Drain Seed, and Trap skills.
+Spring First,2,A normal attack with increased priority.
+Wind God's Grace,0,For five turns, the user's party's Speed is doubled. Six turns during Calm weather.
+Squall,0,Forces the foe to switch out for a random puppet. Ends battles against wild puppets.
+Perch,0,Restores half of the user's HP, and grounds the user for the rest of the turn.
+Favorable Wind,0,Raises the user's Evasion.
+Skanda,0,Sharply raises the user's Speed.
+Weather [Calm],0,Changes the weather to Calm for 5 turns. During Calm, random secondary effects of skills are blocked.
+Feather Shot,2,A normal attack.
+Wintry Wind,2,A normal attack that lands critical hits often.
+Night Wind,2,A normal attack.
+Westerlies,2,20% chance to raise the user's Speed.
+Wind Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+Sharp Wind,0,Raises the user's SpAtk and Speed.
+Flying Frenzy,1,10% chance to make the foe flinch.
+Spinning Air,2,10% chance to make the foe flinch.
+Realm [Serenity],0,Summons Calm weather and Seiryu Terrain.
+Passing Breeze,2,Will double in power during any weather, as well as cancel the weather.
+Thor's Hammer,1,The user takes 1/3 of the damage in recoil. 10% chance to paralyze the foe.
+Lightning Cut,1,10% chance to raise the user's Speed.
+Spark Javelin,1,10% chance to paralyze the foe.
+Plasma Ball,1,Paralyzes the foe.
+Thunderlord's Scorn,2,10% chance to paralyze the foe.
+Divine Thunder,2,Paralyzes the foe.
+Thunder Force,2,10% chance to paralyze the foe.
+Stormcloud's Eye,2,30% chance to paralyze the foe.
+Charge Thief,2,The user recovers half of the damage dealt.
+Lightning Speed,1,If it inflicts damage, the user switches for another puppet. Ends battles against wild puppets.
+Spark Cross,2,Lowers the foe's Speed.
+Purple Lightning,2,70% chance to raise the user's SpAtk.
+Lightning Charge,0,Raises the user's SpDef. If an Electric-type skill is used next turn, its power is doubled.
+High Magnetism,0,Changes the next skill the foe uses to Electric-type.
+Thunder Veil,0,Paralyzes and confuses the foe.
+Paralyzing Wave,0,Paralyzes the foe.
+Spark Shot,2,10% chance to paralyze the foe.
+Graze Bolt,2,20% chance to paralyze the foe.
+Lightning Strike,2,10% chance to paralyze the foe.
+Energy Bolt,2,10% chance to stop the foe.
+Electric Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+Thunderclap,0,100% chance to make the foe flinch.
+Thunder Drill,1,A normal attack that always lands critical hits.
+Shocking Wave,0,Shocks the foe. Does not work on Earth-type puppets.
+Luminous Flux,2,The user takes 1/3 of the damage in recoil.
+Evil-Crushing Arrow,1,10% chance to make the foe flinch.
+Atomic Energy,2,The user recovers half of the damage dealt.
+Light Javelin,1,10% chance to confuse the foe.
+Sunbeam Dance,2,If the Weather is not clear, inflicts double damage and removes it.
+Over Ray,2,A normal attack with increased priority.
+Pulse Laser,2,The user cannot move next turn.
+Arclight,2,Harshly lowers the user's SpAtk.
+Moonbow,1,A normal attack.
+Star Flare,1,20% chance to lower the foe's Accuracy.
+Field Barrier,0,The user's side takes half damage from Spread skills for five turns.
+Field Protect,0,The user's side takes half damage from Focus skills for five turns.
+Lucky Rainbow,0,The user's side is protected from abnormal status for five turns.
+Sun's Protection,0,Raises the user's FoAtk and SpAtk. More potent during Calm and Aurora.
+Moon's Protection,0,Raises the user's SpAtk and SpDef.
+Astrology,0,Harshly lowers the foe's FoAtk.
+Solar Eclipse,0,Scares and confuses the foe.
+Flash Bullet,0,Confuses the foe.
+Weather [Aurora],0,Changes the weather to Aurora for 5 turns. This strengthens Light attacks and weakens Dark attacks.
+Light Up,2,A normal attack that lands critical hits often.
+Angel Ladder,2,20% chance to lower the foe's Accuracy.
+Light of Origin,2,A normal attack.
+Diffusion Laser,2,20% chance to make the foe flinch.
+Light Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+Gathered Stars,0,Raises the user's FoAtk.
+Realm [Corona],0,Summons Aurora weather and Byakko terrain.
+Twilight Infection,2,A normal attack.
+Dark Sphere,2,20% chance to make the foe flinch. Power increases against camouflage users and guaranteed to hit. 
+Blackout,1,30% chance to blind the foe.
+Changeling,1,If it inflicts damage, the user switches for another puppet. Ends battles against wild puppets.
+Panic Call,2,If the foe holds an item, the attack is 50% stronger and knocks away the item.
+Lost Crisis,1,If a Terrain is active, inflicts double damage and removes it.
+Dark Arrow,1,Hits twice.
+Dark Innocence,2,Hits two to five times.
+Darkness Dance,1,The user attacks for 2-3 turns, then becomes confused.
+Dark Sweets,2,10% chance to blind the foe.
+Eye of Laplace,1,A normal attack that lands critical hits often.
+Infinite Darkness,2,Traps the foe for 4-5 turns.
+Shark Trade,0,Trades hold items with the foe.
+Black Hole,0,The foe becomes unable to switch out until the user leaves the field.
+Puppet's Grudge,0,The user faints to harshly lower the foe's FoAtk and SpAtk.
+Dark Power,0,Raises the user's FoAtk and FoDef.
+Bind Trap,0,Lays a trap that lowers the Speed of foes entering the field.
+Sweet Nightmare,0,Blinds the foe.
+Weather [Heavy Fog],0,Changes the weather to Fog for 5 turns. This strengthens Dark attacks and weakens Light attacks.
+Dark Ball,1,10% chance to blind the foe.
+Ominous Doll,1,10% chance to blind the foe.
+Bad Moon,1,10% chance to blind the foe.
+Bloody Storm,2,10% chance to make the foe flinch.
+Dark Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+Dead of Night,0,Raises the user's Evasion.
+Night Step,1,A normal attack.
+Creeping Darkness,0,Poisons and blinds the foe.
+Realm [Scarlet Mist],0,Summons Heavy Fog weather and Suzaku terrain.
+Venom Nova,1,10% chance to poison the foe.
+Dust Bomb,1,30% chance to poison the foe.
+Poisoned Arrow,1,10% chance to poison the foe. Lands critical hits more often.
+Venom Strike,1,20% chance to poison the foe. Cannot be used when holding an item.
+Poison Bomb,1,10% chance to poison the foe.
+Venom Fang,1,30% chance to poison the foe.
+Mysterious Liquid,1,Does double damage if the foe is poisoned.
+Negative Mist,2,Always hits. Clears the foe's stat modifiers.
+Toxic Spiral,2,Harshly lowers the foe's SpDef.
+Poison Trap,0,Lays a trap that poisons foes entering the field. Can be stacked up to twice.
+Miasma,0,Harshly poisons the foe. Always hits if the user is Poison-type.
+Purple Smog,2,10% chance to poison the foe.
+Slime Ball,1,20% chance to harshly poison the foe.
+Smog Shot,1,30% chance to poison the foe.
+Toxic Haze,2,20% chance to harshly poison the foe.
+Poison Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+Contagion,0,Poisons the foe.
+Poison Stream,2,A normal attack.
+Depressing Rain,2,Always hits. Clears the foe's stat modifiers.
+Sweet Desperado,2,Harshly lowers the user's SpAtk.
+Acid Tears,0,Poisons and scares the foe.
+Midnight Specter,1,The user takes 1/3 of the damage in recoil.
+Stalk and Murder,1,A two-turn skill. The user vanishes on the first turn. Bypasses Field Barriers. 
+Shadow Javelin,1,10% chance to scare the foe.
+Soul Hound,2,Always hits.
+Unfettered Soul,2,Does double damage if the user is not holding an item.
+Shadow Bomb,1,A normal attack with increased priority.
+Charon Ferries,2,Damage is equal to the user's level.
+Poltergeist,1,10% chance to scare the foe.
+Starving Spirit,1,A normal attack.
+Ghost Wave,2,30% chance to scare the foe.
+Love or Pain,1,Does double damage if the foe has a status ailment.
+Soul Eater,1,10% chance to raise all of the user's stats.
+Call of the Dead,0,If the user faints due to a Skill before their next action, the foe also faints.
+Curse Reversal,0,Adds the user's and foe's current HP and sets both to half of that.
+Shinigami's Waltz,0,Consumes half of the user's HP to sap a fourth of the foe's HP every turn.
+Jinx,0,Seals the skill the foe last used for four turns.
+Scorn,0,The last skill the foe used loses 4 SP.
+Behind You!,0,Scares the foe.
+Ghost Trick,1,10% chance to make the foe flinch.
+Specter Warning,1,10% chance to make the foe flinch.
+Soul Walking,1,30% chance to scare the foe.
+Play Ghost,1,10% chance to scare the foe.
+Nether Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+Stone Pile,0,Raises the user's SpDef.
+Specter's Waltz,1,10% chance to scare the foe.
+Ghost Chase,0,Makes the user immune to Fighting-type skills.
+Eye of Calamity,0,Burns and scares the foe.
+Cross Counter,1,Damage is twice the damage taken from the foe's Focus attack on the same turn.
+Mountain Breaker,1,Power is higher if the foe's cost is high.
+Aikido Arts,1,Damage is equal to the user's level.
+Dire State,2,Power is higher the lower the user's current HP is.
+Vacuum Rupture,1,The user cannot move next turn.
+Meteor Impact,1,Fails if the user is hurt on the same turn they try to use this Skill.
+Reckless Dive,1,If the skill fails to inflict damage, the user loses half of their HP.
+Exploding Fist,1,Confuses the foe.
+Heavenly Ascent,1,Lowers the user's FoDef and SpDef.
+Cross Drive,1,Lowers the user's Speed.
+Dancing Sword,1,A normal attack that lands critical hits often.
+Life Burst,2,Always hits.
+Aura Drain,1,The user recovers half of the damage dealt.
+Break Shot,1,Breaks the foe's Field Barrier and Field Protect effects before doing damage.
+Diligence,2,Power doubles if you take damage from a foe's Skill on the same turn.
+Charging Stun,1,Forces the foe to switch out for a random puppet after doing damage. Ends battles against wild puppets.
+Corkscrew,1,70% chance to raise the user's FoAtk.
+Strike Shot,1,A normal attack with increased priority.
+Divine Punishment,2,The user faints to deal damage equal to the current HP.
+GIGANTIC,2,10% chance to lower the foe's SpDef.
+Concussion,2,20% chance to make the foe flinch.
+Understep,1,Lowers the foe's Speed.
+Twin Thrust,1,Hits twice.
+Rush Attack,1,Hits two to five times.
+Hachiman's Blessing,0,Greatly increases the chance that the user will land a critical hit.
+Forward Thrust,1,A normal attack that lands critical hits often.
+Backhand Blow,1,A normal attack.
+Skull Breaker,1,A normal attack
+Spiral Strike,2,10% chance to raise the user's SpAtk.
+Fighting Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+Tense Up,0,Raises the user's FoDef.
+Brave Burst,2,A normal attack.
+Shooting Arts,1,Hits two to five times.
+Miracle Reprisal,2,Power increases the more the foe's stats have been increased.
+Revolving Illusions,2,Uses the foe's FoAtk instead of the user's.
+Ephemeral,2,10% chance to lower the foe's FoDef.
+Sneak Attack,1,Fails if the foe is not readying an attacking Skill, or if the foe moves first.
+Mirage Edge,1,A normal attack that lands critical hits often.
+Flower of Hell,1,30% chance to break the foe's stance, preventing them from avoiding the next attack.
+St. Elmo's Fire,1,If the foe holds an item, the attack is 50% stronger and destroys the item.
+Fake Jewel,1,""I'm just borrowin' it 'till I'm dead."" Steals foe's held item.
+Invisible Heart,2,Always hits.
+Reprimand,1,Power doubles if moving second.
+Pursuit,1,If the foe attempts to switch on the same turn, attacks the fleeing puppet for double damage.
+Gravity Blast,2,Power decreases if the foe is not at full HP.
+Moon's Reflection,2,Damage is twice the damage taken from the foe's Spread attack on the same turn.
+Catastrophe,2,10% chance to lower the foe's SpDef.
+Glamor Pandemic,2,Confuses the foe.
+Unknown Flare,2,30% chance to confuse the foe.
+Mysterious Wave,2,Attacks against the foe's FoDef instead of their SpDef.
+Continue,0,The user recovers all HP and status, but is stopped for two turns.
+Mirage,0,Reflects Status skills back to the other party.
+Near-Death Event,0,Duplicates the effect of the last used Skill.
+Amnesia,0,The foe will be stopped at the end of the next turn.
+Power Swap,0,Switches the user's changes to FoAtk and SpAtk with the foe's.
+Power Split,0,Averages the user's FoAtk and SpAtk with the foe's.
+Cross Change,0,Switches the user's Ability with the foe's.
+Guard Swap,0,Switches the user's changes to FoDef and SpDef with the foe's.
+Guard Split,0,Averages the user's FoDef and SpDef with the foe's.
+Pretense,0,Changes the user's type to the type of the first Skill they know.
+Doppelganger,0,Changes the user's type to the foe's type.
+Imagination,0,Switches the user's FoAtk and FoDef.
+Honest Man's Lie,0,Moves the user's status ailment to the foe.
+Possession,0,Changes the user's Ability to the foe's Ability.
+Projection,0,The user copies all of the foe's stat modifiers.
+Recall Nightmare,0,Changes the foe's Ability to Active, removing their old ability and preventing them from being Stopped.
+Mind Control,0,Changes the foe's Ability to the user's Ability.
+Gorgon's Eye,0,Stops the foe.
+Bout Drunkard,0,Stops the foe.
+Illusion Bullets,1,A normal attack.
+Mirror World,2,30% chance to make the foe flinch.
+Mysterious Flare,2,A normal attack.
+Imaginary Friend,2,10% chance to lower the foe's SpDef.
+Illusion Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+Heat Haze,0,Lowers the foe's FoAtk.
+Hallucination,2,A normal attack.
+Word Break,0,Seals two of the foe's skills for four turns.
+Detonation Burst,2,Lowers the user's FoAtk and FoDef.
+High Tone Crush,1,10% chance to lower one of the foe's stats randomly.
+Dancing Rain,1,50% chance to lower the foe's FoDef.
+Phantom Ensemble,2,Lowers the foe's FoAtk.
+Danmaku Orchestra,2,A normal attack.
+Ultra High Tone,1,10% chance to raise one of the user's stats randomly.
+Primal Noise,2,50% chance to lower the foe's SpDef.
+Fantasy Melody,2,Always hits.
+Sorrowful Tune,2,Lowers the foe's SpAtk.
+Infinite Scales,2,Power increases the more the user's stats have been increased.
+Encourage,0,Forces the foe to keep using the Skill they last used for three turns.
+Upbeat,0,Prevents the foe from using Status Skills for three turns.
+A Tempo,0,Clears everyone's stat modifiers.
+Booing,0,Forces the foe to switch out for a random puppet. Ends battles against wild puppets.
+Ruinous Voice,0,Both puppets will faint in 3 turns. Switching out ends the effect.
+Brave Song,0,Sharply raises the user's SpAtk.
+Cheer,0,Sharply raises the user's SpDef.
+Merry Dance,0,Raises the user's FoDef and SpDef.
+Inspiration,0,Sharply raises the user's FoDef.
+Decrescendo,0,Lowers the foe's FoAtk and SpAtk. The user then switches for another puppet. Ends battles against wild puppets.
+Shout,0,Lowers the foe's FoAtk.
+Shriek,0,Lowers the foe's SpAtk.
+Bellow,0,Lowers the foe's SpDef.
+Phase Inversion,0,Inverts the foe's stat modifiers.
+Roar,0,Sharply lowers the foe's FoDef.
+Claim,0,Prevents the foe from using the same Skill twice in a row.
+Lullaby,0,Stops the foe.
+Howling Voice,2,A normal attack.
+Ambient,2,10% chance to lower one of the foe's stats randomly.
+Soprano Voice,2,A normal attack.
+Waltz,2,10% chance to raise one of the user's stats randomly.
+Sound Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+Tuning,0,Raises the user's SpAtk.
+Overdrive,2,Harshly lowers the user's FoAtk.
+Distortion Bomb,1,10% chance to lower the foe's FoDef.
+Alluring Maze,2,Attacks against the foe's SpDef instead of their FoDef.
+Stealth Kill,1,Always hits. Bypasses the effects of Magical Barrier.
+Trickster,1,A normal attack with increased priority.
+Dense Fog Bloom,2,A two-turn skill. The user charges on the first turn. Works instantly during Heavy Fog.
+Impulse,2,10% chance to lower the foe's SpDef.
+Luscious Whisper,2,Attacks against the foe's FoDef instead of their SpDef.
+Field Break,1,Breaks the foe's Field Barrier and Field Protect effects before doing damage.
+Irreversible Trick,2,Ignores Field Protect and Barrier Option, will increase in power if foe uses a support skill.
+Mirror Damage,2,Power doubles if you take damage from a foe's Skill on the same turn.
+Force Shield,0,Removes your weaknesses and resistances this turn to greatly limit damage. May fail if used consecutively.
+Element Reverse,0,Inverts the foe's weaknesses and resistances.
+Field Shift,0,Moves the foe's Field Barrier, Field Protect, Lucky Rainbow, and Magical Barrier to your side.
+Soul Corruption,0,Blinds and confuses the foe.
+Weather [Sunshower],0,Changes the weather to Sunshower for 5 turns. During Sunshower, FoDef and SpDef are switched.
+Warped Sign,2,A normal attack. A puppet can only know one sign skill at a time.
+Realm [Black Rain],0,Summons Sunshower weather and Genbu terrain.
+Time Screw,2,Always hits.
+Limitless Realm,0,Cancels all weather and terrain.
+Supernova,0,Shinki EX only. Causes two random status effects. Always hits.
+Blitzkrieg,0,Power doubles if the user moves before the target or the target switches.
+Take Over,0,Uses the foe's SpAtk instead of the user's.
+Omen,0,Lowers the user's SpAtk and SpDef.
+Flash,0,A normal attack with increased priority.
+Last Farewell,0,Komachi EX only. Defeats the opponent if it hits.
+Spear The Gungnir,0,Remilia EX only. Defending impossible.
+Fantasy Seal,0,Reimu EX only. Always hits. Strikes 2-5 times.
+Dual Spark,0,Yuuka EX only. Hits twice.
+Score Web,0,Benben EX only. If the foe holds an item, attack is 50% stronger and removes said item.
+Orreries Sun,0,Mima EX only. Increases all stats by 1 stage.
+Swallowtail Lance,0,Yuyuko EX only. Heal 50% of the damage dealt.
+Laevateinn,0,Flandre EX only. Lowers SPAtk and SpDef after use.
+Stun Bomb,0,Yumemi EX only. Paralyzes the enemy. Strikes first.
+Goddess' Decree,0,Shinki EX only. Increases all stats by 1 stage.
+Quadruple Barrier,0,Yukari EX only. Increases FoDef after dealing damage. Always hits.
+Bombardment,0,Yumemi EX only. Hits twice. Strikes first.
+Calamity Scythe,0,Applies weak. Amnisieri only.
+Calamity,0,Inflicts 2 random status ailments.
+Boundary Rend,0,Maribel EX only. Sets enemy HP to 1.
+Season [Winter],0,Replicates the effects of Genbu and Duststorm.
+Season [Spring],0,Replicates the effects of Seiryuu and Sunshower.
+Season [Summer],0,Replicates the effects of Suzaku and Aurora.
+Season [Fall],0,Replicates the effects of Byakko and Heavy Fog.
+Season [Doyou],0,Replicates the effects of Kohryu and Calm.
+Rainbow Shot,0,Replicates Veil of Water.
+Fading Out,0,The user switches for another puppet. Ends battles against wild puppets.
+unused,0,unused
+Unused,0,Unused
+Blade Dance,0,Yumeko EX only. Replicates Smash Spin. Always hits.
+unused,0,unused
+Master Spark,0,Marisa EX only. Ignores the opponent's stat modifiers.
+Rainbow Slash,0,Kogasa EX only. High flinch rate.
+Electric Heritage,0,Heals for half the damage dealt.
