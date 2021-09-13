@@ -1,262 +1,262 @@
-Phlegmatic,The weather becomes Calm.
-Sanguine,The weather becomes Aurora.
-Melancholic,The weather becomes Heavy Fog.
-Choleric,The weather becomes Dust Storm.
-Sand Mask,During Dust Storm, Evasion is increased. No sand damage is received.
-Sand Force,During Dust Storm, Fo.Atk is boosted by 30%. No sand damage is received.
-Sand Devil,During Dust Storm, Speed is doubled. No sand damage is received.
-Flash,During Aurora, Speed is doubled.
-Aurora Grace,During Aurora, Sp.Def is increased by 50% and some HP is restored at the end of every turn.
-Light Curtain,During Aurora, you're immune to confusion and status ailments are healed at the end of every turn.
-Fog Traveler,During Heavy Fog, Speed is doubled.
-Surprise Tactics,During Heavy Fog, SpAtk is boosted by 50%. Damage is received at the end of the turn.
-Vanishing Act,During Heavy Fog, evasion is increased.
-Recalibration,During Calm, SpAtk and SpDef are boosted by 50%.
-Zen,During Calm, the user is immune to status ailments and recovers some HP at the end of every turn.
-Breather,During Calm, Fo.Def is increased by 50% and some HP is restored at the end of every turn.
-Weather Resist,This Puppet is immune to the effects of weather and weather based abilities.
-Cloak of Darkness,Dark skills and Heavy Fog restore HP. Receives more damage from Light skills. Damaged by Aurora.
-Economist,Charms may be restored after use. During calm, you will always restore them.
-Burning Spirit,Boosts Fire-type skills when HP is less than 1/3.
-Surging Spirit,Boosts Water-type skills when HP is less than 1/3.
-Sprouting Spirit,Boosts Nature-type skills when HP is less than 1/3.
-Desolate Spirit,Boosts Earth-type skills when HP is less than 1/3.
-Robust Spirit,Boosts Steel-type skills when HP is less than 1/3.
-Raging Spirit,Boosts Wind-type skills when HP is less than 1/3.
-Sparking Spirit,Boosts Electric-type skills when HP is less than 1/3.
-Rainbow Spirit,Boosts Light-type skills when HP is less than 1/3.
-Abyssal Spirit,Boosts Dark-type skills when HP is less than 1/3.
-Sinister Spirit,Boosts Nether-type skills when HP is less than 1/3.
-Venomous Spirit,Boosts Poison-type skills when HP is less than 1/3.
-Vigorous Spirit,Boosts Fighting-type skills when HP is less than 1/3.
-Vague Spirit,Boosts Illusion-type skills when HP is less than 1/3.
-Musical Spirit,Boosts Sound-type skills when HP is less than 1/3.
-Corrupt Spirit,Boosts Warped-type skills when HP is less than 1/3.
-Benefit of Fire,When hit by a Fire-type skill, HP is restored.
-Grace of Water,When hit by a Water-type skill, HP is restored.
-Force of Nature,When hit by a Nature-type skill, damage is nullified and SpAtk is raised.
-Air Cushion,When hit by an Earth-type skill, damage is nullified. Ignores Adverse Wind ability. Ignores mine/poison trap. 
-Metallurgy,When hit by a Steel-type skill, damage is nullified and FoAtk is raised.
-Smooth Sailing,When hit by a Wind-type skill, damage is nullified and Speed is raised.
-Electromagnetic,When hit by an Electric-type skill, damage is nullified and SpAtk is raised.
-Absorbent,When hit by a Light-type skill, damage is nullified and SpAtk is raised.
-Negative Aura,When hit by a Dark-type skill, damage is nullified and FoAtk is raised.
-Appeased Spirit,When hit by a Nether-type skill, HP is restored.
-Strict Dosage,When hit by a Poison-type skill, HP is restored. Ignores poison trap. Ignores Poison Labyrinth ability.
-Master's Defense,When hit by a Fighting-type skill, damage is nullified and FoAtk is raised.
-Unwavering Heart,When hit by an Illusion-type skill, damage is nullified and any status ailment is cured.
-Sound Absorb,When hit by a Sound-type skill, damage is nullified, FoAtk is raised, and SpAtk is raised.
-In Sync,When hit by an Warped-type skill, damage is nullified and any status ailment is cured.
-Spirit of Yang,When hit by an Electric, Light, or Illusion-type skill, damage received is lowered by 20% and Speed is raised.
-Spirit of Yin,When hit by a Dark, Nether, or Poison-type skill, damage received is lowered by 20% and Speed is raised.
-Inverse Reaction,When hit by a Light or Dark-type skill only half the damage is taken.
-Sound Booster,When hit by a Sound-type skill SpAtk is raised.
-Self Exorcism,When hit by a Nether-type skill FoAtk is raised.
-Common Senseless,Ignores type immunities when attacking.
-Shadow Stitch,The opponent cannot flee or swap Puppets.
-Battle Mania,Opponents that are Fighting-type cannot flee or swap out.
-Adverse Wind,Only Wind-type opponents can flee.
-Hellfire Form,Void-type skills become Fire-type skills and their power is increased by 30%.
-Stream Form,Void-type skills become Water-type skills and their power is increased by 30%.
-Natural Form,Void-type skills become Nature-type skills and their power is increased by 30%.
-Desolation Form,Void-type skills become Earth-type skills and their power is increased by 30%.
-Unyielding Form,Void-type skills become Steel-type skills and their power is increased by 30%.
-Gale Form,Void-type skills become Wind-type skills and their power is increased by 30%.
-Thunder Form,Void-type skills become Electric-type skills and their power is increased by 30%.
-Bright Form,Void-type skills become Light-type skills and their power is increased by 30%.
-Midnight Form,Void-type skills become Dark-type skills and their power is increased by 30%.
-Ghost Form,Void-type skills become Nether-type skills and their power is increased by 30%.
-Miasma Form,Void-type skills become Poison-type skills and their power is increased by 30%.
-General's Form,Void-type skills become Fighting-type skills and their power is increased by 30%.
-Imaginary Form,Void-type skills become Illusion-type skills and their power is increased by 30%.
-Recital Form,Void-type skills become Sound-type skills and their power is increased by 30%.
-Twisted Form,Void-type skills become Warped-type skills and their power is increased by 30%.
-Antibody,Immune to Poison and Heavy Poison statuses.
-Cleared Mind,Immune to Burn and Heavy Burn statuses.
-Active,Immune to Stop status.
-Immovable,Immune to flinching.
-Flexible,Immune to Paralysis and Shock statuses.
-Optimist,Immune to confusion.
-Composed,Immune to Upbeat.
-Free Will,Immune to skill usage restrictions.
-Resonance,Status ailments are reflected onto opponents when inflicted.
-Gale,When inflicted with an ailment, Speed is boosted 50%. Speed drop from paralysis is ignored.
-Last Defense,When inflicted with an ailment, FoDef is boosted by 50%.
-Desperation,When poisoned, FoAtk is boosted by 50%.
-Inverse Toxin,When poisoned, HP is restored instead of lost. Ignores Poison Labyrinth ability.
-Vigorous,Takes half the turns to return from stop status.
-Maintenance,30% chance to heal from ailments every turn.
-Mind's Eye,When inflicted with a status FoAtk is boosted by 50%. FoAtk drop from blindness is ignored.
-Warning Shot,Lowers the opponent's SpAtk upon switch in.
-Deploy Smoke,Lowers the opponent's FoAtk upon switch in.
-Projection,Copies your opponent's ability during battle.
-Aggressive,Adjusts offensive stats based on the foe's defensive stats.
-Sixth Sense,Notifies you of barrier-penetrating skills your foe knows.
-Quick Eye,Allows you to see the held item and ability of the opponent.
-Some Guts,Damage the opponent after receiving an attack of 90 or more BP.
-Karmic Retribution,Damage the opponent after receiving an attack of 90 or more BP.
-Hate Incarnate,Damage the opponent if fainting is caused by an attack of 70 or more BP.
-Poison Thorns,Opponent has 30% chance to become poisoned from any attack.
-Flaming Garment,Opponent has a 30% chance to become burned from any attack.
-Electrification,Opponent has 30% chance to become paralyzed from any attack.
-Chaos Induction,Opponent has a 30% chance to become confused from any attack.
-Sermon,Opponent has a 30% chance to become weakened from any attack.
-Dark Force,Opponent has 10% chance to become blinded from their focus attacks.
-Strong Smile,Opponent has a 10% chance to become afraid from their spread attacks.
-Jamming,Reduces the opponent's Speed after receiving an attack of 80 or more BP.
-Discourager,Reduces the opponent's FoAtk when hit by a skill that your barrier resists.
-Disturber,Reduces the foe's FoAtk or SpAtk when hit by a skill that your barrier resists.
-Infectious,Spreads Infection through attacks that are below 95 BP.
-Armor Purge,When hit by a Focus Attack, FoDef decreases, FoAtk and Speed increase.
-Insight,Easier to score critical hits.
-Sniper,Boosts the strength of critical hits by 50%.
-Hot Head,FoAtk is increased by 12 stages after taking a critical hit.
-Recoil Offset,Does not receive recoil damage.
-Reckless,Damage dealt and recoil received by a recoil move is boosted by 20%.
-Wasteful,Effects of held items are ignored.
-Nimble,When a held charm is lost or consumed speed is doubled.
-Kleptomaniac,If no item is held there is a chance to steal an foe's item after attacking.
-Collectomaniac,If no item is held after an attack, you may take the foe's held item. Held items cannot be stolen.
-Overwhelm,Charms cannot be used by either side.
-Worrywart,When HP is less than half the held charm is used.
-Assault,Attacks have a 10% chance of causing flinching.
-Poison Body,After an attack, the opponent has a 30% chance to become poisoned.
-Lucky,Secondary effects of skills have double the chance of occurring.
-Charge!,Attack damage is boosted by 30%, but their secondary effects never occur.
-Divine Protection,Stats cannot be lowered by the enemy.
-Sore Loser,When a stat is decreased FoAtk is raised sharply.
-Positive,When a stat is decreased SpAtk is raised sharply.
-Usurpation,Inverts the stat changes.
-Wisdom Eye,Attacks ignore the opponent's stat changes other than speed.
-Drunkard,Cannot attack consecutively, however it ignores the foe's ability.
-Placid,For 5 turns SpAtk and Speed are cut in half. Ability changes to ""Serious"", afterwards.
-True Admin,When HP is less than half FoAtk and SpAtk are halved.
-Slow Tempo,Always attacks second but receive 10% less damage.
-Curiosity,Support skills receive +1 to their priority.
-Brutality,SpAtk is boosted by 50% but accuracy is cut by 20%.
-Daredevil,FoAtk is boosted by 50% but accuracy is cut by 20%.
-Forward Dash,The power of spread skills are doubled.
-Telescopic,Accuracy is boosted by 30%.
-Duel,Neither you nor your opponent will be able to miss.
-Precise Aim,Accuracy cannot be lowered. Ignores the foe's Evasion modifiers. Never-miss attacks are 50% stronger.
-Infinite Changes,Changes type to match skill immediately before use.
-Hobgoblin,Changes appearance to match that of the last Puppet in the party. Reverts after taking a hit.
-After Move,Attack power is boosted by 30% when moving second.
-Infiltration,Attacks ignore defensive fields.
-Salvo,Multi-Hit attacks always hit the maximum amount of times.
-Niche,The power boost from same-type attacks is even higher.
-Morale Boost,When an opponent is KO'd, FoAtk is raised.
-Strategist,Attacks with a base power of 60 or below are boosted by 50%.
-Skilled Hand,Ignores the resistances of enemy barriers.
-Unbound,Attacks ignore the foe's ability.
-Up Tempo,Speed increases every turn.
-Indomitable,Cannot be OHKO'd. Will not receive critical hits either.
-Stubborn,Cannot be OHKO'd. Neither of you can use certain skills either.
-Imposing Stance,Damage is only received from skills.
-Glamorous,Reduces damage of attacks that penetrate your barrier by 25%.
-Emergency Cure,Recovers from status ailments when switching out.
-Healing Power,Recovers 1/3 of maximum HP when switching out.
-Iron Resolve,Cannot be forced to switch out.
-Peaceful,Can always escape from battle. Trumps other locking abilities.
-Bad Medicine,Enemies will be hurt when they try to use HP leaching skills on you. Ignores Poison Labyrinth ability.
-Curse Return,Reflects the effects of status skills back on the attacker.
-Poker Face,Ignores the secondary skill effects from attackers.
-Yata no Kagami,Takes half damage when at full HP.
-Moody,Every turn one random stat rises sharply and one random stat falls.
-Suppression,When hit by an enemy skill there is a 30% chance to seal it.
-Unjustness,The enemy's SP consumption is increased by +1.
-Good Management,Stat changes from skills and charms are doubled.
-Were-Hakutaku,When HP is less than half your form is changed.
-Frail Health,Take no damage from attacks that do not penetrate the barrier.
-Flawless,Evasion against status and stat changing skills is increased.
-Unique Shield,Only receive half damage from Focus Attacks.
-Auto Heal,HP recovers every turn while not inflicted with a status ailment.
-Miracle Mallet,FoAtk and FoDef are doubled.
-Stargazer,Weather skills last forever.
-Timegazer,Terrain skills last 8 turns.
-Boundary Blurrer,During weather effects, FoAtk, FoDef, SpAtk, and SpDef are doubled.
-Boundary Savior,During terrain effects, FoDef and SpDef are doubled. Recovers from ailments and deals 1/8th damage every turn.
-Northern Expanse,During Genbu, Speed is halved.
-Southern Expanse,During Suzaku, your HP will recover a little bit each turn, ignoring Suzaku's effect.
-Western Expanse,During Byakko, 100 acc skills power increases by 20%, no-miss skills power increases by 50%.
-Eastern Expanse,During Seiryu, same-type skills are 33% stronger.
-Central Expanse,During Kohryu, your skills ignore the foe's ability, your held items are not negated and gain Wisdom Eye.
-Gentei's Water,Water skills are 50% more powerful during Genbu. Earth-skill damage is halved during Genbu.
-Sutei's Fire,Fire skills are 50% more powerful during Suzaku. Water-skill damage is halved during Suzaku.
-Byakutei's Metal,Steel skills are 50% more powerful during Byakko. Fire-skill damage is halved during Byakko.
-Seitei's Wood,Nature skills are 50% more powerful during Seiryu. Steel-skill damage is halved during Seiryu.
-Koutei's Earth,Earth skills are 50% more powerful during Kohryu. Nature-skill damage is halved during Kohryu.
-Instant Win,Your speed is increased by 50% on the first turn after entering the field.
-First Hit,Attack power is boosted by 20% when moving first.
-Ascertainment,Opponent's Ability does not boost their attacks.
-Convergence,If you miss a skill, your accuracy increases.
-On the Edge,At 1 HP, Speed is tripled and attacks do 30% more damage.
-Invalidate,Removes the opponent's Ability on entry.
-Pride,SpAtk increases by 50% when statused, ignores SpAtk drop from Fear.
-Intuition,Blocks increased priority skills.
-Flat Speed,Lowers increased priority skills to 0 for both sides.
-Known Limits,Gives and receives 33% less damage from skills that don't match the user's type.
-Fast Talker,Two-turn skills can be used in one turn, but they are 10% less powerful.
-Full Power,Skills are 20% more powerful, but takes damage after attacking.
-Two of a Kind,The power of skills go down by 40%, but you will do an additional attack.
-Affinity Twist,Both parties super effective and resisted elements are reversed. Type immunities will be ignored.
-Normal Bonus,Boosts the power of Void skills by 40%.
-Flame Bonus,Boosts the power of Fire skills by 40%.
-Aqua Bonus,Boosts the power of Water skills by 40%.
-Leaf Bonus,Boosts the power of Nature skills by 40%.
-Ground Bonus,Boosts the power of Earth skills by 40%.
-Metal Bonus,Boosts the power of Steel skills by 40%.
-Gust Bonus,Boosts the power of Wind skills by 40%.
-Spark Bonus,Boosts the power of Electric skills by 40%.
-Bright Bonus,Boosts the power of Light skills by 40%.
-Shade Bonus,Boosts the power of Dark skills by 40%.
-Soul Bonus,Boosts the power of Nether skills by 40%.
-Venom Bonus,Boosts the power of Poison skills by 40%.
-Aura Bonus,Boosts the power of Fighting skills by 40%.
-Vision Bonus,Boosts the power of Illusion skills by 40%.
-Music Bonus,Boosts the power of Sound skills by 40%.
-Twisted Bonus,Boosts the power of Warped skills by 40%.
-Invigorative,Skills you're immune to will increase your Fo.Atk by one stage.
-Deflective,Skills you're immune to will increase your Fo.Def and Sp.Def by one stage.
-Stimulative,Skills you're immune to will increase your Sp.Atk by one stage.
-Evasive,Skills you're immune to will increase your Sp.Def by one stage.
-Impulsive,Skills you're immune to will increase your Speed by one stage.
-Counter Stance,Damages the attacker when hit with a BU skill.
-Reflect Guard,Damages the attacker when hit with a EN skill.
-Strange Rainbow,Boosts FoAtk by 30% during Sunshower.
-Fox's Wedding,Doubles Speed during Sunshower.
-Divine Festival,Status ailments are cured at the end of every turn during Sunshower.
-None,None.
-Disjointed Blow,The power of super effective attacks is increased by 40%.
-Resurrection (Trial),NULL
-Restraint,If the foe uses a switch-out skill, they are unable to switch for 2 turns.
-Bibliophilia,When holding a youma scroll, a certain stat is doubled, and typing and ability is changed.
-Wariness,Disables skills with 50 or less BP.
-Mode Shift,Changes form when using attack skills. Reverts using Supernatural Border.
-Reverse Function,Opponent's stat changes are reversed.
-Dream World,Stopped opponents take damage every turn.
-Three Bodies,Form changes based on the class of skills used.
-Poison Labyrinth,Only Poison-type opponents can flee.
-Overcompensate,Draining skills absorb 30% more HP.
-Harassment,When your stats drop, so does the foe. When the foe's stats increase, your stats increase as well.
-Supine,Changes weather to Sunshower upon switch in.
-Mindless Dance,2-3 turn skills have no special effects, but are 10% less powerful.
-Final Form,Boosts damage of same-type skills by 50% when HP is less than 1/3.
-Brute Force,User is able to ignore the foe's ability, but unable to use items.
-Serious,SpAtk and Speed increase one stage every turn.
-Infinite Dream,The terrain becomes Seiryu.
-Scorching Sun,The terrain becomes Suzaku.
-3rd Eye,The terrain becomes Byakko.
-Reverse Ideology,The terrain becomes Genbu.
-Earth Creation,The terrain becomes Kohryu.
-Stone Stacker,Status moves activate twice.
-Idola Diabolus,Adjusts defensive stats based on the foe's offensive stats.
-Fascination,Summons Heavy Fog and Seiryuu.
-Astronomy,Increases own BU skills' power by 20%
-Empowered,Increases own EN skills' power by 20%.
-Secret Ceremony,Adjusts type based on terrain and weather.
-Grand Opening,Light skills receive +1 to their priority.
-Blizzard,At full HP, Water skills receive +1 to their priority. Unimplemented.
-Cursed Being,Drains 10% of foe's HP every turn. Defense is lowered by 10%.
-Eden's Apple,Foe's Status moves lose their effects. Unimplemented.
-Silent Running,During Calm, Speed is doubled.
+Phlegmatic  The weather becomes Calm.
+Sanguine  The weather becomes Aurora.
+Melancholic  The weather becomes Heavy Fog.
+Choleric  The weather becomes Dust Storm.
+Sand Mask  During Dust Storm, Evasion is increased. No sand damage is received.
+Sand Force  During Dust Storm, Fo.Atk is boosted by 30%. No sand damage is received.
+Sand Devil  During Dust Storm, Speed is doubled. No sand damage is received.
+Flash  During Aurora, Speed is doubled.
+Aurora Grace  During Aurora, Sp.Def is increased by 50% and some HP is restored at the end of every turn.
+Light Curtain  During Aurora, you're immune to confusion and status ailments are healed at the end of every turn.
+Fog Traveler  During Heavy Fog, Speed is doubled.
+Surprise Tactics  During Heavy Fog, SpAtk is boosted by 50%. Damage is received at the end of the turn.
+Vanishing Act  During Heavy Fog, evasion is increased.
+Recalibration  During Calm, SpAtk and SpDef are boosted by 50%.
+Zen  During Calm, the user is immune to status ailments and recovers some HP at the end of every turn.
+Breather  During Calm, Fo.Def is increased by 50% and some HP is restored at the end of every turn.
+Weather Resist  This Puppet is immune to the effects of weather and weather based abilities.
+Cloak of Darkness  Dark skills and Heavy Fog restore HP. Receives more damage from Light skills. Damaged by Aurora.
+Economist  Charms may be restored after use. During calm, you will always restore them.
+Burning Spirit  Boosts Fire-type skills when HP is less than 1/3.
+Surging Spirit  Boosts Water-type skills when HP is less than 1/3.
+Sprouting Spirit  Boosts Nature-type skills when HP is less than 1/3.
+Desolate Spirit  Boosts Earth-type skills when HP is less than 1/3.
+Robust Spirit  Boosts Steel-type skills when HP is less than 1/3.
+Raging Spirit  Boosts Wind-type skills when HP is less than 1/3.
+Sparking Spirit  Boosts Electric-type skills when HP is less than 1/3.
+Rainbow Spirit  Boosts Light-type skills when HP is less than 1/3.
+Abyssal Spirit  Boosts Dark-type skills when HP is less than 1/3.
+Sinister Spirit  Boosts Nether-type skills when HP is less than 1/3.
+Venomous Spirit  Boosts Poison-type skills when HP is less than 1/3.
+Vigorous Spirit  Boosts Fighting-type skills when HP is less than 1/3.
+Vague Spirit  Boosts Illusion-type skills when HP is less than 1/3.
+Musical Spirit  Boosts Sound-type skills when HP is less than 1/3.
+Corrupt Spirit  Boosts Warped-type skills when HP is less than 1/3.
+Benefit of Fire  When hit by a Fire-type skill, HP is restored.
+Grace of Water  When hit by a Water-type skill, HP is restored.
+Force of Nature  When hit by a Nature-type skill, damage is nullified and SpAtk is raised.
+Air Cushion  When hit by an Earth-type skill, damage is nullified. Ignores Adverse Wind ability. Ignores mine/poison trap. 
+Metallurgy  When hit by a Steel-type skill, damage is nullified and FoAtk is raised.
+Smooth Sailing  When hit by a Wind-type skill, damage is nullified and Speed is raised.
+Electromagnetic  When hit by an Electric-type skill, damage is nullified and SpAtk is raised.
+Absorbent  When hit by a Light-type skill, damage is nullified and SpAtk is raised.
+Negative Aura  When hit by a Dark-type skill, damage is nullified and FoAtk is raised.
+Appeased Spirit  When hit by a Nether-type skill, HP is restored.
+Strict Dosage  When hit by a Poison-type skill, HP is restored. Ignores poison trap. Ignores Poison Labyrinth ability.
+Master's Defense  When hit by a Fighting-type skill, damage is nullified and FoAtk is raised.
+Unwavering Heart  When hit by an Illusion-type skill, damage is nullified and any status ailment is cured.
+Sound Absorb  When hit by a Sound-type skill, damage is nullified, FoAtk is raised, and SpAtk is raised.
+In Sync  When hit by an Warped-type skill, damage is nullified and any status ailment is cured.
+Spirit of Yang  When hit by an Electric, Light, or Illusion-type skill, damage received is lowered by 20% and Speed is raised.
+Spirit of Yin  When hit by a Dark, Nether, or Poison-type skill, damage received is lowered by 20% and Speed is raised.
+Inverse Reaction  When hit by a Light or Dark-type skill only half the damage is taken.
+Sound Booster  When hit by a Sound-type skill SpAtk is raised.
+Self Exorcism  When hit by a Nether-type skill FoAtk is raised.
+Common Senseless  Ignores type immunities when attacking.
+Shadow Stitch  The opponent cannot flee or swap Puppets.
+Battle Mania  Opponents that are Fighting-type cannot flee or swap out.
+Adverse Wind  Only Wind-type opponents can flee.
+Hellfire Form  Void-type skills become Fire-type skills and their power is increased by 30%.
+Stream Form  Void-type skills become Water-type skills and their power is increased by 30%.
+Natural Form  Void-type skills become Nature-type skills and their power is increased by 30%.
+Desolation Form  Void-type skills become Earth-type skills and their power is increased by 30%.
+Unyielding Form  Void-type skills become Steel-type skills and their power is increased by 30%.
+Gale Form  Void-type skills become Wind-type skills and their power is increased by 30%.
+Thunder Form  Void-type skills become Electric-type skills and their power is increased by 30%.
+Bright Form  Void-type skills become Light-type skills and their power is increased by 30%.
+Midnight Form  Void-type skills become Dark-type skills and their power is increased by 30%.
+Ghost Form  Void-type skills become Nether-type skills and their power is increased by 30%.
+Miasma Form  Void-type skills become Poison-type skills and their power is increased by 30%.
+General's Form  Void-type skills become Fighting-type skills and their power is increased by 30%.
+Imaginary Form  Void-type skills become Illusion-type skills and their power is increased by 30%.
+Recital Form  Void-type skills become Sound-type skills and their power is increased by 30%.
+Twisted Form  Void-type skills become Warped-type skills and their power is increased by 30%.
+Antibody  Immune to Poison and Heavy Poison statuses.
+Cleared Mind  Immune to Burn and Heavy Burn statuses.
+Active  Immune to Stop status.
+Immovable  Immune to flinching.
+Flexible  Immune to Paralysis and Shock statuses.
+Optimist  Immune to confusion.
+Composed  Immune to Upbeat.
+Free Will  Immune to skill usage restrictions.
+Resonance  Status ailments are reflected onto opponents when inflicted.
+Gale  When inflicted with an ailment, Speed is boosted 50%. Speed drop from paralysis is ignored.
+Last Defense  When inflicted with an ailment, FoDef is boosted by 50%.
+Desperation  When poisoned, FoAtk is boosted by 50%.
+Inverse Toxin  When poisoned, HP is restored instead of lost. Ignores Poison Labyrinth ability.
+Vigorous  Takes half the turns to return from stop status.
+Maintenance  30% chance to heal from ailments every turn.
+Mind's Eye  When inflicted with a status FoAtk is boosted by 50%. FoAtk drop from blindness is ignored.
+Warning Shot  Lowers the opponent's SpAtk upon switch in.
+Deploy Smoke  Lowers the opponent's FoAtk upon switch in.
+Projection  Copies your opponent's ability during battle.
+Aggressive  Adjusts offensive stats based on the foe's defensive stats.
+Sixth Sense  Notifies you of barrier-penetrating skills your foe knows.
+Quick Eye  Allows you to see the held item and ability of the opponent.
+Some Guts  Damage the opponent after receiving an attack of 90 or more BP.
+Karmic Retribution  Damage the opponent after receiving an attack of 90 or more BP.
+Hate Incarnate  Damage the opponent if fainting is caused by an attack of 70 or more BP.
+Poison Thorns  Opponent has 30% chance to become poisoned from any attack.
+Flaming Garment  Opponent has a 30% chance to become burned from any attack.
+Electrification  Opponent has 30% chance to become paralyzed from any attack.
+Chaos Induction  Opponent has a 30% chance to become confused from any attack.
+Sermon  Opponent has a 30% chance to become weakened from any attack.
+Dark Force  Opponent has 10% chance to become blinded from their focus attacks.
+Strong Smile  Opponent has a 10% chance to become afraid from their spread attacks.
+Jamming  Reduces the opponent's Speed after receiving an attack of 80 or more BP.
+Discourager  Reduces the opponent's FoAtk when hit by a skill that your barrier resists.
+Disturber  Reduces the foe's FoAtk or SpAtk when hit by a skill that your barrier resists.
+Infectious  Spreads Infection through attacks that are below 95 BP.
+Armor Purge  When hit by a Focus Attack, FoDef decreases, FoAtk and Speed increase.
+Insight  Easier to score critical hits.
+Sniper  Boosts the strength of critical hits by 50%.
+Hot Head  FoAtk is increased by 12 stages after taking a critical hit.
+Recoil Offset  Does not receive recoil damage.
+Reckless  Damage dealt and recoil received by a recoil move is boosted by 20%.
+Wasteful  Effects of held items are ignored.
+Nimble  When a held charm is lost or consumed speed is doubled.
+Kleptomaniac  If no item is held there is a chance to steal an foe's item after attacking.
+Collectomaniac  If no item is held after an attack, you may take the foe's held item. Held items cannot be stolen.
+Overwhelm  Charms cannot be used by either side.
+Worrywart  When HP is less than half the held charm is used.
+Assault  Attacks have a 10% chance of causing flinching.
+Poison Body  After an attack, the opponent has a 30% chance to become poisoned.
+Lucky  Secondary effects of skills have double the chance of occurring.
+Charge!  Attack damage is boosted by 30%, but their secondary effects never occur.
+Divine Protection  Stats cannot be lowered by the enemy.
+Sore Loser  When a stat is decreased FoAtk is raised sharply.
+Positive  When a stat is decreased SpAtk is raised sharply.
+Usurpation  Inverts the stat changes.
+Wisdom Eye  Attacks ignore the opponent's stat changes other than speed.
+Drunkard  Cannot attack consecutively, however it ignores the foe's ability.
+Placid  For 5 turns SpAtk and Speed are cut in half. Ability changes to ""Serious"", afterwards.
+True Admin  When HP is less than half FoAtk and SpAtk are halved.
+Slow Tempo  Always attacks second but receive 10% less damage.
+Curiosity  Support skills receive +1 to their priority.
+Brutality  SpAtk is boosted by 50% but accuracy is cut by 20%.
+Daredevil  FoAtk is boosted by 50% but accuracy is cut by 20%.
+Forward Dash  The power of spread skills are doubled.
+Telescopic  Accuracy is boosted by 30%.
+Duel  Neither you nor your opponent will be able to miss.
+Precise Aim  Accuracy cannot be lowered. Ignores the foe's Evasion modifiers. Never-miss attacks are 50% stronger.
+Infinite Changes  Changes type to match skill immediately before use.
+Hobgoblin  Changes appearance to match that of the last Puppet in the party. Reverts after taking a hit.
+After Move  Attack power is boosted by 30% when moving second.
+Infiltration  Attacks ignore defensive fields.
+Salvo  Multi-Hit attacks always hit the maximum amount of times.
+Niche  The power boost from same-type attacks is even higher.
+Morale Boost  When an opponent is KO'd, FoAtk is raised.
+Strategist  Attacks with a base power of 60 or below are boosted by 50%.
+Skilled Hand  Ignores the resistances of enemy barriers.
+Unbound  Attacks ignore the foe's ability.
+Up Tempo  Speed increases every turn.
+Indomitable  Cannot be OHKO'd. Will not receive critical hits either.
+Stubborn  Cannot be OHKO'd. Neither of you can use certain skills either.
+Imposing Stance  Damage is only received from skills.
+Glamorous  Reduces damage of attacks that penetrate your barrier by 25%.
+Emergency Cure  Recovers from status ailments when switching out.
+Healing Power  Recovers 1/3 of maximum HP when switching out.
+Iron Resolve  Cannot be forced to switch out.
+Peaceful  Can always escape from battle. Trumps other locking abilities.
+Bad Medicine  Enemies will be hurt when they try to use HP leaching skills on you. Ignores Poison Labyrinth ability.
+Curse Return  Reflects the effects of status skills back on the attacker.
+Poker Face  Ignores the secondary skill effects from attackers.
+Yata no Kagami  Takes half damage when at full HP.
+Moody  Every turn one random stat rises sharply and one random stat falls.
+Suppression  When hit by an enemy skill there is a 30% chance to seal it.
+Unjustness  The enemy's SP consumption is increased by +1.
+Good Management  Stat changes from skills and charms are doubled.
+Were-Hakutaku  When HP is less than half your form is changed.
+Frail Health  Take no damage from attacks that do not penetrate the barrier.
+Flawless  Evasion against status and stat changing skills is increased.
+Unique Shield  Only receive half damage from Focus Attacks.
+Auto Heal  HP recovers every turn while not inflicted with a status ailment.
+Miracle Mallet  FoAtk and FoDef are doubled.
+Stargazer  Weather skills last forever.
+Timegazer  Terrain skills last 8 turns.
+Boundary Blurrer  During weather effects, FoAtk, FoDef, SpAtk, and SpDef are doubled.
+Boundary Savior  During terrain effects, FoDef and SpDef are doubled. Recovers from ailments and deals 1/8th damage every turn.
+Northern Expanse  During Genbu, Speed is halved.
+Southern Expanse  During Suzaku, your HP will recover a little bit each turn, ignoring Suzaku's effect.
+Western Expanse  During Byakko, 100 acc skills power increases by 20%, no-miss skills power increases by 50%.
+Eastern Expanse  During Seiryu, same-type skills are 33% stronger.
+Central Expanse  During Kohryu, your skills ignore the foe's ability, your held items are not negated and gain Wisdom Eye.
+Gentei's Water  Water skills are 50% more powerful during Genbu. Earth-skill damage is halved during Genbu.
+Sutei's Fire  Fire skills are 50% more powerful during Suzaku. Water-skill damage is halved during Suzaku.
+Byakutei's Metal  Steel skills are 50% more powerful during Byakko. Fire-skill damage is halved during Byakko.
+Seitei's Wood  Nature skills are 50% more powerful during Seiryu. Steel-skill damage is halved during Seiryu.
+Koutei's Earth  Earth skills are 50% more powerful during Kohryu. Nature-skill damage is halved during Kohryu.
+Instant Win  Your speed is increased by 50% on the first turn after entering the field.
+First Hit  Attack power is boosted by 20% when moving first.
+Ascertainment  Opponent's Ability does not boost their attacks.
+Convergence  If you miss a skill, your accuracy increases.
+On the Edge  At 1 HP, Speed is tripled and attacks do 30% more damage.
+Invalidate  Removes the opponent's Ability on entry.
+Pride  SpAtk increases by 50% when statused, ignores SpAtk drop from Fear.
+Intuition  Blocks increased priority skills.
+Flat Speed  Lowers increased priority skills to 0 for both sides.
+Known Limits  Gives and receives 33% less damage from skills that don't match the user's type.
+Fast Talker  Two-turn skills can be used in one turn, but they are 10% less powerful.
+Full Power  Skills are 20% more powerful, but takes damage after attacking.
+Two of a Kind  The power of skills go down by 40%, but you will do an additional attack.
+Affinity Twist  Both parties super effective and resisted elements are reversed. Type immunities will be ignored.
+Normal Bonus  Boosts the power of Void skills by 40%.
+Flame Bonus  Boosts the power of Fire skills by 40%.
+Aqua Bonus  Boosts the power of Water skills by 40%.
+Leaf Bonus  Boosts the power of Nature skills by 40%.
+Ground Bonus  Boosts the power of Earth skills by 40%.
+Metal Bonus  Boosts the power of Steel skills by 40%.
+Gust Bonus  Boosts the power of Wind skills by 40%.
+Spark Bonus  Boosts the power of Electric skills by 40%.
+Bright Bonus  Boosts the power of Light skills by 40%.
+Shade Bonus  Boosts the power of Dark skills by 40%.
+Soul Bonus  Boosts the power of Nether skills by 40%.
+Venom Bonus  Boosts the power of Poison skills by 40%.
+Aura Bonus  Boosts the power of Fighting skills by 40%.
+Vision Bonus  Boosts the power of Illusion skills by 40%.
+Music Bonus  Boosts the power of Sound skills by 40%.
+Twisted Bonus  Boosts the power of Warped skills by 40%.
+Invigorative  Skills you're immune to will increase your Fo.Atk by one stage.
+Deflective  Skills you're immune to will increase your Fo.Def and Sp.Def by one stage.
+Stimulative  Skills you're immune to will increase your Sp.Atk by one stage.
+Evasive  Skills you're immune to will increase your Sp.Def by one stage.
+Impulsive  Skills you're immune to will increase your Speed by one stage.
+Counter Stance  Damages the attacker when hit with a BU skill.
+Reflect Guard  Damages the attacker when hit with a EN skill.
+Strange Rainbow  Boosts FoAtk by 30% during Sunshower.
+Fox's Wedding  Doubles Speed during Sunshower.
+Divine Festival  Status ailments are cured at the end of every turn during Sunshower.
+None  None.
+Disjointed Blow  The power of super effective attacks is increased by 40%.
+Resurrection (Trial)  NULL
+Restraint  If the foe uses a switch-out skill, they are unable to switch for 2 turns.
+Bibliophilia  When holding a youma scroll, a certain stat is doubled, and typing and ability is changed.
+Wariness  Disables skills with 50 or less BP.
+Mode Shift  Changes form when using attack skills. Reverts using Supernatural Border.
+Reverse Function  Opponent's stat changes are reversed.
+Dream World  Stopped opponents take damage every turn.
+Three Bodies  Form changes based on the class of skills used.
+Poison Labyrinth  Only Poison-type opponents can flee.
+Overcompensate  Draining skills absorb 30% more HP.
+Harassment  When your stats drop, so does the foe. When the foe's stats increase, your stats increase as well.
+Supine  Changes weather to Sunshower upon switch in.
+Mindless Dance  2-3 turn skills have no special effects, but are 10% less powerful.
+Final Form  Boosts damage of same-type skills by 50% when HP is less than 1/3.
+Brute Force  User is able to ignore the foe's ability, but unable to use items.
+Serious  SpAtk and Speed increase one stage every turn.
+Infinite Dream  The terrain becomes Seiryu.
+Scorching Sun  The terrain becomes Suzaku.
+3rd Eye  The terrain becomes Byakko.
+Reverse Ideology  The terrain becomes Genbu.
+Earth Creation  The terrain becomes Kohryu.
+Stone Stacker  Status moves activate twice.
+Idola Diabolus  Adjusts defensive stats based on the foe's offensive stats.
+Fascination  Summons Heavy Fog and Seiryuu.
+Astronomy  Increases own BU skills' power by 20%
+Empowered  Increases own EN skills' power by 20%.
+Secret Ceremony  Adjusts type based on terrain and weather.
+Grand Opening  Light skills receive +1 to their priority.
+Blizzard  At full HP, Water skills receive +1 to their priority. Unimplemented.
+Cursed Being  Drains 10% of foe's HP every turn. Defense is lowered by 10%.
+Eden's Apple  Foe's Status moves lose their effects. Unimplemented.
+Silent Running  During Calm, Speed is doubled.

@@ -1,384 +1,384 @@
-Bead Necklace,100,0,0,1,1,0,0,0,1,Disposable prayer beads. Will repel Puppets for up to 100 steps.
-Talisman,200,0,0,1,1,0,0,0,1,Disposable talismans. Will repel Puppets for up to 200 steps.
-Magatama,300,0,0,1,1,0,0,0,1,Disposable magatama. Will repel Puppets for up to 300 steps.
-Copper Coin,400,0,0,0,1,0,0,0,1,Cannot be used as currency in the outside world. Sells cheaply.
-Watch,400,0,0,0,1,0,0,0,1,A device for telling time that drifted in from the outside world. Sells cheaply.
-Gold Dust,1000,0,0,0,1,0,0,0,1,Solid gold that's been turned to dust. Sells at a reasonable price. Currently unpossessed by evil spirits.
-Pearl,1000,0,0,0,1,0,0,0,1,A piece of white jewelry. Sells at a reasonable price.
-Mushroom Powder,3000,0,0,0,1,0,0,0,1,What it's actually used for is unclear. Sells for a respectable price. Handle with care.
-Grimoire,3000,0,0,0,1,0,0,0,1,It is unknown who wrote this. Sells for a respectable price.
-Handheld G Console,6000,0,0,0,0,0,0,0,1,A gaming device that folds closed.
-Handheld Console,6000,0,0,0,1,0,0,0,1,A gaming device that folds closed. Unlikely to be useful in Gensokyo so I'll sell it and buy a new one later.
-Silver Coin,10000,0,0,0,1,0,0,0,1,Cannot be used as currency in the outside world. Sells at a high price.
-Vintage Wine,10000,0,0,0,1,0,0,0,1,Antique wine. Sells at a high price.
-Gold Coin,20000,0,0,0,1,0,0,0,1,Can not be used as currency. Sells at a very high price.
-Magic Crystal,20000,0,0,0,1,0,0,0,1,Remnants of magic that became crystallized after long periods of time. Sells at a very high price.
-Magical Fragment,400,0,0,0,1,0,0,0,1,Pieces of crystallized magic. These might be useful if I hold onto them.
-Reincarnation Items,0,0,0,0,1,0,0,0,1,Item�O�S�Q�B
-Red Mark,0,0,0,0,0,0,1,0,1,A Red Seal. When used in the Reincarnation process it gives your Puppets the Red Mark.
-Blue Mark,0,0,0,0,0,0,1,0,1,A Blue Seal. When used in the Reincarnation process it gives your Puppets the Blue Mark.
-Black Mark,0,0,0,0,0,0,1,0,1,A Black Seal. When used in the Reincarnation process it gives your Puppets the Black Mark.
-White Mark,0,0,0,0,0,0,1,0,1,A White Seal. When used in the Reincarnation process it gives your Puppets the White Mark.
-Green Mark,0,0,0,0,0,0,1,0,1,A Green Seal. When used in the Reincarnation process it gives your Puppets the Green Mark.
-Omega M.Stone,0,0,0,0,0,0,2,0,1,A mysterious magic stone. When used in Reincarnation it holds all the Puppet's ranks.
-Gold M.Stone,0,0,0,0,0,0,2,0,1,A mysterious magic stone. When used in Reincarnation it holds the Puppet's HP rank.
-Red M.Stone,0,0,0,0,0,0,2,0,1,A mysterious magic stone. When used in Reincarnation it holds the Puppet's FoAtk rank.
-Blue M.Stone,0,0,0,0,0,0,2,0,1,A mysterious magic stone. When used in Reincarnation it holds the Puppet's FoDef rank.
-Black M.Stone,0,0,0,0,0,0,2,0,1,A mysterious magic stone. When used in Reincarnation it holds the Puppet's SpAtk rank.
-White M.Stone,0,0,0,0,0,0,2,0,1,A mysterious magic stone. When used in Reincarnation it holds the Puppet's SpDef rank.
-Green M.Stone,0,0,0,0,0,0,2,0,1,A mysterious magic stone. When used in Reincarnation it holds the Puppet's Speed rank.
-Rainbow M.Stone,0,0,0,0,0,0,2,0,1,A mysterious magic stone. When used in Reincarnation it ups random additional ranks being passed.
-B.Dream Pill,1000,0,0,0,1,0,0,0,1,If the normal butterfly dream pills are unsatisfactory, this nightmare-type is for you.
-Fujiwara Senbei,300,1,1,1,1,0,0,0,1,A hard rice cracker baked in bamboo charcoal. Heals 20 HP.
-Hakugyou Dango,500,1,1,1,1,0,0,0,1,A dumpling autographed by the mistress of Hakugyokurou. Heals 50 HP.
-Chirei Sweet Bun,700,1,1,1,1,0,0,0,1,Popular steamed bun souvenir. Heals 100 HP.
-Misty Jelly,1200,1,1,1,1,0,0,0,1,Moderately sweet bean jelly. Heals 200 HP.
-Dessert of the Sun,2500,1,1,1,1,0,0,0,1,A jam with a generous helping of fruit. Fully heals HP.
-Bhava-Agra Set,3000,1,1,1,1,0,0,0,1,Assortment of peaches from Heaven. Fully restores a Puppet's HP and removes status effects.
-Moriya Shinshu,1500,1,1,1,1,0,0,0,1,Sacred sake used for spiritual rites at the Moriya Shrine. Restores a fainted Puppet to half HP.
-Hakurei Shinshu,4000,1,1,1,1,0,0,0,1,Sacred sake used for spiritual rites at the Hakurei Shrine. Restores a fainted Puppet to full HP.
-Myouren Tea,600,1,1,1,1,0,0,0,1,Tea brewed by a nun of Myouren Temple. Granting one a relaxed sensation it recovers status ailments.
-Junmai Sake,1200,255,1,1,1,0,0,0,1,Recovers 10 SP to one Skill of an individual Puppet. Unimplimented.
-Honjouzou Sake,2000,255,1,1,1,0,0,0,1,Restores full SP to one skill of an individual Puppet. Unimplimented.
-Ginjou Sake,3000,255,1,1,1,0,0,0,1,Recovers 10 SP to all Skills of an individual Puppet. Unimplimented.
-Daiginjou Sake,4500,255,1,1,1,0,0,0,1,Restores full SP to all skills of an individual Puppet. Unimplimented.
-Rainbow Candy,4800,1,0,1,1,0,0,0,1,Candy in the seven colors of the rainbow. Raises an individual Puppet's level by 1.
-Clear Stream Mochi,10000,1,0,1,1,0,0,0,1,Light and transparent mochi. Resets PP in all stats.
-Anti-Fire Charm,15000,2,0,0,1,1,0,0,1,When held, damage dealt from Fire-skills will be halved once.
-Anti-Aqua Charm,15000,2,0,0,1,1,0,0,1,When held, damage dealt from Water-skills will be halved once.
-Anti-Flora Charm,15000,2,0,0,1,1,0,0,1,When held, damage dealt from Nature-skills will be halved once.
-Anti-Earth Charm,15000,2,0,0,1,1,0,0,1,When held, damage dealt from Earth-skills will be halved once.
-Anti-Steel Charm,15000,2,0,0,1,1,0,0,1,When held, damage dealt from Steel-skills will be halved once.
-Anti-Wind Charm,15000,2,0,0,1,1,0,0,1,When held, damage dealt from Wind-skills will be halved once.
-Anti-Bolt Charm,15000,2,0,0,1,1,0,0,1,When held, damage dealt from Electric-skills will be halved once.
-Anti-Light Charm,15000,2,0,0,1,1,0,0,1,When held, damage dealt from Light-skills will be halved once.
-Anti-Dark Charm,15000,2,0,0,1,1,0,0,1,When held, damage dealt from Dark-skills will be halved once.
-Anti-Necro Charm,15000,2,0,0,1,1,0,0,1,When held, damage dealt from Nether-skills will be halved once.
-Anti-Toxin Charm,15000,2,0,0,1,1,0,0,1,When held, damage dealt from Poison-skills will be halved once.
-Anti-Fight Charm,15000,2,0,0,1,1,0,0,1,When held, damage dealt from Fighting-skills will be halved once.
-Anti-Veil Charm,15000,2,0,0,1,1,0,0,1,When held, damage dealt from Illusion-skills will be halved once.
-Anti-Sound Charm,15000,2,0,0,1,1,0,0,1,When held, damage dealt from Sound-skills will be halved once.
-Anti-Warp Charm,15000,2,0,0,1,1,0,0,1,When held, damage dealt from Warped-skills will be halved once.
-Wedge Charm,50000,2,0,0,1,1,0,0,1,In a pinch, this will raise the Puppet's FoAtk stat.
-Column Charm,50000,2,0,0,1,1,0,0,1,In a pinch, this will raise the Puppet's FoDef stat.
-Vee Charm,50000,2,0,0,1,1,0,0,1,In a pinch, this will raise the Puppet's SpAtk stat.
-Hexagon Charm,50000,2,0,0,1,1,0,0,1,In a pinch, this will raise the Puppet's SpDef stat.
-Skirmisher Charm,50000,2,0,0,1,1,0,0,1,In a pinch, this will raise the Puppet's Speed stat.
-Blitz Charm,50000,2,0,0,1,1,0,0,1,In a pinch, this will raise the Puppet's Critical Hit rate.
-Rotation Charm,50000,2,0,0,1,1,0,0,1,In a pinch, this will sharply raise one random stat.
-Pinpoint Charm,50000,2,0,0,1,1,0,0,1,In a pinch, this will raise the Puppet's Accuracy stat.
-Echelon Charm,50000,2,0,0,1,1,0,0,1,In a pinch, this will raise the Puppet's Evasion stat.
-Swift Charm,15000,255,0,0,1,1,0,0,1,In a pinch, this will allow the Puppet to move before the other party. Unimplimented.
-Life Charm,50000,2,0,0,1,1,0,0,1,When held, the Puppet will restore 25% HP once its health drops below 50% HP.
-Curing Charm,50000,2,0,0,1,1,0,0,1,When held, it can recover from all ailments.
-Massage Charm,20000,2,0,0,1,1,0,0,1,When held, it can recover from Paralysis.
-Awakening Charm,20000,2,0,0,1,1,0,0,1,When held, it can recover from Stop.
-Antidote Charm,20000,2,0,0,1,1,0,0,1,When held, it can recover from Poison.
-Ointment Charm,20000,2,0,0,1,1,0,0,1,When held, it can recover from Burn.
-Light Charm,20000,2,0,0,1,1,0,0,1,When held, it can recover from Darkness.
-Relief Charm,20000,2,0,0,1,1,0,0,1,When held, it can recover from Fear.
-Courage Charm,20000,2,0,0,1,1,0,0,1,When held, it can recover from Weakness.
-Clarity Charm,20000,2,0,0,1,1,0,0,1,When held, it can recover from confusion.
-Dispel Charm,50000,2,0,0,1,1,0,0,1,When held, if the user becomes unable to use skills, the status is healed once.
-Healing Charm,1500,2,0,0,1,1,0,0,1,When held, it can recover 20 HP.
-Restart Charm,20,255,0,0,1,1,0,0,1,When held by a Puppet, it can recover 10 SP. Unimplimented.
-Thorn Charm,50000,2,0,0,1,1,0,0,1,When held, if attacked by a foe with a FoAtk, 1/8th of the foe's max HP will be dealt back as damage.
-Reflect Charm,20,255,0,0,1,1,0,0,1,When held, if attacked by a foe with a SpAtk, 1/8th of the foe's max HP will be dealt back as damage.
-Purify Charm,100000,2,0,0,1,1,0,0,1,When held, if the holder's stats are lowered, the lowered stats will be reverted.
-Haste Charm,100000,2,0,0,1,1,0,0,1,When held, skills that take two turns to use only take one.
-Eviction Notice,250000,2,0,0,1,1,0,0,1,The attacker will switch places with another Puppet in their party after the holder has been attacked.
-Retreat Manual,250000,2,0,0,1,1,0,0,1,The defender will switch places with another Puppet in their party after the holder has been attacked.
-Black Choker,250000,2,0,0,1,1,0,0,1,When held, a Puppet can withstand one skill that would otherwise KO them.
-Diamond,25000,2,0,0,1,1,0,0,1,Clear jewelry. Raises the power of Void skills once by 40%.
-Ruby,25000,2,0,0,1,1,0,0,1,Red jewelry. Raises the power of Fire skills once by 40%.
-Sapphire,25000,2,0,0,1,1,0,0,1,Light blue jewelry. Raises the power of Water skills once by 40%.
-Emerald,25000,2,0,0,1,1,0,0,1,Dark green jewelry. Raises the power of Nature skills once by 40%.
-Tiger Eye,25000,2,0,0,1,1,0,0,1,Brown jewelry. Raises the power of Earth skills once by 40%.
-Hematite,25000,2,0,0,1,1,0,0,1,Gray jewelry. Raises the power of Steel skills once by 40%.
-Jade,25000,2,0,0,1,1,0,0,1,Jade jewelry. Raises the power of Wind skills once by 40%.
-Topaz,25000,2,0,0,1,1,0,0,1,Yellow jewelry. Raises the power of Electric skills once by 40%.
-Opal,25000,2,0,0,1,1,0,0,1,Rainbow jewelry. Raises the power of Light skills once by 40%.
-Obsidian,25000,2,0,0,1,1,0,0,1,Black jewelry. Raises the power of Dark skills once by 40%.
-Sugilite,25000,2,0,0,1,1,0,0,1,Dark purple jewelry. Raises the power of Nether skills once by 40%.
-Amethyst,25000,2,0,0,1,1,0,0,1,Purple jewelry. Raises the power of Poison skills once by 40%.
-Amber,25000,2,0,0,1,1,0,0,1,Orange jewelry. Raises the power of Fighting skills once by 40%.
-Morganite,25000,2,0,0,1,1,0,0,1,Peony-colored jewelry. Raises the power of Illusion skills once by 40%.
-Onyx,25000,2,0,0,1,1,0,0,1,Striped jewelry. Raises the power of Sound skills once by 40%.
-Lapis Lazuli,25000,2,0,0,1,1,0,0,1,Ultramarine jewelry. Raises the power of Warped skills once by 40%.
-Floating Stone,120000,2,0,0,1,1,0,0,1,Makes the holder immune to Earth skills but will crumble if hit by a non-Earth skill.
-Rebellion Tome,250000,2,0,0,1,1,0,0,1,When held, if the user receives a barrier-piercing attack, FoAtk and SpAtk sharply raise.
-Bronze Mirror,120000,2,0,0,1,1,0,0,1,When the opposing Puppet's stats are changed the Puppet holding this will reflect the same stat changes.
-Gold Talisman,250000,2,0,0,1,1,0,0,1,When held, if the user receives a Fo.Atk, Fo.Def is raised.
-Silver Talisman,250000,2,0,0,1,1,0,0,1,When held, if the user receives a Sp.Atk, Sp.Def is raised.
-Red Ring,1000,3,0,0,1,1,0,0,1,When held, the power of Fo.Atk skills is raised by 10%.
-Blue Earrings,1000,3,0,0,1,1,0,0,1,When held, the power of Sp.Atk skills is raised by 10%.
-Deadly Secrets,120000,3,0,0,1,1,0,0,1,A book detailing the tricks of battle. Skills will deal 20% more damage if it pierces the barrier.
-Straw Doll,120000,3,0,0,1,1,0,0,1,Straw doll that is used for magic. When held a Puppet's skills become 30% stronger but receive 10% recoil.
-Choice Ring,250000,3,0,0,1,1,0,0,1,Boosts the power of Focus Attack skills by 50% but you're locked into using the first skill used.
-Choice Earrings,250000,3,0,0,1,1,0,0,1,Boosts the power of Spread Attack skills by 50% but you're locked into using the first skill used.
-Choice Belt,250000,3,0,0,1,1,0,0,1,Boosts Speed by 50%, but you're locked into using the first skill used.
-Repetitive Arts,12000,3,0,0,1,1,0,0,1,A book detailing the tricks of battle. A skill will deal 20% more damage if it is used in repetition.
-Iron Clogs,1000,3,0,0,1,1,0,0,1,Heavy clogs made out of Iron. When held by a Puppet its speed will drop by 50%.
-Rosary,40000,3,0,0,1,1,0,0,1,When held by a Puppet, it will be 10% less likely to be hit by an opposing Puppet's skills.
-Binoculars,40000,3,0,0,1,1,0,0,1,Increases the holder's accuracy by 10%.
-Telescope,40000,3,0,0,1,1,0,0,1,Increases the holder's accuracy by 20% if it moves after the foe.
-Circular Amulet,40000,3,0,0,1,1,0,0,1,A round amulet. A Puppet holding this will recover HP if it is attacked by its foe. Unimplemented.
-Bandage,40000,3,0,0,1,1,0,0,1,If a Puppet holding this uses an absorption skill the recovered amount will be increased.
-Magic Ring,40000,3,0,0,1,1,0,0,1,A mysterious ring. When held critical hit rate is increased by one stage.
-Black Ring,40000,3,0,0,1,1,0,0,1,A Puppet holding this has a 10% chance to survive a lethal attack that would otherwise KO it.
-Sturdy Vine,0,255,0,0,1,1,0,0,1,A sturdy vine that increases the turns of binding moves when held. Unimplemened.
-Sturdy Rope,40000,3,0,0,1,1,0,0,1,A sturdy rope that increases the power of binding moves when held.
-Champion's Medal,40000,3,0,0,1,1,0,0,1,A dignified certificate. When held, skills that connect have a 10% chance to flinch the opponent.
-Feather Hat,0,255,0,0,1,1,0,0,1,Hat with a feather. A Puppet holding this will occasionally move before its foe.
-Heavy Armor,1500,3,0,0,1,1,0,0,1,A Puppet holding this will always move last.
-Food Rations,120000,3,0,0,1,1,0,0,1,A stockpile of food. When held by a Puppet it'll recover 1/16th of its max HP every turn.
-Jar of Poison,25000,3,0,0,1,1,0,0,1,Will heal 1/16th of the Puppet's HP every turn if it's the Poison type. Otherwise the Puppet takes damage.
-Wolfsbane Root,25000,3,0,0,1,1,0,0,1,A deadly poisonous root. Puppets holding this will be badly poisoned.
-Burning Stone,25000,3,0,0,1,1,0,0,1,Stone that was set ablaze. Puppets holding this will be badly burned.
-Substitute Tag,5000,3,0,0,1,1,0,0,1,An amulet with a human carved into it. Allows the holder to switch out even if it would normally be trapped.
-Golden Hairpin,250000,3,0,0,1,1,0,0,1,The Puppet holding this will have 50% increased FoDef, but it will not be able to use support skills.
-Silver Hairpin,250000,3,0,0,1,1,0,0,1,The Puppet holding this will have 50% increased SpDef, but it will not be able to use support skills.
-Protective Mask,0,255,0,0,1,1,0,0,1,(Safety Goggles)�C�����̍����}�X�N�B ��������ƓV��╲�n�̃X�L���̉e�����󂯂Ȃ��Ȃ�BUnimplemented
-Small Bit,10000,3,0,0,1,1,0,0,1,If the holder is hit by a skill with 70 or less BP the attacker takes 1/8th of their max HP as damage.
-Cursed Doll,3000,3,0,0,1,1,0,0,1,When held skills that wouldn't hit due to type immunity will now work.
-Fluorite,120000,3,0,0,1,1,0,0,1,Protection moves used by the holder get their duration increased in battle to 8 turns.
-Large Shield,5000,3,0,0,1,1,0,0,1,When held, resisted attacks will deal halved damage, and barrier piercing attacks will deal doubled damage.
-Dragon Amulet,5000,3,0,0,1,1,0,0,1,A Puppet holding this item is no longer susceptible to critical hits.
-Almighty Godstone,250000,3,0,0,1,1,0,0,1,Lengthens duration of any Weather condition when used by the holder to 8 turns.
-Silent Godstone,100000,3,0,0,1,1,0,0,1,Lengthens duration of the Calm when used by the holder to 8 turns.
-Halo Godstone,100000,3,0,0,1,1,0,0,1,Lengthens duration of the Aurora when used by the holder to 8 turns.
-Twilight Godstone,100000,3,0,0,1,1,0,0,1,Lengthens duration of the Heavy Fog when used by the holder to 8 turns.
-Sand Godstone,100000,3,0,0,1,1,0,0,1,Lengthens duration of the Dust Storm when used by the holder to 8 turns.
-Serein Godstone,100000,3,0,0,1,1,0,0,1,Lengthens duration of Sunshower when used by the holder to 8 turns.
-Diamond Hairpin,1000,3,0,0,1,1,0,0,1,When held, the power of Void skills is boosted by 20%.
-Ruby Hairpin,1000,3,0,0,1,1,0,0,1,When held, the power of Fire skills is boosted by 20%.
-Sapphire Hairpin,1000,3,0,0,1,1,0,0,1,When held, the power of Water skills is boosted by 20%.
-Emerald Hairpin,1000,3,0,0,1,1,0,0,1,When held, the power of Nature skills is boosted by 20%.
-Quartz Hairpin,1000,3,0,0,1,1,0,0,1,When held, the power of Earth skills is boosted by 20%.
-Hematite Hairpin,1000,3,0,0,1,1,0,0,1,When held, the power of Steel skills is boosted by 20%.
-Jade Hairpin,1000,3,0,0,1,1,0,0,1,When held, the power of Wind skills is boosted by 20%.
-Topaz Hairpin,1000,3,0,0,1,1,0,0,1,When held, the power of Electric skills is boosted by 20%.
-Opal Hairpin,1000,3,0,0,1,1,0,0,1,When held, the power of Light skills is boosted by 20%.
-Obsidian Hairpin,1000,3,0,0,1,1,0,0,1,When held, the power of Dark skills is boosted by 20%.
-Sugilite Hairpin,1000,3,0,0,1,1,0,0,1,When held, the power of Nether skills is boosted by 20%.
-Amethyst Hairpin,1000,3,0,0,1,1,0,0,1,When held, the power of Poison skills is boosted by 20%.
-Amber Hairpin,1000,3,0,0,1,1,0,0,1,When held, the power of Fighting skills is boosted by 20%.
-Clear Hairpin,1000,3,0,0,1,1,0,0,1,When held, the power of Illusion skills is boosted by 20%.
-Onyx Hairpin,1000,3,0,0,1,1,0,0,1,When held, the power of Sound skills is boosted by 20%.
-Lapis Hairpin,1000,3,0,0,1,1,0,0,1,When held, the power of Warped skills is boosted by 20%.
-Blinding Orb,1000,3,0,0,1,1,0,0,1,A Puppet holding this item will always be able to escape from a wild battle.
-Wooden Sword,5000,3,0,0,1,1,0,0,1,A wooden sword designed for training. A Puppet holding this will increase the amount of PP it earns from battle.
-Combat Handbook,8000,3,0,0,1,1,0,0,1,A fighting manual. When held, it increases EXP gained in battle by 50%.
-Layla's Amulet,0,3,0,0,0,1,0,0,1,Hidden under an old photograph. When held by a Puppet, the item drop rates from battle are doubled.
-Native Grace,10000000,3,0,0,0,1,0,0,1,A charm given by Suwako. If held, EXP and PP gain in battle will be doubled.
-Boundary Trance,2,3,0,0,1,1,0,0,0,A stone with rainbow and transparent blue halves. Special Puppets holding this will have their stats doubled.
-Ancient Coin,0,3,0,0,0,1,0,0,1,You can't continue if you only have one! When held, the chances of successful Puppet sealing is increased.
-Youma Scroll: Red,5000,3,0,0,1,1,0,0,0,A scroll with a red hemming written by various youkai. This item cannot be disposed.
-Youma Scroll: Blue,5000,3,0,0,1,1,0,0,0,A scroll with a blue hemming written by various youkai. This item cannot be disposed.
-Youma Scroll: Black,5000,3,0,0,1,1,0,0,0,A scroll with a black hemming written by various youkai. This item cannot be disposed.
-Youma Scroll: White,5000,3,0,0,1,1,0,0,0,A scroll with a white hemming written by various youkai. This item cannot be disposed.
-Counter Bit,250000,3,0,0,1,1,0,0,1,When held, if you receive damage from a BU-skill, the attacker takes 1/8th of their max HP as damage.
-Reflect Bit,250000,3,0,0,1,1,0,0,1,When held, if you receive damage from a EN-skill, the attacker takes 1/8th of their max HP as damage.
-Hope Mask,100,3,0,0,1,1,0,0,0,A mask with a hopeful expression. Cannot be flinched while holding this item. This item cannot be disposed.
-Iron Will Ribbon,10000,3,0,0,1,1,0,0,1,If the Puppet holding this only knows 3 skills, the damage received will be reduced by 10%.
-Outlook Glasses,10000,3,0,0,1,1,0,0,1,When held, the foe's held item will be identified.
-Javelin Arts,10000,3,0,0,1,1,0,0,1,A book detailing the tricks of battle. When held, the power of Javelin-type skills will be increased by 20%.
-Dream Shard,0,3,0,0,0,1,0,0,0,Mysterious gem that constantly changes color. A special Puppet holding this will have 10% increased stats.
-Bell Hairpin,0,3,0,0,0,1,0,0,1,A small, bell-shaped hairpin. When held by the first Puppet in your party, Puppet encounters will increase.
-Ancient Lunar Sake,0,3,0,0,0,1,0,0,1,Millennium brewed sake. When held by the first Puppet in your party, Puppet encounters will decrease.
-Hakurei Amulet,10000000,3,0,0,1,1,0,0,1,Amulet that holds the gracious power of the Hakurei. When held, EXP and PP gained will increase.
-Capture Rope,20000,3,0,0,1,1,0,0,1,Inescapable cursed rope. When held, switch out skills are disabled for the foe. Useless with trapping abilities.
-Skill Card 1,25000,4,0,1,0,0,0,106,1,Fire Javelin
-Skill Card 2,25000,4,0,1,0,0,0,155,1,Water Javelin
-Skill Card 3,25000,4,0,1,0,0,0,206,1,Grass Javelin
-Skill Card 4,25000,4,0,1,0,0,0,353,1,Wind Javelin
-Skill Card 5,25000,4,0,1,0,0,0,403,1,Spark Javelin
-Skill Card 6,25000,4,0,1,0,0,0,454,1,Light Javelin
-Skill Card 7,25000,4,0,1,0,0,0,603,1,Shadow Javelin
-Skill Card 8,0,4,0,1,0,0,0,20,1,Overskill
-Skill Card 9,0,4,0,1,0,0,0,22,1,Frenzied Joururi
-Skill Card 10,0,4,0,1,0,0,0,24,1,Blow from Calamity
-Skill Card 11,0,4,0,1,0,0,0,107,1,Rising Sun
-Skill Card 12,0,4,0,1,0,0,0,104,1,Burn Strike
-Skill Card 13,0,4,0,1,0,0,0,152,1,Waterfall Drop
-Skill Card 14,0,4,0,1,0,0,0,204,1,Voice of Famine
-Skill Card 15,0,4,0,1,0,0,0,201,1,Tumble Plant
-Skill Card 16,0,4,0,1,0,0,0,253,1,Shooting Press
-Skill Card 17,0,4,0,1,0,0,0,254,1,Rocky Barrage
-Skill Card 18,0,4,0,1,0,0,0,257,1,Spiked Stones
-Skill Card 19,0,4,0,1,0,0,0,303,1,Impact Rebellion
-Skill Card 20,0,4,0,1,0,0,0,301,1,Clearing Mist
-Skill Card 21,0,4,0,1,0,0,0,351,1,Gensokyo Typhoon
-Skill Card 22,0,4,0,1,0,0,0,354,1,Air Stamp
-Skill Card 23,0,4,0,1,0,0,0,355,1,Thieving Wind
-Skill Card 24,0,4,0,1,0,0,0,404,1,Plasma Ball
-Skill Card 25,0,4,0,1,0,0,0,455,1,Sunbeam Dance
-Skill Card 26,0,4,0,1,0,0,0,452,1,Evil-Crushing Arrow
-Skill Card 27,0,4,0,1,0,0,0,504,1,Changeling
-Skill Card 28,0,4,0,1,0,0,0,507,1,Dark Arrow
-Skill Card 29,0,4,0,1,0,0,0,506,1,Lost Crisis
-Skill Card 30,0,4,0,1,0,0,0,605,1,Unfettered Soul
-Skill Card 31,0,4,0,1,0,0,0,553,1,Poisoned Arrow
-Skill Card 32,0,4,0,1,0,0,0,655,1,Vacuum Rupture
-Skill Card 33,0,4,0,1,0,0,0,656,1,Meteor Impact
-Skill Card 34,0,4,0,1,0,0,0,664,1,Break Shot
-Skill Card 35,0,4,0,1,0,0,0,666,1,Charging Stun
-Skill Card 36,0,4,0,1,0,0,0,706,1,Flower of Hell
-Skill Card 37,0,4,0,1,0,0,0,707,1,St. Elmo's Fire
-Skill Card 38,0,4,0,1,0,0,0,751,1,Dancing Rain
-Skill Card 39,0,4,0,1,0,0,0,34,1,Tri Effect
-Skill Card 40,0,4,0,1,0,0,0,37,1,Heavenly Blessing
-Skill Card 41,0,4,0,1,0,0,0,38,1,Earthly Blessing
-Skill Card 42,0,4,0,1,0,0,0,116,1,Flashover
-Skill Card 43,35000,4,0,1,0,0,0,111,1,Inferno
-Skill Card 44,35000,4,0,1,0,0,0,162,1,Cold Rain
-Skill Card 45,0,4,0,1,0,0,0,165,1,Lazy Mist
-Skill Card 46,0,4,0,1,0,0,0,212,1,Rainbow Flowers
-Skill Card 47,0,4,0,1,0,0,0,213,1,Pollen Mist
-Skill Card 48,0,4,0,1,0,0,0,264,1,Jewelry Storm
-Skill Card 49,0,4,0,1,0,0,0,313,1,Chrome Ray
-Skill Card 50,0,4,0,1,0,0,0,363,1,Smash Spin
-Skill Card 51,35000,4,0,1,0,0,0,405,1,Thunderlord's Scorn
-Skill Card 52,0,4,0,1,0,0,0,410,1,Lightning Speed
-Skill Card 53,0,4,0,1,0,0,0,407,1,Thunder Force
-Skill Card 54,0,4,0,1,0,0,0,460,1,Star Flare
-Skill Card 55,0,4,0,1,0,0,0,511,1,Eye of Laplace
-Skill Card 56,0,4,0,1,0,0,0,610,1,Ghost Wave
-Skill Card 57,0,4,0,1,0,0,0,611,1,Love or Pain
-Skill Card 58,0,4,0,1,0,0,0,555,1,Poison Bomb
-Skill Card 59,35000,4,0,1,0,0,0,670,1,GIGANTIC
-Skill Card 60,0,4,0,1,0,0,0,716,1,Unknown Flare
-Skill Card 61,0,4,0,1,0,0,0,712,1,Gravity Blast
-Skill Card 62,0,4,0,1,0,0,0,756,1,Ultra High Tone
-Skill Card 63,0,4,0,1,0,0,0,41,1,Supernatural Border
-Skill Card 64,15000,4,0,1,0,0,0,42,1,Barrier Option
-Skill Card 65,15000,4,0,1,0,0,0,47,1,Unconscious Mind
-Skill Card 66,0,4,0,1,0,0,0,54,1,Confine
-Skill Card 67,0,4,0,1,0,0,0,121,1,Thermit
-Skill Card 68,0,4,0,1,0,0,0,173,1,Drought
-Skill Card 69,0,4,0,1,0,0,0,366,1,Squall
-Skill Card 70,15000,4,0,1,0,0,0,461,1,Field Barrier
-Skill Card 71,15000,4,0,1,0,0,0,462,1,Field Protect
-Skill Card 72,15000,4,0,1,0,0,0,463,1,Lucky Rainbow
-Skill Card 73,0,4,0,1,0,0,0,468,1,Flash Bullet
-Skill Card 74,0,4,0,1,0,0,0,513,1,Shark Trade
-Skill Card 75,0,4,0,1,0,0,0,518,1,Sweet Nightmare
-Skill Card 76,0,4,0,1,0,0,0,618,1,Behind You!
-Skill Card 77,0,4,0,1,0,0,0,561,1,Miasma
-Skill Card 78,15000,4,0,1,0,0,0,718,1,Continue
-Skill Card 79,0,4,0,1,0,0,0,762,1,Upbeat
-Skill Card 80,0,4,0,1,0,0,0,776,1,Claim
-Skill Card 81,15000,4,0,1,0,0,0,802,1,Distortion Bomb
-Skill Card 82,15000,4,0,1,0,0,0,804,1,Stealth Kill
-Skill Card 83,15000,4,0,1,0,0,0,806,1,Dense Fog Bloom
-Skill Card 84,15000,4,0,1,0,0,0,807,1,Impulse
-Skill Card 85,15000,4,0,1,0,0,0,809,1,Field Break
-Skill Card 86,15000,4,0,1,0,0,0,377,1,Flying Frenzy
-Skill Card 87,15000,4,0,1,0,0,0,402,1,Lightning Cut
-Skill Card 88,15000,4,0,1,0,0,0,661,1,Dancing Sword
-Skill Card 89,15000,4,0,1,0,0,0,752,1,High Tone Crush
-Skill Card 90,20000,4,0,1,0,0,0,65,1,Overrun
-Skill Card 91,15000,4,0,1,0,0,0,115,1,Backdraft
-Skill Card 92,15000,4,0,1,0,0,0,164,1,Frozen Prison
-Skill Card 93,15000,4,0,1,0,0,0,378,1,Spinning Air
-Skill Card 94,15000,4,0,1,0,0,0,510,1,Dark Sweets
-Skill Card 95,15000,4,0,1,0,0,0,682,1,Brave Burst
-Skill Card 96,15000,4,0,1,0,0,0,714,1,Catastrophe
-Skill Card 97,15000,4,0,1,0,0,0,608,1,Poltergeist
-Skill Card 98,35000,4,0,1,0,0,0,120,1,Will-o-Wisp
-Skill Card 99,35000,4,0,1,0,0,0,424,1,Shocking Wave
-Skill Card 100,35000,4,0,1,0,0,0,571,1,Acid Tears
-Skill Card 101,15000,4,0,1,0,0,0,69,1,Heavenly Influence
-Skill Card 102,15000,4,0,1,0,0,0,70,1,Earthly Influence
-Skill Card 103,15000,4,0,1,0,0,0,380,1,Passing Breeze
-Skill Card 104,15000,4,0,1,0,0,0,278,1,Destruction Rift
-Skill Card 105,35000,4,0,1,0,0,0,820,1,Limitless Realm
-Skill Card 106,0,4,0,1,0,0,0,824,1,Delirium
-Skill Card 107,0,4,0,1,0,0,0,823,1,Take Over
-Skill Card 108,0,4,0,1,0,0,0,822,1,Blitzkrieg
-Skill Card 109,0,255,0,0,1,0,0,1023,1,Skill Card �P�O�X�B
-Skill Card 110,0,255,0,0,1,0,0,1023,1,Skill Card �P�P�O�B
-Skill Card 111,0,255,0,0,1,0,0,1023,1,Skill Card �P�P�P�B
-Skill Card 112,0,255,0,0,1,0,0,1023,1,Skill Card �P�P�Q�B
-Skill Card 113,0,255,0,0,1,0,0,1023,1,Skill Card �P�P�R�B
-Skill Card 106,15000,4,0,1,0,0,0,127,1,Fire Sign
-Skill Card 107,15000,4,0,1,0,0,0,179,1,Water Sign
-Skill Card 108,15000,4,0,1,0,0,0,233,1,Nature Sign
-Skill Card 109,15000,4,0,1,0,0,0,273,1,Earth Sign
-Skill Card 110,15000,4,0,1,0,0,0,327,1,Steel Sign
-Skill Card 111,15000,4,0,1,0,0,0,375,1,Wind Sign
-Skill Card 112,15000,4,0,1,0,0,0,421,1,Electric Sign
-Skill Card 113,15000,4,0,1,0,0,0,474,1,Light Sign
-Skill Card 114,15000,4,0,1,0,0,0,524,1,Dark Sign
-Skill Card 115,15000,4,0,1,0,0,0,623,1,Nether Sign
-Skill Card 116,15000,4,0,1,0,0,0,566,1,Poison Sign
-Skill Card 117,15000,4,0,1,0,0,0,680,1,Fighting Sign
-Skill Card 118,15000,4,0,1,0,0,0,741,1,Illusion Sign
-Skill Card 119,15000,4,0,1,0,0,0,782,1,Sound Sign
-Skill Card 120,15000,4,0,1,0,0,0,817,1,Warped Sign
-Plain Doll,1000,5,1,0,1,0,0,0,1,A doll that can be used as a distraction to escape from a wild Puppet battle.
-Seal Thread,200,5,1,0,1,0,0,0,1,A sturdy thread used to seal Puppets.
-Contract Thread,600,5,1,0,1,0,0,0,1,A thread for sealing Puppets that's more expensive and better quality than a Seal Thread.
-Oath Thread,1200,5,1,0,1,0,0,0,1,A thread for sealing Puppets that's more expensive and better quality than a Contract Thread.
-Fate Thread,5000,5,1,0,1,0,0,0,1,The best quality thread that can seal any Puppet.
-Puppet Book,0,6,0,0,0,0,0,0,1,An encyclopedia written about the Puppets that have started to outbreak in Gensokyo.
-Alice's Package,0,6,0,0,0,0,0,0,1,A package intended for a person named Alice. Apparently she's in the forest.
-Gensokyo Map,0,6,0,1,0,0,0,0,1,Map of Gensokyo.
-Puppet Box,0,6,0,0,0,0,0,0,1,The box where Puppets are stored. Can be opened at Akyuu Dolls.
-Bicycle,0,6,0,1,0,0,0,0,1,A foldable bicycle that makes you go faster than running. Press Select to hop onto it.
-Woodcutter Doll,0,6,0,0,0,0,0,0,1,A doll that can cut down small trees. Does not appear to be autonomous.
-Superpower Glove,0,6,0,0,0,0,0,0,1,Gloves that make smashing rocks possible.
-Inflatable Boat,0,6,0,1,0,0,0,0,1,A boat that can be used to cross bodies of water.
-Gap Map,0,6,0,1,0,0,0,0,1,A map of Gensokyo that will allow you to travel to locations you've been.
-Peach Hairpin,0,6,0,0,0,0,0,0,1,One of Kasen's lost items. This is part of four items to find. When all are found, return to Kasen.
-Dog Whistle,0,6,0,0,0,0,0,0,1,One of Kasen's lost items. This is part of four items to find. When all are found, return to Kasen.
-Monkey Seat,0,6,0,0,0,0,0,0,1,One of Kasen's lost items. This is part of four items to find. When all are found, return to Kasen.
-Way of the Knife,0,6,0,0,0,0,0,0,1,One of Kasen's lost items. This is part of four items to find. When all are found, return to Kasen.
-Incident Case -1-,0,6,0,0,0,0,0,0,1,First Volume of the Puppet Incident accounts.
-Incident Case -2-,0,6,0,0,0,0,0,0,1,Second Volume of the Puppet Incident accounts.
-Incident Case -3-,0,6,0,0,0,0,0,0,1,Third Volume of the Puppet Incident accounts.
-Incident Case -4-,0,6,0,0,0,0,0,0,1,Fourth Volume of the Puppet Incident accounts.
-Incident Case -5-,0,6,0,0,0,0,0,0,1,Fifth Volume of the Puppet Incident accounts.
-Incident Case -6-,0,6,0,0,0,0,0,0,1,Sixth Volume of the Puppet Incident accounts.
-Incident Case -7-,0,6,0,0,0,0,0,0,1,Seventh Volume of the Puppet Incident accounts.
-Incident Case -8-,0,6,0,0,0,0,0,0,1,Eighth Volume of the Puppet Incident accounts.
-Incident Case -9-,0,6,0,0,0,0,0,0,1,Ninth Volume of the Puppet Incident accounts.
-Incident Case -10-,0,6,0,0,0,0,0,0,1,Tenth Volume of the Puppet Incident accounts.
-Old Key,0,6,0,0,0,0,0,0,1,An aged key that unlocks the door to the basement of the SDM. Can only be used once.
-Large Cotton,0,6,0,0,0,0,0,0,1,A large quantity of cotton for making a doll.
-Needle,0,6,0,0,0,0,0,0,1,A sewing needle.
-Thread,0,6,0,0,0,0,0,0,1,Large sewing thread.
-Scissors,0,6,0,0,0,0,0,0,1,Cloth cutting scissors.
-Cloth,0,6,0,0,0,0,0,0,1,Large brown cloth.
-Big Teddy Bear,0,6,0,0,0,0,0,0,1,Surprisingly large teddy bear.
-Ripped Teddy Bear,0,6,0,0,0,0,0,0,1,A teddy bear torn to shreds. 
-Whole Shortcake,0,6,0,0,0,0,0,0,1,A whole shortcake.
-Shortcake,0,6,0,0,0,0,0,0,1,Part of a shortcake.
-Item622,0,255,0,0,0,0,0,0,1,Removed.
-Emblem of Challenge,0,6,0,0,0,0,0,0,1,An emblem with an inscription. It says "Always up for a good fight.".
-Emblem of Japes,0,6,0,0,0,0,0,0,1,An emblem with an inscription. It says "That�fs right, you�fre the jape, it�fs you.".
-Emblem of Rainbow,0,6,0,0,0,0,0,0,1,An emblem with an inscription. It says "Luck is on your side, you can do it!".
-Emblem of Fortuity,0,6,0,0,0,0,0,0,1,An emblem with an inscription. It says "FPTWYSKZURVPEHDDDPGN".
-Item627,0,255,0,0,0,0,0,0,1,Removed.
-Emblem of Regret,0,6,0,0,0,0,0,0,1,An emblem with an inscription. It says "Cleanse this world".
-Emblem of Patience,0,6,0,0,0,0,0,0,1,An emblem with an inscription. It says "Bad things come to those who stall".
-Emblem of Flowers,0,6,0,0,0,0,0,0,1,An emblem with an inscription. It says "I am the original demon god, kneel before me!".
-Emblem of Prayers,0,6,0,0,0,0,0,0,1,An emblem with an inscription. I think it's french. Can't decipher it.
-Emblem of Bliss,0,6,0,0,0,0,0,0,1,An emblem with an inscription. It says "The bullet has been dodged".
-Emblem of Melody,0,6,0,0,0,0,0,0,1,An emblem with an inscription. It says "Hear my song".
-Supreme Proof,0,6,0,0,0,0,0,0,1,Proof with an image of Shinki making a peace sign. "Thanks for playing!" is written on it.
-Tengu Geta,250000,3,0,0,1,1,0,0,1,Shoes used by the Tengu. A puppet holding this is immune against traps.
-Radiant Hairpin,250000,3,0,0,1,1,0,0,1,A lost hairpin that reacts strongly to life. The holder's damage increases based on high their HP % is.
-Shounen Manga,0,255,0,0,0,0,0,0,1,When held, the holder's damage increases based on how low their HP % is. Unimplemented.
-Tsuzumi Drum,250000,3,0,0,1,1,0,0,1,An everlasting drum. When held, the holder's damage increases by 30% if they know no moves of their own type.
-Nokia Will Ribbon,0,255,0,0,0,0,0,0,1,If the Puppet holding this only knows 3 skills, the damage received will be reduced. Unimplemented.
-Eden's Apple,0,255,0,0,0,0,0,0,1,Blocks all enemy status skills. Inaccessible to the player. Unimplemented.
-Pure Sand,500000,3,0,0,1,1,0,0,1,Pure sand of the moon. During Genbu, your accuracy is increased by 50%.
-Izanagi Object,500000,3,0,0,1,1,0,0,1,A gem inheriting the power of the gods. During Kohryu, speed is increased by 50%.
-Yggdrasil Seed,500000,3,0,0,1,1,0,0,1,A shining seed. During Seiryuu, damage is increased by 50% for both sides.
-Crystal Mirror,500000,3,0,0,1,1,0,0,1,A mirror that exposes all past sins. During Byakko, moves your opponent would be immune against become neutral.
-Spirit Torch,500000,3,0,0,1,1,0,0,1,A torch that burns both body and soul. During Suzaku, the opponent loses 1/8th of their HP every turn.
-Giant Bit,10000,3,0,0,1,1,0,0,1,If the holder is hit with a skill with 100 or more BP the opponent takes 1/8th of their max HP as damage.
-Absorber,250000,3,0,0,1,1,0,0,1,A red device resembling a cross. If the holder resists a move, the holder recovers 18% of their max HP.
-Oxygen Magatama,0,6,0,0,0,0,0,0,1,A magatama made by Misumaru that allows you to breathe for a limited time in the Rainbow Dragon Cave.
-Grimoire of Marisa,0,6,0,0,0,0,0,0,1,An old notebook Marisa worked on. It contains notes about various danmaku. Who would be interested in this?
+Bead Necklace  100  0  0  1  1  0  0  0  1  Disposable prayer beads. Will repel Puppets for up to 100 steps.
+Talisman  200  0  0  1  1  0  0  0  1  Disposable talismans. Will repel Puppets for up to 200 steps.
+Magatama  300  0  0  1  1  0  0  0  1  Disposable magatama. Will repel Puppets for up to 300 steps.
+Copper Coin  400  0  0  0  1  0  0  0  1  Cannot be used as currency in the outside world. Sells cheaply.
+Watch  400  0  0  0  1  0  0  0  1  A device for telling time that drifted in from the outside world. Sells cheaply.
+Gold Dust  1000  0  0  0  1  0  0  0  1  Solid gold that's been turned to dust. Sells at a reasonable price. Currently unpossessed by evil spirits.
+Pearl  1000  0  0  0  1  0  0  0  1  A piece of white jewelry. Sells at a reasonable price.
+Mushroom Powder  3000  0  0  0  1  0  0  0  1  What it's actually used for is unclear. Sells for a respectable price. Handle with care.
+Grimoire  3000  0  0  0  1  0  0  0  1  It is unknown who wrote this. Sells for a respectable price.
+Handheld G Console  6000  0  0  0  0  0  0  0  1  A gaming device that folds closed.
+Handheld Console  6000  0  0  0  1  0  0  0  1  A gaming device that folds closed. Unlikely to be useful in Gensokyo so I'll sell it and buy a new one later.
+Silver Coin  10000  0  0  0  1  0  0  0  1  Cannot be used as currency in the outside world. Sells at a high price.
+Vintage Wine  10000  0  0  0  1  0  0  0  1  Antique wine. Sells at a high price.
+Gold Coin  20000  0  0  0  1  0  0  0  1  Can not be used as currency. Sells at a very high price.
+Magic Crystal  20000  0  0  0  1  0  0  0  1  Remnants of magic that became crystallized after long periods of time. Sells at a very high price.
+Magical Fragment  400  0  0  0  1  0  0  0  1  Pieces of crystallized magic. These might be useful if I hold onto them.
+Reincarnation Items  0  0  0  0  1  0  0  0  1  Item�O�S�Q�B
+Red Mark  0  0  0  0  0  0  1  0  1  A Red Seal. When used in the Reincarnation process it gives your Puppets the Red Mark.
+Blue Mark  0  0  0  0  0  0  1  0  1  A Blue Seal. When used in the Reincarnation process it gives your Puppets the Blue Mark.
+Black Mark  0  0  0  0  0  0  1  0  1  A Black Seal. When used in the Reincarnation process it gives your Puppets the Black Mark.
+White Mark  0  0  0  0  0  0  1  0  1  A White Seal. When used in the Reincarnation process it gives your Puppets the White Mark.
+Green Mark  0  0  0  0  0  0  1  0  1  A Green Seal. When used in the Reincarnation process it gives your Puppets the Green Mark.
+Omega M.Stone  0  0  0  0  0  0  2  0  1  A mysterious magic stone. When used in Reincarnation it holds all the Puppet's ranks.
+Gold M.Stone  0  0  0  0  0  0  2  0  1  A mysterious magic stone. When used in Reincarnation it holds the Puppet's HP rank.
+Red M.Stone  0  0  0  0  0  0  2  0  1  A mysterious magic stone. When used in Reincarnation it holds the Puppet's FoAtk rank.
+Blue M.Stone  0  0  0  0  0  0  2  0  1  A mysterious magic stone. When used in Reincarnation it holds the Puppet's FoDef rank.
+Black M.Stone  0  0  0  0  0  0  2  0  1  A mysterious magic stone. When used in Reincarnation it holds the Puppet's SpAtk rank.
+White M.Stone  0  0  0  0  0  0  2  0  1  A mysterious magic stone. When used in Reincarnation it holds the Puppet's SpDef rank.
+Green M.Stone  0  0  0  0  0  0  2  0  1  A mysterious magic stone. When used in Reincarnation it holds the Puppet's Speed rank.
+Rainbow M.Stone  0  0  0  0  0  0  2  0  1  A mysterious magic stone. When used in Reincarnation it ups random additional ranks being passed.
+B.Dream Pill  1000  0  0  0  1  0  0  0  1  If the normal butterfly dream pills are unsatisfactory, this nightmare-type is for you.
+Fujiwara Senbei  300  1  1  1  1  0  0  0  1  A hard rice cracker baked in bamboo charcoal. Heals 20 HP.
+Hakugyou Dango  500  1  1  1  1  0  0  0  1  A dumpling autographed by the mistress of Hakugyokurou. Heals 50 HP.
+Chirei Sweet Bun  700  1  1  1  1  0  0  0  1  Popular steamed bun souvenir. Heals 100 HP.
+Misty Jelly  1200  1  1  1  1  0  0  0  1  Moderately sweet bean jelly. Heals 200 HP.
+Dessert of the Sun  2500  1  1  1  1  0  0  0  1  A jam with a generous helping of fruit. Fully heals HP.
+Bhava-Agra Set  3000  1  1  1  1  0  0  0  1  Assortment of peaches from Heaven. Fully restores a Puppet's HP and removes status effects.
+Moriya Shinshu  1500  1  1  1  1  0  0  0  1  Sacred sake used for spiritual rites at the Moriya Shrine. Restores a fainted Puppet to half HP.
+Hakurei Shinshu  4000  1  1  1  1  0  0  0  1  Sacred sake used for spiritual rites at the Hakurei Shrine. Restores a fainted Puppet to full HP.
+Myouren Tea  600  1  1  1  1  0  0  0  1  Tea brewed by a nun of Myouren Temple. Granting one a relaxed sensation it recovers status ailments.
+Junmai Sake  1200  255  1  1  1  0  0  0  1  Recovers 10 SP to one Skill of an individual Puppet. Unimplimented.
+Honjouzou Sake  2000  255  1  1  1  0  0  0  1  Restores full SP to one skill of an individual Puppet. Unimplimented.
+Ginjou Sake  3000  255  1  1  1  0  0  0  1  Recovers 10 SP to all Skills of an individual Puppet. Unimplimented.
+Daiginjou Sake  4500  255  1  1  1  0  0  0  1  Restores full SP to all skills of an individual Puppet. Unimplimented.
+Rainbow Candy  4800  1  0  1  1  0  0  0  1  Candy in the seven colors of the rainbow. Raises an individual Puppet's level by 1.
+Clear Stream Mochi  10000  1  0  1  1  0  0  0  1  Light and transparent mochi. Resets PP in all stats.
+Anti-Fire Charm  15000  2  0  0  1  1  0  0  1  When held, damage dealt from Fire-skills will be halved once.
+Anti-Aqua Charm  15000  2  0  0  1  1  0  0  1  When held, damage dealt from Water-skills will be halved once.
+Anti-Flora Charm  15000  2  0  0  1  1  0  0  1  When held, damage dealt from Nature-skills will be halved once.
+Anti-Earth Charm  15000  2  0  0  1  1  0  0  1  When held, damage dealt from Earth-skills will be halved once.
+Anti-Steel Charm  15000  2  0  0  1  1  0  0  1  When held, damage dealt from Steel-skills will be halved once.
+Anti-Wind Charm  15000  2  0  0  1  1  0  0  1  When held, damage dealt from Wind-skills will be halved once.
+Anti-Bolt Charm  15000  2  0  0  1  1  0  0  1  When held, damage dealt from Electric-skills will be halved once.
+Anti-Light Charm  15000  2  0  0  1  1  0  0  1  When held, damage dealt from Light-skills will be halved once.
+Anti-Dark Charm  15000  2  0  0  1  1  0  0  1  When held, damage dealt from Dark-skills will be halved once.
+Anti-Necro Charm  15000  2  0  0  1  1  0  0  1  When held, damage dealt from Nether-skills will be halved once.
+Anti-Toxin Charm  15000  2  0  0  1  1  0  0  1  When held, damage dealt from Poison-skills will be halved once.
+Anti-Fight Charm  15000  2  0  0  1  1  0  0  1  When held, damage dealt from Fighting-skills will be halved once.
+Anti-Veil Charm  15000  2  0  0  1  1  0  0  1  When held, damage dealt from Illusion-skills will be halved once.
+Anti-Sound Charm  15000  2  0  0  1  1  0  0  1  When held, damage dealt from Sound-skills will be halved once.
+Anti-Warp Charm  15000  2  0  0  1  1  0  0  1  When held, damage dealt from Warped-skills will be halved once.
+Wedge Charm  50000  2  0  0  1  1  0  0  1  In a pinch, this will raise the Puppet's FoAtk stat.
+Column Charm  50000  2  0  0  1  1  0  0  1  In a pinch, this will raise the Puppet's FoDef stat.
+Vee Charm  50000  2  0  0  1  1  0  0  1  In a pinch, this will raise the Puppet's SpAtk stat.
+Hexagon Charm  50000  2  0  0  1  1  0  0  1  In a pinch, this will raise the Puppet's SpDef stat.
+Skirmisher Charm  50000  2  0  0  1  1  0  0  1  In a pinch, this will raise the Puppet's Speed stat.
+Blitz Charm  50000  2  0  0  1  1  0  0  1  In a pinch, this will raise the Puppet's Critical Hit rate.
+Rotation Charm  50000  2  0  0  1  1  0  0  1  In a pinch, this will sharply raise one random stat.
+Pinpoint Charm  50000  2  0  0  1  1  0  0  1  In a pinch, this will raise the Puppet's Accuracy stat.
+Echelon Charm  50000  2  0  0  1  1  0  0  1  In a pinch, this will raise the Puppet's Evasion stat.
+Swift Charm  15000  255  0  0  1  1  0  0  1  In a pinch, this will allow the Puppet to move before the other party. Unimplimented.
+Life Charm  50000  2  0  0  1  1  0  0  1  When held, the Puppet will restore 25% HP once its health drops below 50% HP.
+Curing Charm  50000  2  0  0  1  1  0  0  1  When held, it can recover from all ailments.
+Massage Charm  20000  2  0  0  1  1  0  0  1  When held, it can recover from Paralysis.
+Awakening Charm  20000  2  0  0  1  1  0  0  1  When held, it can recover from Stop.
+Antidote Charm  20000  2  0  0  1  1  0  0  1  When held, it can recover from Poison.
+Ointment Charm  20000  2  0  0  1  1  0  0  1  When held, it can recover from Burn.
+Light Charm  20000  2  0  0  1  1  0  0  1  When held, it can recover from Darkness.
+Relief Charm  20000  2  0  0  1  1  0  0  1  When held, it can recover from Fear.
+Courage Charm  20000  2  0  0  1  1  0  0  1  When held, it can recover from Weakness.
+Clarity Charm  20000  2  0  0  1  1  0  0  1  When held, it can recover from confusion.
+Dispel Charm  50000  2  0  0  1  1  0  0  1  When held, if the user becomes unable to use skills, the status is healed once.
+Healing Charm  1500  2  0  0  1  1  0  0  1  When held, it can recover 20 HP.
+Restart Charm  20  255  0  0  1  1  0  0  1  When held by a Puppet, it can recover 10 SP. Unimplimented.
+Thorn Charm  50000  2  0  0  1  1  0  0  1  When held, if attacked by a foe with a FoAtk, 1/8th of the foe's max HP will be dealt back as damage.
+Reflect Charm  20  255  0  0  1  1  0  0  1  When held, if attacked by a foe with a SpAtk, 1/8th of the foe's max HP will be dealt back as damage.
+Purify Charm  100000  2  0  0  1  1  0  0  1  When held, if the holder's stats are lowered, the lowered stats will be reverted.
+Haste Charm  100000  2  0  0  1  1  0  0  1  When held, skills that take two turns to use only take one.
+Eviction Notice  250000  2  0  0  1  1  0  0  1  The attacker will switch places with another Puppet in their party after the holder has been attacked.
+Retreat Manual  250000  2  0  0  1  1  0  0  1  The defender will switch places with another Puppet in their party after the holder has been attacked.
+Black Choker  250000  2  0  0  1  1  0  0  1  When held, a Puppet can withstand one skill that would otherwise KO them.
+Diamond  25000  2  0  0  1  1  0  0  1  Clear jewelry. Raises the power of Void skills once by 40%.
+Ruby  25000  2  0  0  1  1  0  0  1  Red jewelry. Raises the power of Fire skills once by 40%.
+Sapphire  25000  2  0  0  1  1  0  0  1  Light blue jewelry. Raises the power of Water skills once by 40%.
+Emerald  25000  2  0  0  1  1  0  0  1  Dark green jewelry. Raises the power of Nature skills once by 40%.
+Tiger Eye  25000  2  0  0  1  1  0  0  1  Brown jewelry. Raises the power of Earth skills once by 40%.
+Hematite  25000  2  0  0  1  1  0  0  1  Gray jewelry. Raises the power of Steel skills once by 40%.
+Jade  25000  2  0  0  1  1  0  0  1  Jade jewelry. Raises the power of Wind skills once by 40%.
+Topaz  25000  2  0  0  1  1  0  0  1  Yellow jewelry. Raises the power of Electric skills once by 40%.
+Opal  25000  2  0  0  1  1  0  0  1  Rainbow jewelry. Raises the power of Light skills once by 40%.
+Obsidian  25000  2  0  0  1  1  0  0  1  Black jewelry. Raises the power of Dark skills once by 40%.
+Sugilite  25000  2  0  0  1  1  0  0  1  Dark purple jewelry. Raises the power of Nether skills once by 40%.
+Amethyst  25000  2  0  0  1  1  0  0  1  Purple jewelry. Raises the power of Poison skills once by 40%.
+Amber  25000  2  0  0  1  1  0  0  1  Orange jewelry. Raises the power of Fighting skills once by 40%.
+Morganite  25000  2  0  0  1  1  0  0  1  Peony-colored jewelry. Raises the power of Illusion skills once by 40%.
+Onyx  25000  2  0  0  1  1  0  0  1  Striped jewelry. Raises the power of Sound skills once by 40%.
+Lapis Lazuli  25000  2  0  0  1  1  0  0  1  Ultramarine jewelry. Raises the power of Warped skills once by 40%.
+Floating Stone  120000  2  0  0  1  1  0  0  1  Makes the holder immune to Earth skills but will crumble if hit by a non-Earth skill.
+Rebellion Tome  250000  2  0  0  1  1  0  0  1  When held, if the user receives a barrier-piercing attack, FoAtk and SpAtk sharply raise.
+Bronze Mirror  120000  2  0  0  1  1  0  0  1  When the opposing Puppet's stats are changed the Puppet holding this will reflect the same stat changes.
+Gold Talisman  250000  2  0  0  1  1  0  0  1  When held, if the user receives a Fo.Atk, Fo.Def is raised.
+Silver Talisman  250000  2  0  0  1  1  0  0  1  When held, if the user receives a Sp.Atk, Sp.Def is raised.
+Red Ring  1000  3  0  0  1  1  0  0  1  When held, the power of Fo.Atk skills is raised by 10%.
+Blue Earrings  1000  3  0  0  1  1  0  0  1  When held, the power of Sp.Atk skills is raised by 10%.
+Deadly Secrets  120000  3  0  0  1  1  0  0  1  A book detailing the tricks of battle. Skills will deal 20% more damage if it pierces the barrier.
+Straw Doll  120000  3  0  0  1  1  0  0  1  Straw doll that is used for magic. When held a Puppet's skills become 30% stronger but receive 10% recoil.
+Choice Ring  250000  3  0  0  1  1  0  0  1  Boosts the power of Focus Attack skills by 50% but you're locked into using the first skill used.
+Choice Earrings  250000  3  0  0  1  1  0  0  1  Boosts the power of Spread Attack skills by 50% but you're locked into using the first skill used.
+Choice Belt  250000  3  0  0  1  1  0  0  1  Boosts Speed by 50%, but you're locked into using the first skill used.
+Repetitive Arts  12000  3  0  0  1  1  0  0  1  A book detailing the tricks of battle. A skill will deal 20% more damage if it is used in repetition.
+Iron Clogs  1000  3  0  0  1  1  0  0  1  Heavy clogs made out of Iron. When held by a Puppet its speed will drop by 50%.
+Rosary  40000  3  0  0  1  1  0  0  1  When held by a Puppet, it will be 10% less likely to be hit by an opposing Puppet's skills.
+Binoculars  40000  3  0  0  1  1  0  0  1  Increases the holder's accuracy by 10%.
+Telescope  40000  3  0  0  1  1  0  0  1  Increases the holder's accuracy by 20% if it moves after the foe.
+Circular Amulet  40000  3  0  0  1  1  0  0  1  A round amulet. A Puppet holding this will recover HP if it is attacked by its foe. Unimplemented.
+Bandage  40000  3  0  0  1  1  0  0  1  If a Puppet holding this uses an absorption skill the recovered amount will be increased.
+Magic Ring  40000  3  0  0  1  1  0  0  1  A mysterious ring. When held critical hit rate is increased by one stage.
+Black Ring  40000  3  0  0  1  1  0  0  1  A Puppet holding this has a 10% chance to survive a lethal attack that would otherwise KO it.
+Sturdy Vine  0  255  0  0  1  1  0  0  1  A sturdy vine that increases the turns of binding moves when held. Unimplemened.
+Sturdy Rope  40000  3  0  0  1  1  0  0  1  A sturdy rope that increases the power of binding moves when held.
+Champion's Medal  40000  3  0  0  1  1  0  0  1  A dignified certificate. When held, skills that connect have a 10% chance to flinch the opponent.
+Feather Hat  0  255  0  0  1  1  0  0  1  Hat with a feather. A Puppet holding this will occasionally move before its foe.
+Heavy Armor  1500  3  0  0  1  1  0  0  1  A Puppet holding this will always move last.
+Food Rations  120000  3  0  0  1  1  0  0  1  A stockpile of food. When held by a Puppet it'll recover 1/16th of its max HP every turn.
+Jar of Poison  25000  3  0  0  1  1  0  0  1  Will heal 1/16th of the Puppet's HP every turn if it's the Poison type. Otherwise the Puppet takes damage.
+Wolfsbane Root  25000  3  0  0  1  1  0  0  1  A deadly poisonous root. Puppets holding this will be badly poisoned.
+Burning Stone  25000  3  0  0  1  1  0  0  1  Stone that was set ablaze. Puppets holding this will be badly burned.
+Substitute Tag  5000  3  0  0  1  1  0  0  1  An amulet with a human carved into it. Allows the holder to switch out even if it would normally be trapped.
+Golden Hairpin  250000  3  0  0  1  1  0  0  1  The Puppet holding this will have 50% increased FoDef, but it will not be able to use support skills.
+Silver Hairpin  250000  3  0  0  1  1  0  0  1  The Puppet holding this will have 50% increased SpDef, but it will not be able to use support skills.
+Protective Mask  0  255  0  0  1  1  0  0  1  (Safety Goggles)�C�����̍����}�X�N�B ��������ƓV��╲�n�̃X�L���̉e�����󂯂Ȃ��Ȃ�BUnimplemented
+Small Bit  10000  3  0  0  1  1  0  0  1  If the holder is hit by a skill with 70 or less BP the attacker takes 1/8th of their max HP as damage.
+Cursed Doll  3000  3  0  0  1  1  0  0  1  When held skills that wouldn't hit due to type immunity will now work.
+Fluorite  120000  3  0  0  1  1  0  0  1  Protection moves used by the holder get their duration increased in battle to 8 turns.
+Large Shield  5000  3  0  0  1  1  0  0  1  When held, resisted attacks will deal halved damage, and barrier piercing attacks will deal doubled damage.
+Dragon Amulet  5000  3  0  0  1  1  0  0  1  A Puppet holding this item is no longer susceptible to critical hits.
+Almighty Godstone  250000  3  0  0  1  1  0  0  1  Lengthens duration of any Weather condition when used by the holder to 8 turns.
+Silent Godstone  100000  3  0  0  1  1  0  0  1  Lengthens duration of the Calm when used by the holder to 8 turns.
+Halo Godstone  100000  3  0  0  1  1  0  0  1  Lengthens duration of the Aurora when used by the holder to 8 turns.
+Twilight Godstone  100000  3  0  0  1  1  0  0  1  Lengthens duration of the Heavy Fog when used by the holder to 8 turns.
+Sand Godstone  100000  3  0  0  1  1  0  0  1  Lengthens duration of the Dust Storm when used by the holder to 8 turns.
+Serein Godstone  100000  3  0  0  1  1  0  0  1  Lengthens duration of Sunshower when used by the holder to 8 turns.
+Diamond Hairpin  1000  3  0  0  1  1  0  0  1  When held, the power of Void skills is boosted by 20%.
+Ruby Hairpin  1000  3  0  0  1  1  0  0  1  When held, the power of Fire skills is boosted by 20%.
+Sapphire Hairpin  1000  3  0  0  1  1  0  0  1  When held, the power of Water skills is boosted by 20%.
+Emerald Hairpin  1000  3  0  0  1  1  0  0  1  When held, the power of Nature skills is boosted by 20%.
+Quartz Hairpin  1000  3  0  0  1  1  0  0  1  When held, the power of Earth skills is boosted by 20%.
+Hematite Hairpin  1000  3  0  0  1  1  0  0  1  When held, the power of Steel skills is boosted by 20%.
+Jade Hairpin  1000  3  0  0  1  1  0  0  1  When held, the power of Wind skills is boosted by 20%.
+Topaz Hairpin  1000  3  0  0  1  1  0  0  1  When held, the power of Electric skills is boosted by 20%.
+Opal Hairpin  1000  3  0  0  1  1  0  0  1  When held, the power of Light skills is boosted by 20%.
+Obsidian Hairpin  1000  3  0  0  1  1  0  0  1  When held, the power of Dark skills is boosted by 20%.
+Sugilite Hairpin  1000  3  0  0  1  1  0  0  1  When held, the power of Nether skills is boosted by 20%.
+Amethyst Hairpin  1000  3  0  0  1  1  0  0  1  When held, the power of Poison skills is boosted by 20%.
+Amber Hairpin  1000  3  0  0  1  1  0  0  1  When held, the power of Fighting skills is boosted by 20%.
+Clear Hairpin  1000  3  0  0  1  1  0  0  1  When held, the power of Illusion skills is boosted by 20%.
+Onyx Hairpin  1000  3  0  0  1  1  0  0  1  When held, the power of Sound skills is boosted by 20%.
+Lapis Hairpin  1000  3  0  0  1  1  0  0  1  When held, the power of Warped skills is boosted by 20%.
+Blinding Orb  1000  3  0  0  1  1  0  0  1  A Puppet holding this item will always be able to escape from a wild battle.
+Wooden Sword  5000  3  0  0  1  1  0  0  1  A wooden sword designed for training. A Puppet holding this will increase the amount of PP it earns from battle.
+Combat Handbook  8000  3  0  0  1  1  0  0  1  A fighting manual. When held, it increases EXP gained in battle by 50%.
+Layla's Amulet  0  3  0  0  0  1  0  0  1  Hidden under an old photograph. When held by a Puppet, the item drop rates from battle are doubled.
+Native Grace  10000000  3  0  0  0  1  0  0  1  A charm given by Suwako. If held, EXP and PP gain in battle will be doubled.
+Boundary Trance  2  3  0  0  1  1  0  0  0  A stone with rainbow and transparent blue halves. Special Puppets holding this will have their stats doubled.
+Ancient Coin  0  3  0  0  0  1  0  0  1  You can't continue if you only have one! When held, the chances of successful Puppet sealing is increased.
+Youma Scroll: Red  5000  3  0  0  1  1  0  0  0  A scroll with a red hemming written by various youkai. This item cannot be disposed.
+Youma Scroll: Blue  5000  3  0  0  1  1  0  0  0  A scroll with a blue hemming written by various youkai. This item cannot be disposed.
+Youma Scroll: Black  5000  3  0  0  1  1  0  0  0  A scroll with a black hemming written by various youkai. This item cannot be disposed.
+Youma Scroll: White  5000  3  0  0  1  1  0  0  0  A scroll with a white hemming written by various youkai. This item cannot be disposed.
+Counter Bit  250000  3  0  0  1  1  0  0  1  When held, if you receive damage from a BU-skill, the attacker takes 1/8th of their max HP as damage.
+Reflect Bit  250000  3  0  0  1  1  0  0  1  When held, if you receive damage from a EN-skill, the attacker takes 1/8th of their max HP as damage.
+Hope Mask  100  3  0  0  1  1  0  0  0  A mask with a hopeful expression. Cannot be flinched while holding this item. This item cannot be disposed.
+Iron Will Ribbon  10000  3  0  0  1  1  0  0  1  If the Puppet holding this only knows 3 skills, the damage received will be reduced by 10%.
+Outlook Glasses  10000  3  0  0  1  1  0  0  1  When held, the foe's held item will be identified.
+Javelin Arts  10000  3  0  0  1  1  0  0  1  A book detailing the tricks of battle. When held, the power of Javelin-type skills will be increased by 20%.
+Dream Shard  0  3  0  0  0  1  0  0  0  Mysterious gem that constantly changes color. A special Puppet holding this will have 10% increased stats.
+Bell Hairpin  0  3  0  0  0  1  0  0  1  A small, bell-shaped hairpin. When held by the first Puppet in your party, Puppet encounters will increase.
+Ancient Lunar Sake  0  3  0  0  0  1  0  0  1  Millennium brewed sake. When held by the first Puppet in your party, Puppet encounters will decrease.
+Hakurei Amulet  10000000  3  0  0  1  1  0  0  1  Amulet that holds the gracious power of the Hakurei. When held, EXP and PP gained will increase.
+Capture Rope  20000  3  0  0  1  1  0  0  1  Inescapable cursed rope. When held, switch out skills are disabled for the foe. Useless with trapping abilities.
+Skill Card 1  25000  4  0  1  0  0  0  106  1  Fire Javelin
+Skill Card 2  25000  4  0  1  0  0  0  155  1  Water Javelin
+Skill Card 3  25000  4  0  1  0  0  0  206  1  Grass Javelin
+Skill Card 4  25000  4  0  1  0  0  0  353  1  Wind Javelin
+Skill Card 5  25000  4  0  1  0  0  0  403  1  Spark Javelin
+Skill Card 6  25000  4  0  1  0  0  0  454  1  Light Javelin
+Skill Card 7  25000  4  0  1  0  0  0  603  1  Shadow Javelin
+Skill Card 8  0  4  0  1  0  0  0  20  1  Overskill
+Skill Card 9  0  4  0  1  0  0  0  22  1  Frenzied Joururi
+Skill Card 10  0  4  0  1  0  0  0  24  1  Blow from Calamity
+Skill Card 11  0  4  0  1  0  0  0  107  1  Rising Sun
+Skill Card 12  0  4  0  1  0  0  0  104  1  Burn Strike
+Skill Card 13  0  4  0  1  0  0  0  152  1  Waterfall Drop
+Skill Card 14  0  4  0  1  0  0  0  204  1  Voice of Famine
+Skill Card 15  0  4  0  1  0  0  0  201  1  Tumble Plant
+Skill Card 16  0  4  0  1  0  0  0  253  1  Shooting Press
+Skill Card 17  0  4  0  1  0  0  0  254  1  Rocky Barrage
+Skill Card 18  0  4  0  1  0  0  0  257  1  Spiked Stones
+Skill Card 19  0  4  0  1  0  0  0  303  1  Impact Rebellion
+Skill Card 20  0  4  0  1  0  0  0  301  1  Clearing Mist
+Skill Card 21  0  4  0  1  0  0  0  351  1  Gensokyo Typhoon
+Skill Card 22  0  4  0  1  0  0  0  354  1  Air Stamp
+Skill Card 23  0  4  0  1  0  0  0  355  1  Thieving Wind
+Skill Card 24  0  4  0  1  0  0  0  404  1  Plasma Ball
+Skill Card 25  0  4  0  1  0  0  0  455  1  Sunbeam Dance
+Skill Card 26  0  4  0  1  0  0  0  452  1  Evil-Crushing Arrow
+Skill Card 27  0  4  0  1  0  0  0  504  1  Changeling
+Skill Card 28  0  4  0  1  0  0  0  507  1  Dark Arrow
+Skill Card 29  0  4  0  1  0  0  0  506  1  Lost Crisis
+Skill Card 30  0  4  0  1  0  0  0  605  1  Unfettered Soul
+Skill Card 31  0  4  0  1  0  0  0  553  1  Poisoned Arrow
+Skill Card 32  0  4  0  1  0  0  0  655  1  Vacuum Rupture
+Skill Card 33  0  4  0  1  0  0  0  656  1  Meteor Impact
+Skill Card 34  0  4  0  1  0  0  0  664  1  Break Shot
+Skill Card 35  0  4  0  1  0  0  0  666  1  Charging Stun
+Skill Card 36  0  4  0  1  0  0  0  706  1  Flower of Hell
+Skill Card 37  0  4  0  1  0  0  0  707  1  St. Elmo's Fire
+Skill Card 38  0  4  0  1  0  0  0  751  1  Dancing Rain
+Skill Card 39  0  4  0  1  0  0  0  34  1  Tri Effect
+Skill Card 40  0  4  0  1  0  0  0  37  1  Heavenly Blessing
+Skill Card 41  0  4  0  1  0  0  0  38  1  Earthly Blessing
+Skill Card 42  0  4  0  1  0  0  0  116  1  Flashover
+Skill Card 43  35000  4  0  1  0  0  0  111  1  Inferno
+Skill Card 44  35000  4  0  1  0  0  0  162  1  Cold Rain
+Skill Card 45  0  4  0  1  0  0  0  165  1  Lazy Mist
+Skill Card 46  0  4  0  1  0  0  0  212  1  Rainbow Flowers
+Skill Card 47  0  4  0  1  0  0  0  213  1  Pollen Mist
+Skill Card 48  0  4  0  1  0  0  0  264  1  Jewelry Storm
+Skill Card 49  0  4  0  1  0  0  0  313  1  Chrome Ray
+Skill Card 50  0  4  0  1  0  0  0  363  1  Smash Spin
+Skill Card 51  35000  4  0  1  0  0  0  405  1  Thunderlord's Scorn
+Skill Card 52  0  4  0  1  0  0  0  410  1  Lightning Speed
+Skill Card 53  0  4  0  1  0  0  0  407  1  Thunder Force
+Skill Card 54  0  4  0  1  0  0  0  460  1  Star Flare
+Skill Card 55  0  4  0  1  0  0  0  511  1  Eye of Laplace
+Skill Card 56  0  4  0  1  0  0  0  610  1  Ghost Wave
+Skill Card 57  0  4  0  1  0  0  0  611  1  Love or Pain
+Skill Card 58  0  4  0  1  0  0  0  555  1  Poison Bomb
+Skill Card 59  35000  4  0  1  0  0  0  670  1  GIGANTIC
+Skill Card 60  0  4  0  1  0  0  0  716  1  Unknown Flare
+Skill Card 61  0  4  0  1  0  0  0  712  1  Gravity Blast
+Skill Card 62  0  4  0  1  0  0  0  756  1  Ultra High Tone
+Skill Card 63  0  4  0  1  0  0  0  41  1  Supernatural Border
+Skill Card 64  15000  4  0  1  0  0  0  42  1  Barrier Option
+Skill Card 65  15000  4  0  1  0  0  0  47  1  Unconscious Mind
+Skill Card 66  0  4  0  1  0  0  0  54  1  Confine
+Skill Card 67  0  4  0  1  0  0  0  121  1  Thermit
+Skill Card 68  0  4  0  1  0  0  0  173  1  Drought
+Skill Card 69  0  4  0  1  0  0  0  366  1  Squall
+Skill Card 70  15000  4  0  1  0  0  0  461  1  Field Barrier
+Skill Card 71  15000  4  0  1  0  0  0  462  1  Field Protect
+Skill Card 72  15000  4  0  1  0  0  0  463  1  Lucky Rainbow
+Skill Card 73  0  4  0  1  0  0  0  468  1  Flash Bullet
+Skill Card 74  0  4  0  1  0  0  0  513  1  Shark Trade
+Skill Card 75  0  4  0  1  0  0  0  518  1  Sweet Nightmare
+Skill Card 76  0  4  0  1  0  0  0  618  1  Behind You!
+Skill Card 77  0  4  0  1  0  0  0  561  1  Miasma
+Skill Card 78  15000  4  0  1  0  0  0  718  1  Continue
+Skill Card 79  0  4  0  1  0  0  0  762  1  Upbeat
+Skill Card 80  0  4  0  1  0  0  0  776  1  Claim
+Skill Card 81  15000  4  0  1  0  0  0  802  1  Distortion Bomb
+Skill Card 82  15000  4  0  1  0  0  0  804  1  Stealth Kill
+Skill Card 83  15000  4  0  1  0  0  0  806  1  Dense Fog Bloom
+Skill Card 84  15000  4  0  1  0  0  0  807  1  Impulse
+Skill Card 85  15000  4  0  1  0  0  0  809  1  Field Break
+Skill Card 86  15000  4  0  1  0  0  0  377  1  Flying Frenzy
+Skill Card 87  15000  4  0  1  0  0  0  402  1  Lightning Cut
+Skill Card 88  15000  4  0  1  0  0  0  661  1  Dancing Sword
+Skill Card 89  15000  4  0  1  0  0  0  752  1  High Tone Crush
+Skill Card 90  20000  4  0  1  0  0  0  65  1  Overrun
+Skill Card 91  15000  4  0  1  0  0  0  115  1  Backdraft
+Skill Card 92  15000  4  0  1  0  0  0  164  1  Frozen Prison
+Skill Card 93  15000  4  0  1  0  0  0  378  1  Spinning Air
+Skill Card 94  15000  4  0  1  0  0  0  510  1  Dark Sweets
+Skill Card 95  15000  4  0  1  0  0  0  682  1  Brave Burst
+Skill Card 96  15000  4  0  1  0  0  0  714  1  Catastrophe
+Skill Card 97  15000  4  0  1  0  0  0  608  1  Poltergeist
+Skill Card 98  35000  4  0  1  0  0  0  120  1  Will-o-Wisp
+Skill Card 99  35000  4  0  1  0  0  0  424  1  Shocking Wave
+Skill Card 100  35000  4  0  1  0  0  0  571  1  Acid Tears
+Skill Card 101  15000  4  0  1  0  0  0  69  1  Heavenly Influence
+Skill Card 102  15000  4  0  1  0  0  0  70  1  Earthly Influence
+Skill Card 103  15000  4  0  1  0  0  0  380  1  Passing Breeze
+Skill Card 104  15000  4  0  1  0  0  0  278  1  Destruction Rift
+Skill Card 105  35000  4  0  1  0  0  0  820  1  Limitless Realm
+Skill Card 106  0  4  0  1  0  0  0  824  1  Delirium
+Skill Card 107  0  4  0  1  0  0  0  823  1  Take Over
+Skill Card 108  0  4  0  1  0  0  0  822  1  Blitzkrieg
+Skill Card 109  0  255  0  0  1  0  0  1023  1  Skill Card �P�O�X�B
+Skill Card 110  0  255  0  0  1  0  0  1023  1  Skill Card �P�P�O�B
+Skill Card 111  0  255  0  0  1  0  0  1023  1  Skill Card �P�P�P�B
+Skill Card 112  0  255  0  0  1  0  0  1023  1  Skill Card �P�P�Q�B
+Skill Card 113  0  255  0  0  1  0  0  1023  1  Skill Card �P�P�R�B
+Skill Card 106  15000  4  0  1  0  0  0  127  1  Fire Sign
+Skill Card 107  15000  4  0  1  0  0  0  179  1  Water Sign
+Skill Card 108  15000  4  0  1  0  0  0  233  1  Nature Sign
+Skill Card 109  15000  4  0  1  0  0  0  273  1  Earth Sign
+Skill Card 110  15000  4  0  1  0  0  0  327  1  Steel Sign
+Skill Card 111  15000  4  0  1  0  0  0  375  1  Wind Sign
+Skill Card 112  15000  4  0  1  0  0  0  421  1  Electric Sign
+Skill Card 113  15000  4  0  1  0  0  0  474  1  Light Sign
+Skill Card 114  15000  4  0  1  0  0  0  524  1  Dark Sign
+Skill Card 115  15000  4  0  1  0  0  0  623  1  Nether Sign
+Skill Card 116  15000  4  0  1  0  0  0  566  1  Poison Sign
+Skill Card 117  15000  4  0  1  0  0  0  680  1  Fighting Sign
+Skill Card 118  15000  4  0  1  0  0  0  741  1  Illusion Sign
+Skill Card 119  15000  4  0  1  0  0  0  782  1  Sound Sign
+Skill Card 120  15000  4  0  1  0  0  0  817  1  Warped Sign
+Plain Doll  1000  5  1  0  1  0  0  0  1  A doll that can be used as a distraction to escape from a wild Puppet battle.
+Seal Thread  200  5  1  0  1  0  0  0  1  A sturdy thread used to seal Puppets.
+Contract Thread  600  5  1  0  1  0  0  0  1  A thread for sealing Puppets that's more expensive and better quality than a Seal Thread.
+Oath Thread  1200  5  1  0  1  0  0  0  1  A thread for sealing Puppets that's more expensive and better quality than a Contract Thread.
+Fate Thread  5000  5  1  0  1  0  0  0  1  The best quality thread that can seal any Puppet.
+Puppet Book  0  6  0  0  0  0  0  0  1  An encyclopedia written about the Puppets that have started to outbreak in Gensokyo.
+Alice's Package  0  6  0  0  0  0  0  0  1  A package intended for a person named Alice. Apparently she's in the forest.
+Gensokyo Map  0  6  0  1  0  0  0  0  1  Map of Gensokyo.
+Puppet Box  0  6  0  0  0  0  0  0  1  The box where Puppets are stored. Can be opened at Akyuu Dolls.
+Bicycle  0  6  0  1  0  0  0  0  1  A foldable bicycle that makes you go faster than running. Press Select to hop onto it.
+Woodcutter Doll  0  6  0  0  0  0  0  0  1  A doll that can cut down small trees. Does not appear to be autonomous.
+Superpower Glove  0  6  0  0  0  0  0  0  1  Gloves that make smashing rocks possible.
+Inflatable Boat  0  6  0  1  0  0  0  0  1  A boat that can be used to cross bodies of water.
+Gap Map  0  6  0  1  0  0  0  0  1  A map of Gensokyo that will allow you to travel to locations you've been.
+Peach Hairpin  0  6  0  0  0  0  0  0  1  One of Kasen's lost items. This is part of four items to find. When all are found, return to Kasen.
+Dog Whistle  0  6  0  0  0  0  0  0  1  One of Kasen's lost items. This is part of four items to find. When all are found, return to Kasen.
+Monkey Seat  0  6  0  0  0  0  0  0  1  One of Kasen's lost items. This is part of four items to find. When all are found, return to Kasen.
+Way of the Knife  0  6  0  0  0  0  0  0  1  One of Kasen's lost items. This is part of four items to find. When all are found, return to Kasen.
+Incident Case -1-  0  6  0  0  0  0  0  0  1  First Volume of the Puppet Incident accounts.
+Incident Case -2-  0  6  0  0  0  0  0  0  1  Second Volume of the Puppet Incident accounts.
+Incident Case -3-  0  6  0  0  0  0  0  0  1  Third Volume of the Puppet Incident accounts.
+Incident Case -4-  0  6  0  0  0  0  0  0  1  Fourth Volume of the Puppet Incident accounts.
+Incident Case -5-  0  6  0  0  0  0  0  0  1  Fifth Volume of the Puppet Incident accounts.
+Incident Case -6-  0  6  0  0  0  0  0  0  1  Sixth Volume of the Puppet Incident accounts.
+Incident Case -7-  0  6  0  0  0  0  0  0  1  Seventh Volume of the Puppet Incident accounts.
+Incident Case -8-  0  6  0  0  0  0  0  0  1  Eighth Volume of the Puppet Incident accounts.
+Incident Case -9-  0  6  0  0  0  0  0  0  1  Ninth Volume of the Puppet Incident accounts.
+Incident Case -10-  0  6  0  0  0  0  0  0  1  Tenth Volume of the Puppet Incident accounts.
+Old Key  0  6  0  0  0  0  0  0  1  An aged key that unlocks the door to the basement of the SDM. Can only be used once.
+Large Cotton  0  6  0  0  0  0  0  0  1  A large quantity of cotton for making a doll.
+Needle  0  6  0  0  0  0  0  0  1  A sewing needle.
+Thread  0  6  0  0  0  0  0  0  1  Large sewing thread.
+Scissors  0  6  0  0  0  0  0  0  1  Cloth cutting scissors.
+Cloth  0  6  0  0  0  0  0  0  1  Large brown cloth.
+Big Teddy Bear  0  6  0  0  0  0  0  0  1  Surprisingly large teddy bear.
+Ripped Teddy Bear  0  6  0  0  0  0  0  0  1  A teddy bear torn to shreds. 
+Whole Shortcake  0  6  0  0  0  0  0  0  1  A whole shortcake.
+Shortcake  0  6  0  0  0  0  0  0  1  Part of a shortcake.
+Item622  0  255  0  0  0  0  0  0  1  Removed.
+Emblem of Challenge  0  6  0  0  0  0  0  0  1  An emblem with an inscription. It says "Always up for a good fight.".
+Emblem of Japes  0  6  0  0  0  0  0  0  1  An emblem with an inscription. It says "That�fs right, you�fre the jape, it�fs you.".
+Emblem of Rainbow  0  6  0  0  0  0  0  0  1  An emblem with an inscription. It says "Luck is on your side, you can do it!".
+Emblem of Fortuity  0  6  0  0  0  0  0  0  1  An emblem with an inscription. It says "FPTWYSKZURVPEHDDDPGN".
+Item627  0  255  0  0  0  0  0  0  1  Removed.
+Emblem of Regret  0  6  0  0  0  0  0  0  1  An emblem with an inscription. It says "Cleanse this world".
+Emblem of Patience  0  6  0  0  0  0  0  0  1  An emblem with an inscription. It says "Bad things come to those who stall".
+Emblem of Flowers  0  6  0  0  0  0  0  0  1  An emblem with an inscription. It says "I am the original demon god, kneel before me!".
+Emblem of Prayers  0  6  0  0  0  0  0  0  1  An emblem with an inscription. I think it's french. Can't decipher it.
+Emblem of Bliss  0  6  0  0  0  0  0  0  1  An emblem with an inscription. It says "The bullet has been dodged".
+Emblem of Melody  0  6  0  0  0  0  0  0  1  An emblem with an inscription. It says "Hear my song".
+Supreme Proof  0  6  0  0  0  0  0  0  1  Proof with an image of Shinki making a peace sign. "Thanks for playing!" is written on it.
+Tengu Geta  250000  3  0  0  1  1  0  0  1  Shoes used by the Tengu. A puppet holding this is immune against traps.
+Radiant Hairpin  250000  3  0  0  1  1  0  0  1  A lost hairpin that reacts strongly to life. The holder's damage increases based on high their HP % is.
+Shounen Manga  0  255  0  0  0  0  0  0  1  When held, the holder's damage increases based on how low their HP % is. Unimplemented.
+Tsuzumi Drum  250000  3  0  0  1  1  0  0  1  An everlasting drum. When held, the holder's damage increases by 30% if they know no moves of their own type.
+Nokia Will Ribbon  0  255  0  0  0  0  0  0  1  If the Puppet holding this only knows 3 skills, the damage received will be reduced. Unimplemented.
+Eden's Apple  0  255  0  0  0  0  0  0  1  Blocks all enemy status skills. Inaccessible to the player. Unimplemented.
+Pure Sand  500000  3  0  0  1  1  0  0  1  Pure sand of the moon. During Genbu, your accuracy is increased by 50%.
+Izanagi Object  500000  3  0  0  1  1  0  0  1  A gem inheriting the power of the gods. During Kohryu, speed is increased by 50%.
+Yggdrasil Seed  500000  3  0  0  1  1  0  0  1  A shining seed. During Seiryuu, damage is increased by 50% for both sides.
+Crystal Mirror  500000  3  0  0  1  1  0  0  1  A mirror that exposes all past sins. During Byakko, moves your opponent would be immune against become neutral.
+Spirit Torch  500000  3  0  0  1  1  0  0  1  A torch that burns both body and soul. During Suzaku, the opponent loses 1/8th of their HP every turn.
+Giant Bit  10000  3  0  0  1  1  0  0  1  If the holder is hit with a skill with 100 or more BP the opponent takes 1/8th of their max HP as damage.
+Absorber  250000  3  0  0  1  1  0  0  1  A red device resembling a cross. If the holder resists a move, the holder recovers 18% of their max HP.
+Oxygen Magatama  0  6  0  0  0  0  0  0  1  A magatama made by Misumaru that allows you to breathe for a limited time in the Rainbow Dragon Cave.
+Grimoire of Marisa  0  6  0  0  0  0  0  0  1  An old notebook Marisa worked on. It contains notes about various danmaku. Who would be interested in this?

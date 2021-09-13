@@ -29,7 +29,7 @@ def set_abilities():
     with open('AbilityData.csv') as fi:
         line = fi.readline()
         while line != '':
-            ability = line.split(',')
+            ability = line.split('  ')
             ability_list[ability[0].lower()] = ability[-1]
             line = fi.readline()
 
@@ -37,7 +37,7 @@ def set_items():
     with open('ItemData.csv') as fi:
         line = fi.readline()
         while line != '':
-            item = line.split(',')
+            item = line.split('  ')
             item_list[item[0].lower()] = item[-1]
             line = fi.readline()
 
@@ -45,7 +45,7 @@ def set_skills():
     with open('SkillData.csv') as fi:
         line = fi.readline()
         while line != '':
-            skill = line.split(',')
+            skill = line.split('  ')
             skill_list[skill[0].lower()] = skill[-1]
             line = fi.readline()
 
@@ -90,7 +90,6 @@ async def on_message(message):
                     """
             await message.channel.send(msg)
         elif commands[0].lower() == 'ability':
-            print(commands[1].lower())
             msg = f"{commands[1]}: {ability_list[commands[1].lower()]}"
             await message.channel.send(msg)
         elif commands[0].lower() == 'item':
@@ -106,8 +105,22 @@ async def on_message(message):
                     - Shows the name, type, stats, and abilities of the requested puppets.\n
                     - Input puppet as <first letter of style> + <puppet name> e.g. EReimu\n
                     - Capitalization does not matter\n
+                - Hatatebot ability <ability>\n
+                    - Shows the description of the inputted ability\n
+                    - Capitalization and spacing does not matter\n
+                    - Punctuation does matter for inputs\n
+                - Hatatebot item <item>\n
+                    - Shows the description of the inputted item\n
+                    - Capitalization and spacingdoes not matter\n
+                    - Puncuation does matter for inputs\n
+                - Hatatebot skill <skill>\n
+                    - Shows the description of the inputted skill\n
+                    - Capitalization and spacing does not matter\n
+                    - Punctuation does matter for inputs\n
                 - Hatatebot help\n
                     - Shows this help menu\n
+                
+                Hatatebot is graciously hosted by maugrift.com
                 """
             await message.channel.send(msg)
 
