@@ -119,7 +119,9 @@ async def on_message(message):
                     - Punctuation does matter for inputs\n
                 - Hatatebot help\n
                     - Shows this help menu\n
-                
+
+
+                This Bot is free and open-source, it can be forked from https://github.com/jack-herman/HatateBot.
                 Hatatebot is graciously hosted by maugrift.com
                 """
             await message.channel.send(msg)
