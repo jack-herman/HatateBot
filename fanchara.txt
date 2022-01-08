@@ -1,0 +1,1821 @@
+NMeeko  Electric  None  60  35  35  70  40  65  305  100  Electrification  Peaceful
+SMeeko  Electric  Fighting  105  50  55  120  55  115  500  100  Electrification  Healing Power
+PMeeko  Electric  Nether  85  125  70  50  70  100  500  100  Sore Loser  Reckless
+EMeeko  Dream  None  75  50  65  115  95  100  500  100  Spark Bonus  Common Senseless
+NMakura  Dream  None 55  50  60  65  45  65  340 120  Dream World  Stubborn
+SMakura  Dream  Illusion  90  65  65  115  105  110  550  Dream World  Stubborn
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	Light  Javelin
+	Shadow  Javelin
+	Overskill
+	Frenzied  Joururi
+	Blow  from Calamity
+	Shooting  Press
+	Rocky  Barrage
+	Spiked  Stones
+	Gensokyo  Typhoon
+	Sunbeam  Dance
+	Meteor  Impact
+	Flower  of Hell
+	St.  Elmo's Fire
+	Tri-Effect
+	Heavenly  Blessing
+	Earthly  Blessing
+	Inferno
+	Star  Flare
+	Eye  of Laplace
+	Ghost  Wave
+	Love  or Pain
+	Unknown  Flare
+	Gravity  Blast
+	Supernatural  Border
+	Magic  Barrier
+	Unconscious  Mind
+	Field  Barrier
+	Field  Protect
+	Sweet  Nightmare
+	Continue
+	Dense  Fog Bloom
+	Impulse
+	Overrun
+	Catastrophe
+	Poltergeist
+	Heavenly  Influence
+	Earthly  Influence
+	Passing  Breeze
+	Destruction  Rift
+	Limitless  Realm
+	Fire  Sign
+	Water  Sign
+	Nature  Sign
+	Earth  Sign
+	Steel  Sign
+	Wind  Sign
+	Electric  Sign
+	Light  Sign
+	Dark  Sign
+	Nether  Sign
+	Poison  Sign
+	Fighting  Sign
+	Illusion  Sign
+	Sound  Sign
+	Warped  Sign
+
+DMakura  Dream/Nether 120 
+105
+65
+120
+85
+105
+70
+550
+
+
+	Dream  World
+	Stubborn
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	Light  Javelin
+	Shadow  Javelin
+	Overskill
+	Frenzied  Joururi
+	Blow  from Calamity
+	Voice  of Famine
+	Gensokyo  Typhoon
+	Sunbeam  Dance
+	Lost  Crisis
+	Unfettered  Soul
+	Meteor  Impact
+	St.  Elmo's Fire
+	Tri-Effect
+	Heavenly  Blessing
+	Earthly  Blessing
+	Pollen  Mist
+	Jewelry  Storm
+	Eye  of Laplace
+	Ghost  Wave
+	Love  or Pain
+	Unknown  Flare
+	Gravity  Blast
+	Supernatural  Border
+	Magic  Barrier
+	Unconscious  Mind
+	Squall
+	Field  Barrier
+	Field  Protect
+	Sweet  Nightmare
+	Continue
+	Field  Break
+	Overrun
+	Poltergeist
+	Heavenly  Influence
+	Earthly  Influence
+	Passing  Breeze
+	Destruction  Rift
+	Limitless  Realm
+	Fire  Sign
+	Water  Sign
+	Nature  Sign
+	Earth  Sign
+	Steel  Sign
+	Wind  Sign
+	Electric  Sign
+	Light  Sign
+	Dark  Sign
+	Nether  Sign
+	Poison  Sign
+	Fighting  Sign
+	Illusion  Sign
+	Sound  Sign
+	Warped  Sign
+
+EMakura  Dream/Light 120 
+105
+120
+85
+80
+75
+85
+550
+
+
+	Affinity  Twist
+	Stubborn
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	Spark  Javelin
+	Light  Javelin
+	Shadow  Javelin
+	Blow  from Calamity
+	Spiked  Stones
+	Impact  Rebellion
+	Clearing  Mist
+	Gensokyo  Typhoon
+	Sunbeam  Dance
+	Evil-Crushing  Arrow
+	Meteor  Impact
+	Detonation  Burst
+	Tri-Effect
+	Heavenly  Blessing
+	Earthly  Blessing
+	Inferno
+	Rainbow  Flowers
+	Jewelry  Storm
+	Star  Flare
+	Love  or Pain
+	Supernatural  Border
+	Magic  Barrier
+	Unconscious  Mind
+	Sweet  Nightmare
+	Continue
+	Lightning  Cut
+	Overrun
+	Frozen  Prison
+	Heavenly  Influence
+	Earthly  Influence
+	Passing  Breeze
+	Destruction  Rift
+	Limitless  Realm
+	Fire  Sign
+	Water  Sign
+	Nature  Sign
+	Earth  Sign
+	Steel  Sign
+	Wind  Sign
+	Electric  Sign
+	Light  Sign
+	Dark  Sign
+	Nether  Sign
+	Poison  Sign
+	Fighting  Sign
+	Illusion  Sign
+	Sound  Sign
+	Warped  Sign
+
+NMitori  Dark/Water 90 
+65
+40
+55
+65
+35
+40
+300
+
+
+	Hate  Incarnate
+	Invalidate
+
+
+	
+	
+	
+	
+	
+	
+	
+
+
+	Aqua  Javelin
+	Blow  from Calamity
+	Waterfall  Drop
+	Spiked  Stones
+	Lost  Crisis
+	Heavenly  Blessing
+	Earthly  Blessing
+	Love  or Pain
+	Supernatural  Border
+	Magic  Barrier
+	Unconscious  Mind
+	Confine
+	Drought
+	Field  Barrier
+	Field  Protect
+	Continue
+	Upbeat
+	Claim
+	Heavenly  Influence
+	Earthly  Influence
+	Limitless  Realm
+	Fire  Sign
+	Water  Sign
+	Nature  Sign
+	Earth  Sign
+	Steel  Sign
+	Wind  Sign
+	Electric  Sign
+	Light  Sign
+	Dark  Sign
+	Nether  Sign
+	Poison  Sign
+	Fighting  Sign
+	Illusion  Sign
+	Sound  Sign
+	Warped  Sign
+
+DMitori  Dark/Water 90 
+75
+55
+120
+95
+65
+85
+495
+
+
+	Hate  Incarnate
+	Invalidate
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	Aqua  Javelin
+	Overskill
+	Frenzied  Joururi
+	Blow  from Calamity
+	Waterfall  Drop
+	Spiked  Stones
+	Plasma  Ball
+	Changeling
+	Dark  Arrow
+	Lost  Crisis
+	Charging  Stun
+	Tri-Effect
+	Heavenly  Blessing
+	Earthly  Blessing
+	Cold  Rain
+	Lazy  Mist
+	Jewelry  Storm
+	Eye  of Laplace
+	Love  or Pain
+	Supernatural  Border
+	Magic  Barrier
+	Unconscious  Mind
+	Confine
+	Drought
+	Field  Barrier
+	Field  Protect
+	Continue
+	Upbeat
+	Claim
+	Dense  Fog Bloom
+	Impulse
+	Field  Break
+	Overrun
+	Frozen  Prison
+	Dark  Sweets
+	Heavenly  Influence
+	Earthly  Influence
+	Limitless  Realm
+	Fire  Sign
+	Water  Sign
+	Nature  Sign
+	Earth  Sign
+	Steel  Sign
+	Wind  Sign
+	Electric  Sign
+	Light  Sign
+	Dark  Sign
+	Nether  Sign
+	Poison  Sign
+	Fighting  Sign
+	Illusion  Sign
+	Sound  Sign
+	Warped  Sign
+
+AMitori  Dark/Steel 90 
+75
+45
+120
+45
+120
+90
+495
+
+
+	Suppression
+	Restraint
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	Aqua  Javelin
+	Overskill
+	Frenzied  Joururi
+	Blow  from Calamity
+	Waterfall  Drop
+	Spiked  Stones
+	Impact  Rebellion
+	Clearing  Mist
+	Plasma  Ball
+	Changeling
+	Dark  Arrow
+	Lost  Crisis
+	Tri-Effect
+	Heavenly  Blessing
+	Earthly  Blessing
+	Flashover
+	Lazy  Mist
+	Chrome  Ray
+	Love  or Pain
+	Supernatural  Border
+	Magic  Barrier
+	Unconscious  Mind
+	Confine
+	Drought
+	Field  Barrier
+	Field  Protect
+	Continue
+	Upbeat
+	Claim
+	Distortion  Bomb
+	Stealth  Kill
+	Field  Break
+	Overrun
+	Dark  Sweets
+	Heavenly  Influence
+	Earthly  Influence
+	Limitless  Realm
+	Fire  Sign
+	Water  Sign
+	Nature  Sign
+	Earth  Sign
+	Steel  Sign
+	Wind  Sign
+	Electric  Sign
+	Light  Sign
+	Dark  Sign
+	Nether  Sign
+	Poison  Sign
+	Fighting  Sign
+	Illusion  Sign
+	Sound  Sign
+	Warped  Sign
+
+EMitori  Dark/Electric 90 
+65
+95
+75
+120
+10
+130
+495
+
+
+	Collectomaniac
+	Overwhelm
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	Aqua  Javelin
+	Spark  Javelin
+	Overskill
+	Frenzied  Joururi
+	Blow  from Calamity
+	Waterfall  Drop
+	Spiked  Stones
+	Plasma  Ball
+	Changeling
+	Dark  Arrow
+	Lost  Crisis
+	Tri-Effect
+	Heavenly  Blessing
+	Earthly  Blessing
+	Jewelry  Storm
+	Smash  Spin
+	Thunderlord's  Scorn
+	Thunder  Force
+	Star  Flare
+	Love  or Pain
+	Supernatural  Border
+	Magic  Barrier
+	Unconscious  Mind
+	Confine
+	Drought
+	Field  Barrier
+	Field  Protect
+	Continue
+	Upbeat
+	Claim
+	Lightning  Cut
+	Overrun
+	Dark  Sweets
+	Shocking  Wave
+	Heavenly  Influence
+	Earthly  Influence
+	Limitless  Realm
+	Fire  Sign
+	Water  Sign
+	Nature  Sign
+	Earth  Sign
+	Steel  Sign
+	Wind  Sign
+	Electric  Sign
+	Light  Sign
+	Dark  Sign
+	Nether  Sign
+	Poison  Sign
+	Fighting  Sign
+	Illusion  Sign
+	Sound  Sign
+	Warped  Sign
+
+NFuma  Dark 110 
+70
+40
+60
+60
+55
+30
+315
+
+
+	Astronomy
+	Dark  Force
+
+
+	
+	
+	
+	
+	
+	
+	
+
+
+	Blow  from Calamity
+	Changeling
+	Lost  Crisis
+	Tri-Effect
+	Earthly  Blessing
+	Supernatural  Border
+	Magic  Barrier
+	Unconscious  Mind
+	Continue
+	Overrun
+	Passing  Breeze
+	Limitless  Realm
+	Fire  Sign
+	Water  Sign
+	Nature  Sign
+	Earth  Sign
+	Steel  Sign
+	Wind  Sign
+	Electric  Sign
+	Light  Sign
+	Dark  Sign
+	Nether  Sign
+	Poison  Sign
+	Fighting  Sign
+	Illusion  Sign
+	Sound  Sign
+	Warped  Sign
+
+AFuma  Dark/Warped 110 
+90
+80
+90
+90
+90
+80
+520
+
+
+	Astronomy
+	Melancholic
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	Wind  Javelin
+	Light  Javelin
+	Overskill
+	Frenzied  Joururi
+	Blow  from Calamity
+	Gensokyo  Typhoon
+	Air  Stamp
+	Evil-Crushing  Arrow
+	Changeling
+	Dark  Arrow
+	Lost  Crisis
+	Meteor  Impact
+	St.  Elmo's Fire
+	Tri-Effect
+	Heavenly  Blessing
+	Earthly  Blessing
+	Star  Flare
+	Eye  of Laplace
+	Supernatural  Border
+	Magic  Barrier
+	Unconscious  Mind
+	Squall
+	Field  Barrier
+	Field  Protect
+	Sweet  Nightmare
+	Continue
+	Claim
+	Distortion  Bomb
+	Stealth  Kill
+	Dense  Fog Bloom
+	Impulse
+	Field  Break
+	Overrun
+	Dark  Sweets
+	Heavenly  Influence
+	Earthly  Influence
+	Passing  Breeze
+	Limitless  Realm
+	Fire  Sign
+	Water  Sign
+	Nature  Sign
+	Earth  Sign
+	Steel  Sign
+	Wind  Sign
+	Electric  Sign
+	Light  Sign
+	Dark  Sign
+	Nether  Sign
+	Poison  Sign
+	Fighting  Sign
+	Illusion  Sign
+	Sound  Sign
+	Warped  Sign
+
+DFuma  Dark 110 
+100
+70
+100
+50
+100
+100
+520
+
+
+	Composed
+	Smooth  Sailing
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	Wind  Javelin
+	Light  Javelin
+	Shadow  Javelin
+	Overskill
+	Frenzied  Joururi
+	Blow  from Calamity
+	Clearing  Mist
+	Gensokyo  Typhoon
+	Air  Stamp
+	Plasma  Ball
+	Sunbeam  Dance
+	Evil-Crushing  Arrow
+	Changeling
+	Dark  Arrow
+	Lost  Crisis
+	Poisoned  Arrow
+	Meteor  Impact
+	Tri-Effect
+	Heavenly  Blessing
+	Earthly  Blessing
+	Jewelry  Storm
+	Smash  Spin
+	Star  Flare
+	Eye  of Laplace
+	Gravity  Blast
+	Supernatural  Border
+	Magic  Barrier
+	Unconscious  Mind
+	Thermit
+	Field  Barrier
+	Field  Protect
+	Lucky  Rainbow
+	Flash  Bullet
+	Sweet  Nightmare
+	Continue
+	Upbeat
+	Flying  Frenzy
+	Overrun
+	Spinning  Air
+	Dark  Sweets
+	Heavenly  Influence
+	Earthly  Influence
+	Passing  Breeze
+	Limitless  Realm
+	Fire  Sign
+	Water  Sign
+	Nature  Sign
+	Earth  Sign
+	Steel  Sign
+	Wind  Sign
+	Electric  Sign
+	Light  Sign
+	Dark  Sign
+	Nether  Sign
+	Poison  Sign
+	Fighting  Sign
+	Illusion  Sign
+	Sound  Sign
+	Warped  Sign
+
+EFuma  Illusion/Wind 110 
+80
+135
+65
+60
+65
+115
+520
+
+
+	Astronomy
+	Fast  Talker
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	Wind  Javelin
+	Light  Javelin
+	Shadow  Javelin
+	Overskill
+	Frenzied  Joururi
+	Blow  from Calamity
+	Spiked  Stones
+	Gensokyo  Typhoon
+	Air  Stamp
+	Thieving  Wind
+	Sunbeam  Dance
+	Evil-Crushing  Arrow
+	Changeling
+	Dark  Arrow
+	Lost  Crisis
+	Flower  of Hell
+	St.  Elmo's Fire
+	Tri-Effect
+	Heavenly  Blessing
+	Earthly  Blessing
+	Rainbow  Flowers
+	Smash  Spin
+	Star  Flare
+	Eye  of Laplace
+	Unknown  Flare
+	Gravity  Blast
+	Supernatural  Border
+	Magic  Barrier
+	Unconscious  Mind
+	Field  Barrier
+	Field  Protect
+	Lucky  Rainbow
+	Sweet  Nightmare
+	Continue
+	Flying  Frenzy
+	Overrun
+	Spinning  Air
+	Catastrophe
+	Shocking  Wave
+	Earthly  Influence
+	Passing  Breeze
+	Limitless  Realm
+	Fire  Sign
+	Water  Sign
+	Nature  Sign
+	Earth  Sign
+	Steel  Sign
+	Wind  Sign
+	Electric  Sign
+	Light  Sign
+	Dark  Sign
+	Nether  Sign
+	Poison  Sign
+	Fighting  Sign
+	Illusion  Sign
+	Sound  Sign
+	Warped  Sign
+
+NLayla  Nether 90 
+25
+35
+70
+70
+70
+30
+300
+
+
+	Appeased  Spirit
+	Resonance
+
+
+	
+	
+	
+	
+	
+	
+	
+
+
+	Frenzied  Joururi
+	Blow  from Calamity
+	Clearing  Mist
+	Supernatural  Border
+	Magic  Barrier
+	Unconscious  Mind
+	Confine
+	Field  Barrier
+	Field  Protect
+	Behind  You!
+	Continue
+	Claim
+	Passing  Breeze
+	Limitless  Realm
+	Fire  Sign
+	Water  Sign
+	Nature  Sign
+	Earth  Sign
+	Steel  Sign
+	Wind  Sign
+	Electric  Sign
+	Light  Sign
+	Dark  Sign
+	Nether  Sign
+	Poison  Sign
+	Fighting  Sign
+	Illusion  Sign
+	Sound  Sign
+	Warped  Sign
+
+PLayla  Illusion/Nether 90 
+50
+60
+80
+100
+100
+100
+490
+
+
+	Spirit  of Yin
+	Appeased  Spirit
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	Shadow  Javelin
+	Overskill
+	Frenzied  Joururi
+	Blow  from Calamity
+	Clearing  Mist
+	Unfettered  Soul
+	Tri-Effect
+	Heavenly  Blessing
+	Earthly  Blessing
+	Star  Flare
+	Unknown  Flare
+	Gravity  Blast
+	Ultra  High Tone
+	Supernatural  Border
+	Magic  Barrier
+	Unconscious  Mind
+	Confine
+	Field  Barrier
+	Field  Protect
+	Behind  You!
+	Continue
+	Upbeat
+	Claim
+	Catastrophe
+	Poltergeist
+	Will-o'-Wisp
+	Heavenly  Influence
+	Earthly  Influence
+	Passing  Breeze
+	Limitless  Realm
+	Fire  Sign
+	Water  Sign
+	Nature  Sign
+	Earth  Sign
+	Steel  Sign
+	Wind  Sign
+	Electric  Sign
+	Light  Sign
+	Dark  Sign
+	Nether  Sign
+	Poison  Sign
+	Fighting  Sign
+	Illusion  Sign
+	Sound  Sign
+	Warped  Sign
+
+DLayla  Void/Dream 90 
+75
+85
+125
+70
+125
+10
+490
+
+
+	Resonance
+	NBonus
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	Shadow  Javelin
+	Overskill
+	Frenzied  Joururi
+	Blow  from Calamity
+	Clearing  Mist
+	Unfettered  Soul
+	Tri-Effect
+	Heavenly  Blessing
+	Earthly  Blessing
+	Lazy  Mist
+	Smash  Spin
+	Ultra  High Tone
+	Supernatural  Border
+	Magic  Barrier
+	Unconscious  Mind
+	Confine
+	Field  Barrier
+	Field  Protect
+	Behind  You!
+	Continue
+	Upbeat
+	Claim
+	Catastrophe
+	Poltergeist
+	Will-o'-Wisp
+	Heavenly  Influence
+	Earthly  Influence
+	Passing  Breeze
+	Limitless  Realm
+	Fire  Sign
+	Water  Sign
+	Nature  Sign
+	Earth  Sign
+	Steel  Sign
+	Wind  Sign
+	Electric  Sign
+	Light  Sign
+	Dark  Sign
+	Nether  Sign
+	Poison  Sign
+	Fighting  Sign
+	Illusion  Sign
+	Sound  Sign
+	Warped  Sign
+
+ELayla  Sound/Nether 90 
+80
+60
+80
+95
+95
+80
+490
+
+
+	Sound  Absorb
+	Unbound
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	Shadow  Javelin
+	Overskill
+	Frenzied  Joururi
+	Blow  from Calamity
+	Voice  of Famine
+	Clearing  Mist
+	Changeling
+	Lost  Crisis
+	Detonation  Burst
+	Tri-Effect
+	Lazy  Mist
+	Smash  Spin
+	Eye  of Laplace
+	Ghost  Wave
+	Love  or Pain
+	Poison  Bomb
+	Ultra  High Tone
+	Supernatural  Border
+	Magic  Barrier
+	Unconscious  Mind
+	Confine
+	Squall
+	Field  Barrier
+	Field  Protect
+	Shark  Trade
+	Behind  You!
+	Continue
+	Upbeat
+	Claim
+	Poltergeist
+	Will-o'-Wisp
+	Passing  Breeze
+	Limitless  Realm
+	Fire  Sign
+	Water  Sign
+	Nature  Sign
+	Earth  Sign
+	Steel  Sign
+	Wind  Sign
+	Electric  Sign
+	Light  Sign
+	Dark  Sign
+	Nether  Sign
+	Poison  Sign
+	Fighting  Sign
+	Illusion  Sign
+	Sound  Sign
+	Warped  Sign
+
+NYouki  Nether/Steel 100 
+45
+75
+35
+40
+25
+75
+295
+
+
+	Immovable
+	Cleared  Mind
+
+
+	
+	
+	
+	
+	
+	
+	
+
+
+	Frenzied  Joururi
+	Blow  from Calamity
+	Spiked  Stones
+	Clearing  Mist
+	Lost  Crisis
+	Unfettered  Soul
+	Break  Shot
+	Heavenly  Blessing
+	Earthly  Blessing
+	Supernatural  Border
+	Magic  Barrier
+	Squall
+	Continue
+	Upbeat
+	Heavenly  Influence
+	Earthly  Influence
+	Fire  Sign
+	Water  Sign
+	Nature  Sign
+	Earth  Sign
+	Steel  Sign
+	Wind  Sign
+	Electric  Sign
+	Light  Sign
+	Dark  Sign
+	Nether  Sign
+	Poison  Sign
+	Fighting  Sign
+	Illusion  Sign
+	Sound  Sign
+	Warped  Sign
+
+SYouki  Nether/Steel 100 
+55
+135
+65
+60
+60
+135
+510
+
+
+	Immovable
+	Cleared  Mind
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	Grass  Javelin
+	Shadow  Javelin
+	Frenzied  Joururi
+	Blow  from Calamity
+	Rocky  Barrage
+	Spiked  Stones
+	Clearing  Mist
+	Lost  Crisis
+	Unfettered  Soul
+	Break  Shot
+	Tri-Effect
+	Heavenly  Blessing
+	Earthly  Blessing
+	Supernatural  Border
+	Magic  Barrier
+	Unconscious  Mind
+	Squall
+	Continue
+	Upbeat
+	Overrun
+	Will-o'-Wisp
+	Heavenly  Influence
+	Earthly  Influence
+	Limitless  Realm
+	Fire  Sign
+	Water  Sign
+	Nature  Sign
+	Earth  Sign
+	Steel  Sign
+	Wind  Sign
+	Electric  Sign
+	Light  Sign
+	Dark  Sign
+	Nether  Sign
+	Poison  Sign
+	Fighting  Sign
+	Illusion  Sign
+	Sound  Sign
+	Warped  Sign
+
+PYouki  Steel/Nature 100 
+80
+140
+80
+70
+70
+70
+510
+
+
+	Master's  Defense
+	Byakutei's  Metal
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	Grass  Javelin
+	Shadow  Javelin
+	Overskill
+	Frenzied  Joururi
+	Blow  from Calamity
+	Voice  of Famine
+	Tumble  Plant
+	Shooting  Press
+	Spiked  Stones
+	Clearing  Mist
+	Changeling
+	Lost  Crisis
+	Unfettered  Soul
+	Break  Shot
+	Tri-Effect
+	Heavenly  Blessing
+	Earthly  Blessing
+	Pollen  Mist
+	Chrome  Ray
+	Ghost  Wave
+	Poison  Bomb
+	Supernatural  Border
+	Magic  Barrier
+	Unconscious  Mind
+	Squall
+	Continue
+	Upbeat
+	Heavenly  Influence
+	Earthly  Influence
+	Limitless  Realm
+	Fire  Sign
+	Water  Sign
+	Nature  Sign
+	Earth  Sign
+	Steel  Sign
+	Wind  Sign
+	Electric  Sign
+	Light  Sign
+	Dark  Sign
+	Nether  Sign
+	Poison  Sign
+	Fighting  Sign
+	Illusion  Sign
+	Sound  Sign
+	Warped  Sign
+
+EYouki  Steel/Nether 100 
+60
+50
+150
+50
+150
+50
+510
+
+
+	Inverse  Reaction
+	Deflective
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	Shadow  Javelin
+	Overskill
+	Frenzied  Joururi
+	Blow  from Calamity
+	Spiked  Stones
+	Clearing  Mist
+	Changeling
+	Lost  Crisis
+	Unfettered  Soul
+	Break  Shot
+	Charging  Stun
+	Tri-Effect
+	Heavenly  Blessing
+	Earthly  Blessing
+	Smash  Spin
+	Ghost  Wave
+	Supernatural  Border
+	Magic  Barrier
+	Unconscious  Mind
+	Drought
+	Squall
+	Miasma
+	Continue
+	Upbeat
+	Will-o'-Wisp
+	Heavenly  Influence
+	Earthly  Influence
+	Limitless  Realm
+	Fire  Sign
+	Water  Sign
+	Nature  Sign
+	Earth  Sign
+	Steel  Sign
+	Wind  Sign
+	Electric  Sign
+	Light  Sign
+	Dark  Sign
+	Nether  Sign
+	Poison  Sign
+	Fighting  Sign
+	Illusion  Sign
+	Sound  Sign
+	Warped  Sign
+
+NMart  Electric 80 
+65
+65
+55
+35
+55
+10
+285
+
+
+	Sore  Loser
+	Skilled  Hand
+
+
+	
+	
+	
+	
+	
+	
+	
+
+
+	Frenzied  Joururi
+	Blow  from Calamity
+	Plasma  Ball
+	Heavenly  Blessing
+	Earthly  Blessing
+	Supernatural  Border
+	Magic  Barrier
+	Field  Barrier
+	Field  Protect
+	Lucky  Rainbow
+	Continue
+	Claim
+	Shocking  Wave
+	Heavenly  Influence
+	Earthly  Influence
+	Destruction  Rift
+	Limitless  Realm
+	Fire  Sign
+	Water  Sign
+	Nature  Sign
+	Earth  Sign
+	Steel  Sign
+	Wind  Sign
+	Electric  Sign
+	Light  Sign
+	Dark  Sign
+	Nether  Sign
+	Poison  Sign
+	Fighting  Sign
+	Illusion  Sign
+	Sound  Sign
+	Warped  Sign
+
+PMart  Electric/Steel 80 
+85
+105
+40
+110
+70
+70
+480
+
+
+	Sore  Loser
+	Positive
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	Spark  Javelin
+	Overskill
+	Frenzied  Joururi
+	Blow  from Calamity
+	Shooting  Press
+	Impact  Rebellion
+	Plasma  Ball
+	Charging  Stun
+	Tri-Effect
+	Heavenly  Blessing
+	Earthly  Blessing
+	Inferno
+	Jewelry  Storm
+	Chrome  Ray
+	Smash  Spin
+	Thunder  Force
+	Supernatural  Border
+	Magic  Barrier
+	Unconscious  Mind
+	Field  Barrier
+	Field  Protect
+	Lucky  Rainbow
+	Shark  Trade
+	Continue
+	Claim
+	Lightning  Cut
+	Shocking  Wave
+	Heavenly  Influence
+	Earthly  Influence
+	Destruction  Rift
+	Limitless  Realm
+	Fire  Sign
+	Water  Sign
+	Nature  Sign
+	Earth  Sign
+	Steel  Sign
+	Wind  Sign
+	Electric  Sign
+	Light  Sign
+	Dark  Sign
+	Nether  Sign
+	Poison  Sign
+	Fighting  Sign
+	Illusion  Sign
+	Sound  Sign
+	Warped  Sign
+
+SMart  Steel/Fighting 80 
+85
+30
+75
+120
+65
+105
+480
+
+
+	Skilled  Hand
+	Quick  Eye
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	Spark  Javelin
+	Overskill
+	Frenzied  Joururi
+	Blow  from Calamity
+	Shooting  Press
+	Plasma  Ball
+	Charging  Stun
+	Tri-Effect
+	Heavenly  Blessing
+	Earthly  Blessing
+	Chrome  Ray
+	Lightning  Speed
+	GIGANTIC
+	Supernatural  Border
+	Magic  Barrier
+	Unconscious  Mind
+	Field  Barrier
+	Field  Protect
+	Lucky  Rainbow
+	Continue
+	Upbeat
+	Claim
+	Field  Break
+	Overrun
+	Brave  Burst
+	Shocking  Wave
+	Heavenly  Influence
+	Earthly  Influence
+	Destruction  Rift
+	Limitless  Realm
+	Fire  Sign
+	Water  Sign
+	Nature  Sign
+	Earth  Sign
+	Steel  Sign
+	Wind  Sign
+	Electric  Sign
+	Light  Sign
+	Dark  Sign
+	Nether  Sign
+	Poison  Sign
+	Fighting  Sign
+	Illusion  Sign
+	Sound  Sign
+	Warped  Sign
+
+EMart  Electric 80 
+90
+90
+70
+40
+70
+120
+480
+
+
+	Sore  Loser
+	Worrywart
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	Fire  Javelin
+	Spark  Javelin
+	Overskill
+	Frenzied  Joururi
+	Blow  from Calamity
+	Thieving  Wind
+	Plasma  Ball
+	Changeling
+	Unfettered  Soul
+	Tri-Effect
+	Heavenly  Blessing
+	Earthly  Blessing
+	Lightning  Speed
+	Supernatural  Border
+	Magic  Barrier
+	Unconscious  Mind
+	Field  Barrier
+	Field  Protect
+	Lucky  Rainbow
+	Shark  Trade
+	Continue
+	Claim
+	Lightning  Cut
+	Dark  Sweets
+	Shocking  Wave
+	Heavenly  Influence
+	Earthly  Influence
+	Destruction  Rift
+	Limitless  Realm
+	Fire  Sign
+	Water  Sign
+	Nature  Sign
+	Earth  Sign
+	Steel  Sign
+	Wind  Sign
+	Electric  Sign
+	Light  Sign
+	Dark  Sign
+	Nether  Sign
+	Poison  Sign
+	Fighting  Sign
+	Illusion  Sign
+	Sound  Sign
+	Warped  Sign
+
+

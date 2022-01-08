@@ -260,3 +260,4 @@ Blizzard  At full HP, Water skills receive +1 to their priority. Unimplemented.
 Cursed Being  Drains 10% of foe's HP every turn. Defense is lowered by 10%.
 Eden's Apple  Foe's Status moves lose their effects. Unimplemented.
 Silent Running  During Calm, Speed is doubled.
+Insatiable Greed  When an opponent is ko'd, form changes. Essentially "Battle Bond" from Pokemon, when an opponents puppet is knocked out, by your own attack (fainting from status conditions, or other forms of non direct damage will not activate the ability), while Extra Yuuma is on the field, she powers up, gaining +40 base SpAtk, and +20 to her other stats, aside from HP and FoAtk, for a total of +100 (630 BST). When this effect is activated, it sets a semi-permanent flag saying the ability is active, meaning even when switched out, or fainted and then revived, she will immediately transform back to her powered up form upon switching back in, only going back to normal after the battle ends.

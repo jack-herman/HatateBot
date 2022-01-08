@@ -50,8 +50,8 @@ NKotohime  Void  None  45  30  50  50  60  55  290  80  Collectomaniac  Free Wil
 AKotohime  Void  None  100  30  80  70  95  105  480  80  Karmic Retribution  Free Will
 DKotohime  Void  None  65  30  135  70  135  45  480  80  Karmic Retribution  Moody
 EKotohime  Void  Poison  110  30  90  100  90  60  480  80  Niche  Common Senseless
-NKana  Nether  Soud  40  55  40  35  60  65  295  80  Skilled Hand  Quick Eye
-AKana  Nether  Soud  70  95  60  40  100  115  480  80  Curiosity  Quick Eye
+NKana  Nether  Sound  40  55  40  35  60  65  295  80  Skilled Hand  Quick Eye
+AKana  Nether  Sound  70  95  60  40  100  115  480  80  Curiosity  Quick Eye
 PKana  Nether  Illusion  70  120  65  45  85  95  480  80  Skilled Hand  Up Tempo
 EKana  Nether  Void  40  75  60  120  60  125  480  80  Wariness  Negative Aura
 NRikako  Electric  Steel  35  40  40  75  45  65  300  100  Insight  Final Form
@@ -73,7 +73,7 @@ ERuukoto  Poison  Steel  85  30  115  85  115  20  450  80  In Sync  Restraint
 NOrange  Void  None  120  5  5  55  80  10  275  80  Emergency Cure  Wasteful
 DOrange  Void  None  250  5  5  75  130  10  475  80  Emergency Cure  Lucky
 POrange  Void  None  95  95  85  45  80  75  475  80  Harassment  Usurpation
-EOrange  Fighting  Soud  85  60  85  120  60  70  480  80  Niche  Deploy Smoke
+EOrange  Fighting  Sound  85  60  85  120  60  70  480  80  Niche  Deploy Smoke
 NKurumi  Dark  None  35  35  30  70  40  65  275  80  Iron Resolve  Surprise Tactics
 PKurumi  Dark  None  85  45  60  125  70  95  480  80  Wariness  Surprise Tactics
 AKurumi  Dark  Poison  80  55  60  75  90  120  480  80  Iron Resolve  Melancholic
@@ -97,7 +97,7 @@ EGengetsu  Warped  Dark  80  60  125  90  100  70  525  110  Unwavering Heart  B
 NSara  Earth  None  75  60  65  20  30  50  300  90  Iron Resolve  Healing Power
 DSara  Earth  None  125  95  115  40  50  70  495  90  Iron Resolve  Choleric
 SSara  Earth  Electric  100  70  95  55  70  105  495  90  Good Management  Sniper
-ESara  Fighting  Soud  100  110  80  40  70  95  495  90  Warning Shot  Master's Defense
+ESara  Fighting  Sound  100  110  80  40  70  95  495  90  Warning Shot  Master's Defense
 NLouise  Wind  None  45  30  30  55  55  55  270  80  Optimist  Peaceful
 DLouise  Wind  None  75  70  60  100  90  85  480  80  Unique Shield  Lucky
 ALouise  Wind  None  75  30  105  100  60  110  480  80  Optimist  Phlegmatic
@@ -169,19 +169,19 @@ EChen  Earth  Void  85  105  70  40  70  110  480  80  Known Limits  Eastern Exp
 NLily  Void  None  55  25  40  45  50  40  255  80  Wasteful  Antibody
 ALily  Void  None  75  35  70  70  120  100  470  80  Phlegmatic  Auto Heal
 PLily  Nature  Void  85  35  55  120  85  90  470  80  Deploy Smoke  Auto Heal
-ELily  Soud  Dark  95  145  80  35  105  10  470  80  Smooth Sailing  Glamorous
-NLyrica  Soud  Nether  40  60  60  30  40  70  300  90  Sound Absorb  Resonance
-SLyrica  Soud  Nether  60  100  105  45  65  115  490  90  Sound Absorb  Resonance
-PLyrica  Soud  Illusion  80  45  65  120  85  95  490  90  Sound Absorb  Charge!
-ELyrica  Soud  Electric  120  50  70  85  100  65  490  90  Warning Shot  Instant Win
-NMerlin  Soud  Nether  60  55  40  65  40  40  300  90  Sound Absorb  Optimist
-AMerlin  Soud  Nether  100  70  90  95  75  60  490  90  Sound Absorb  Up Tempo
-PMerlin  Soud  Fighting  90  130  90  40  90  50  490  90  Sound Absorb  Mind's Eye
-EMerlin  Soud  Steel  90  50  70  120  65  95  490  90  Charge!  Impulsive
-NLunasa  Soud  Nether  45  55  55  40  75  30  300  90  Sound Absorb  Suppression
-ALunasa  Soud  Nether  80  110  55  45  140  60  490  90  Sound Absorb  Suppression
-DLunasa  Soud  Poison  60  50  155  50  145  30  490  90  Sound Absorb  Slow Tempo
-ELunasa  Soud  Nature  105  40  80  105  80  80  490  90  Projection  Poker Face
+ELily  Sound  Dark  95  145  80  35  105  10  470  80  Smooth Sailing  Glamorous
+NLyrica  Sound  Nether  40  60  60  30  40  70  300  90  Sound Absorb  Resonance
+SLyrica  Sound  Nether  60  100  105  45  65  115  490  90  Sound Absorb  Resonance
+PLyrica  Sound  Illusion  80  45  65  120  85  95  490  90  Sound Absorb  Charge!
+ELyrica  Sound  Electric  120  50  70  85  100  65  490  90  Warning Shot  Instant Win
+NMerlin  Sound  Nether  60  55  40  65  40  40  300  90  Sound Absorb  Optimist
+AMerlin  Sound  Nether  100  70  90  95  75  60  490  90  Sound Absorb  Up Tempo
+PMerlin  Sound  Fighting  90  130  90  40  90  50  490  90  Sound Absorb  Mind's Eye
+EMerlin  Sound  Steel  90  50  70  120  65  95  490  90  Charge!  Impulsive
+NLunasa  Sound  Nether  45  55  55  40  75  30  300  90  Sound Absorb  Suppression
+ALunasa  Sound  Nether  80  110  55  45  140  60  490  90  Sound Absorb  Suppression
+DLunasa  Sound  Poison  60  50  155  50  145  30  490  90  Sound Absorb  Slow Tempo
+ELunasa  Sound  Nature  105  40  80  105  80  80  490  90  Projection  Poker Face
 NYoumu  Steel  Nether  45  70  40  50  30  70  305  100  Mind's Eye  Gale
 SYoumu  Steel  Nether  70  110  70  105  50  115  520  100  Mind's Eye  Gale
 PYoumu  Steel  Nether  80  125  100  55  70  90  520  100  Mind's Eye  Gale
@@ -218,9 +218,9 @@ NWriggle  Nature  Dark  45  60  40  40  35  50  270  80  Vanishing Act  Jamming
 PWriggle  Nature  Dark  100  115  70  40  70  85  480  80  Telescopic  Quick Eye
 AWriggle  Nature  Poison  70  70  90  40  105  105  480  80  Vanishing Act  Jamming
 EWriggle  Dark  Electric  60  105  40  105  40  130  480  80  First Hit  Instant Win
-NMystia  Soud  Dark  55  30  30  50  65  40  270  80  Smooth Sailing  Good Management
-DMystia  Soud  Dark  85  70  75  80  120  50  480  80  Smooth Sailing  Good Management
-PMystia  Soud  Wind  80  55  80  110  80  75  480  80  Smooth Sailing  Up Tempo
+NMystia  Sound  Dark  55  30  30  50  65  40  270  80  Smooth Sailing  Good Management
+DMystia  Sound  Dark  85  70  75  80  120  50  480  80  Smooth Sailing  Good Management
+PMystia  Sound  Wind  80  55  80  110  80  75  480  80  Smooth Sailing  Up Tempo
 EMystia  Wind  Poison  120  30  55  90  55  130  480  80  Quick Eye  Stimulative
 NKeine  Steel  None  60  55  50  30  40  40  275  90  Overwhelm  Sermon
 DKeine  Steel  None  95  95  125  45  80  45  485  90  WereHakutaku  Wisdom Eye
@@ -241,7 +241,7 @@ EEirin  Poison  Light  100  60  100  95  100  105  560  120  Composed  Emergency
 NKaguya  Light  None  80  30  30  70  75  30  315  110  Flaming Garment  Emergency Cure
 DKaguya  Light  None  220  35  10  80  130  55  530  110  Flaming Garment  Emergency Cure
 PKaguya  Light  Void  120  65  80  130  80  55  530  110  Healing Power  Pride
-EKaguya  Fire  Soud  110  130  85  60  80  65  530  110  Sore Loser  Strange Rainbow
+EKaguya  Fire  Sound  110  130  85  60  80  65  530  110  Sore Loser  Strange Rainbow
 NMokou  Fire  None  75  50  40  75  30  45  315  110  Hate Incarnate  Emergency Cure
 SMokou  Fire  None  120  60  60  130  60  100  530  110  Hate Incarnate  Instant Win
 PMokou  Fire  Fighting  115  120  70  100  70  55  530  110  Fox's Wedding  Reckless
@@ -256,8 +256,8 @@ PSunny  Light  Fire  70  30  70  130  75  95  470  80  Flash  Absorbent
 ESunny  Light  Warped  125  85  90  40  90  40  470  80  Light Curtain  Some Guts
 NLuna  Light  Wind  35  30  35  60  40  70  270  80  Flash  Sound Absorb
 PLuna  Light  Wind  100  30  65  120  75  80  470  80  Flash  Sound Absorb
-SLuna  Light  Soud  80  40  65  90  70  125  470  80  Sanguine  Sound Absorb
-ELuna  Soud  Warped  75  95  120  40  100  40  470  80  Skilled Hand  Healing Power
+SLuna  Light  Sound  80  40  65  90  70  125  470  80  Sanguine  Sound Absorb
+ELuna  Sound  Warped  75  95  120  40  100  40  470  80  Skilled Hand  Healing Power
 NStar  Light  Water  60  45  50  30  55  30  270  80  Light Curtain  Aurora Grace
 PStar  Light  Water  100  120  70  55  80  45  470  80  Light Curtain  Niche
 DStar  Light  Illusion  100  40  80  75  130  45  470  80  Sanguine  Aurora Grace
@@ -369,17 +369,17 @@ EKoishi  Warped  None  130  130  70  60  70  60  520  110  Infiltration  Active
 NNazrin  Earth  Steel  40  55  40  30  35  60  260  90  Active  Collectomaniac
 SNazrin  Earth  Steel  65  110  70  40  85  120  490  90  Infiltration  Sand Force
 DNazrin  Earth  Poison  100  90  120  35  85  60  490  90  Active  Sand Mask
-ENazrin  Steel  Soud  90  40  80  90  80  110  490  90  Infiltration  Unbound
+ENazrin  Steel  Sound  90  40  80  90  80  110  490  90  Infiltration  Unbound
 NKogasa  Water  Wind  55  30  40  50  55  55  285  80  Warning Shot  Deploy Smoke
 AKogasa  Water  Wind  95  40  80  100  95  70  480  80  Warning Shot  Deploy Smoke
 SKogasa  Water  Light  80  40  70  110  70  110  480  80  Warning Shot  Deploy Smoke
-EKogasa  Water  Soud  95  130  70  30  100  55  480  80  Metallurgy  Gentei's Water
+EKogasa  Water  Sound  95  130  70  30  100  55  480  80  Metallurgy  Gentei's Water
 NIchirin  Fighting  None  60  75  40  30  50  40  295  100  Duel  Overwhelm
 PIchirin  Fighting  None  80  130  65  55  100  75  505  100  Duel  Overwhelm
 DIchirin  Fighting  Electric  115  120  80  80  80  30  505  100  Duel  Overwhelm
 EIchirin  Electric  Water  110  60  80  55  80  45  430  100  Air Cushion  Forward Dash
 NMurasa  Water  None  45  65  40  40  60  50  300  100  Negative Aura  Stream Form
-PMurasa  Water  Soud  80  120  65  60  100  80  505  100  Negative Aura  Stream Form
+PMurasa  Water  Sound  80  120  65  60  100  80  505  100  Negative Aura  Stream Form
 DMurasa  Water  Nether  80  100  110  65  85  65  505  100  Negative Aura  Inverse Toxin
 EMurasa  Nether  Nature  100  100  80  100  80  45  505  100  Fast Talker  Metallurgy
 NShou  Light  Electric  40  50  40  75  40  60  305  110  Absorbent  Flash
@@ -402,10 +402,10 @@ NKasen  Fighting  Illusion  65  75  60  50  45  30  325  120  Sermon  None
 PKasen  Fighting  Illusion  105  140  95  90  65  45  540  120  Mind's Eye  Charge!
 AKasen  Fighting  Nether  100  60  95  80  110  95  540  120  Absorbent  Battle Mania
 EKasen  Fighting  Warped  130  65  130  110  60  45  540  120  Restraint  Stubborn
-NKyouko  Soud  None  50  40  30  60  50  50  280  80  Optimist  Last Defense
-PKyouko  Soud  None  120  55  50  130  55  70  480  80  Deploy Smoke  Niche
-AKyouko  Soud  Earth  95  30  70  80  110  95  480  80  Resonance  In Sync
-EKyouko  Soud  Void  95  115  70  40  85  75  480  80  Impulsive  Full Power
+NKyouko  Sound  None  50  40  30  60  50  50  280  80  Optimist  Last Defense
+PKyouko  Sound  None  120  55  50  130  55  70  480  80  Deploy Smoke  Niche
+AKyouko  Sound  Earth  95  30  70  80  110  95  480  80  Resonance  In Sync
+EKyouko  Sound  Void  95  115  70  40  85  75  480  80  Impulsive  Full Power
 NYoshika  Poison  None  100  60  35  40  5  55  295  100  Ghost Form  Spirit of Yin
 PYoshika  Poison  None  160  120  70  40  20  90  500  100  Ghost Form  Armor Purge
 DYoshika  Poison  Nether  165  40  80  105  45  65  500  100  Full Power  Inverse Reaction
@@ -422,10 +422,10 @@ NFuto  Wind  Water  45  40  55  60  35  70  305  110  Deploy Smoke  Weather Resi
 SFuto  Wind  Water  65  70  90  105  55  135  520  110  Deploy Smoke  Strategist
 PFuto  Earth  Fire  80  60  55  120  95  110  520  110  Deploy Smoke  Unbound
 EFuto  Nether  Fighting  80  110  60  60  80  130  520  110  Sore Loser  Active
-NMiko  Light  Soud  70  70  50  40  35  50  315  110  Warning Shot  Up Tempo
-SMiko  Light  Soud  100  125  80  70  65  90  530  110  Warning Shot  Up Tempo
+NMiko  Light  Sound  70  70  50  40  35  50  315  110  Warning Shot  Up Tempo
+SMiko  Light  Sound  100  125  80  70  65  90  530  110  Warning Shot  Up Tempo
 PMiko  Light  Fire  100  150  60  125  70  115  620  110  True Admin  None
-EMiko  Fire  Soud  70  100  60  120  60  120  530  110  First Hit  Intuition
+EMiko  Fire  Sound  70  100  60  120  60  120  530  110  First Hit  Intuition
 NMamizou  Illusion  Nature  70  70  60  50  35  30  315  120  Wisdom Eye  Slow Tempo
 DMamizou  Illusion  Nature  110  110  110  100  70  60  560  120  Wisdom Eye  Slow Tempo
 PMamizou  Illusion  Earth  80  130  95  75  80  100  560  120  Hobgoblin  None
@@ -437,10 +437,10 @@ EKosuzu  Void  None  90  50  50  50  50  90  380  80  Bibliophilia  None
 NKokoro  Void  Fighting  60  35  40  60  55  30  280  110  Poker Face  Moody
 DKokoro  Void  Fighting  110  80  80  85  125  50  530  110  Poker Face  Moody
 PKokoro  Void  Light  105  110  80  110  80  45  530  110  Poker Face  Infinite Changes
-EKokoro  Soud  Dark  95  50  90  125  70  100  530  110  Master's Defense  Mindless Dance
+EKokoro  Sound  Dark  95  50  90  125  70  100  530  110  Master's Defense  Mindless Dance
 NWakasagi  Water  None  60  35  40  65  65  35  300  80  Grace of Water  Final Form
 PWakasagi  Water  None  90  30  70  100  100  90  480  80  Grace of Water  Sound Absorb
-SWakasagi  Water  Soud  75  50  60  120  60  115  480  80  Fog Traveler  Force of Nature
+SWakasagi  Water  Sound  75  50  60  120  60  115  480  80  Fog Traveler  Force of Nature
 EWakasagi  Water  Nature  120  40  70  145  70  35  480  80  Gentei's Water  Seitei's Wood
 NSekibanki  Dark  None  35  50  65  30  60  30  270  90  Spirit of Yin  None
 PSekibanki  Dark  None  95  115  100  30  75  70  485  90  Bright Form  Spirit of Yin
@@ -450,14 +450,14 @@ NKagerou  Dark  Wind  35  70  40  35  40  70  290  100  Final Form  Gale
 SKagerou  Dark  Wind  75  50  60  120  85  120  510  100  Final Form  Gale
 PKagerou  Dark  Earth  80  125  80  50  95  80  510  100  Final Form  Invigorative
 EKagerou  Wind  Poison  80  60  115  95  130  30  510  100  Vigorous  Cloak of Darkness
-NBenben  Soud  None  40  50  65  30  65  40  290  90  Emergency Cure  Resonance
-PBenben  Soud  Void  80  120  75  40  100  80  495  90  Mind's Eye  Resonance
-DBenben  Soud  Nature  100  105  85  40  110  55  495  90  Warning Shot  Economist
-EBenben  Soud  Earth  165  40  90  90  45  65  495  90  Light Curtain  Stimulative
-NYatsuhashi  Soud  None  65  30  55  60  40  40  290  90  Final Form  Sound Absorb
-SYatsuhashi  Soud  None  105  40  65  105  65  115  495  90  Instant Win  Strategist
-DYatsuhashi  Soud  Nature  100  40  125  100  80  50  495  90  Quick Eye  Some Guts
-EYatsuhashi  Soud  Wind  105  125  95  40  80  50  495  90  In Sync  Composed
+NBenben  Sound  None  40  50  65  30  65  40  290  90  Emergency Cure  Resonance
+PBenben  Sound  Void  80  120  75  40  100  80  495  90  Mind's Eye  Resonance
+DBenben  Sound  Nature  100  105  85  40  110  55  495  90  Warning Shot  Economist
+EBenben  Sound  Earth  165  40  90  90  45  65  495  90  Light Curtain  Stimulative
+NYatsuhashi  Sound  None  65  30  55  60  40  40  290  90  Final Form  Sound Absorb
+SYatsuhashi  Sound  None  105  40  65  105  65  115  495  90  Instant Win  Strategist
+DYatsuhashi  Sound  Nature  100  40  125  100  80  50  495  90  Quick Eye  Some Guts
+EYatsuhashi  Sound  Wind  105  125  95  40  80  50  495  90  In Sync  Composed
 NSeija  Poison  None  70  50  30  30  50  70  300  100  Usurpation  Unjustness
 SSeija  Poison  None  110  85  55  55  85  110  500  100  Usurpation  Unjustness
 DSeija  Poison  Light  80  105  70  45  130  70  500  100  Usurpation  Unjustness
@@ -466,10 +466,10 @@ NSukuna  Steel  Earth  50  60  55  35  30  40  270  110  Sore Loser  None
 DSukuna  Steel  Earth  75  50  50  60  60  75  370  110  Miracle Mallet  Master's Defense
 PSukuna  Steel  Fighting  60  120  100  85  70  85  520  110  Indomitable  Sore Loser
 ESukuna  Water  Earth  60  120  55  120  40  125  520  110  Active  Sand Force
-NRaiko  Soud  Electric  50  35  60  75  50  40  310  110  Active  Sixth Sense
-PRaiko  Soud  Electric  80  65  100  130  80  65  520  110  Active  Sixth Sense
-ARaiko  Soud  Electric  65  55  105  105  105  85  520  110  Active  Disturber
-ERaiko  Soud  Illusion  100  60  100  60  100  100  520  110  In Sync  Maintenance
+NRaiko  Sound  Electric  50  35  60  75  50  40  310  110  Active  Sixth Sense
+PRaiko  Sound  Electric  80  65  100  130  80  65  520  110  Active  Sixth Sense
+ARaiko  Sound  Electric  65  55  105  105  105  85  520  110  Active  Disturber
+ERaiko  Sound  Illusion  100  60  100  60  100  100  520  110  In Sync  Maintenance
 NSumireko  Warped  Void  50  50  50  50  50  50  300  100  Telescopic  Sixth Sense
 PSumireko  Warped  Steel  110  120  95  30  85  60  500  100  Telescopic  Suppression
 SSumireko  Warped  Void  85  40  70  105  75  125  500  100  Common Senseless  Invalidate
@@ -487,9 +487,9 @@ PDoremy  Illusion  Nether  50  125  45  125  45  125  515  100  Invigorative  Ap
 DDoremy  Nether  Nature  140  60  125  70  85  35  515  100  Cloak of Darkness  Reflect Guard
 EDoremy  Dream  None  75  110  75  65  75  115  515  100  Dream World  Vision Bonus
 NSagume  Poison  None  40  45  60  60  80  40  325  120  Reverse Function  Ascertainment
-PSagume  Poison  Soud  60  80  85  130  95  110  560  120  Reverse Function  Reflect Guard
+PSagume  Poison  Sound  60  80  85  130  95  110  560  120  Reverse Function  Reflect Guard
 DSagume  Poison  Electric  75  70  135  100  135  45  560  120  Wisdom Eye  Ascertainment
-ESagume  Warped  Soud  90  130  95  70  105  70  560  120  Reverse Function  Divine Festival
+ESagume  Warped  Sound  90  130  95  70  105  70  560  120  Reverse Function  Divine Festival
 NClownpiece  Fire  None  50  40  55  50  55  60  310  100  Glamorous  Chaos Induction
 DClownpiece  Fire  Light  110  70  105  50  95  80  510  100  Recoil Offset  Chaos Induction
 SClownpiece  Fire  Illusion  90  50  80  80  80  130  510  100  Wasteful  Telescopic
@@ -512,14 +512,14 @@ AEternity  Wind  Light  90  55  70  85  95  80  475  80  Deploy Smoke  Phlegmati
 EEternity  Nature  Illusion  65  55  70  105  60  120  475  80  Flash  Surprise Tactics
 NNemuno  Steel  None  45  70  40  45  40  65  305  100  Good Management  Deploy Smoke
 PNemuno  Steel  Water  80  115  70  50  70  115  500  100  Good Management  Deploy Smoke
-DNemuno  Steel  Fighting  90  95  115  60  75  65  500  100  Unbound  Force of Nature
+DNemuno  Steel  Fighting  90  95  130  50  75  60  500  100  Unbound  Force of Nature
 ENemuno  Steel  Wind  70  55  65  125  70  115  500  100  Imposing Stance  Choleric
 NAunn  Light  None  55  55  50  40  50  30  280  80  Indomitable  Wariness
-DAunn  Light  None  85  85  90  40  125  55  480  80  Indomitable  Wariness
+DAunn  Light  Illusion  85  85  125  40  90  55  480  80  Indomitable  Wariness
 PAunn  Light  Fighting  85  110  80  65  80  60  480  80  Indomitable  Economist
 EAunn  Light  Steel  70  105  75  70  80  80  480  80  Two of a Kind  Divine Protection
 NNarumi  Light  Earth  55  35  45  55  65  45  300  90  Invalidate  Composed
-DNarumi  Light  Earth  75  70  60  95  135  60  495  90  Invalidate  Composed
+DNarumi  Light  Earth  60  70  60  95  150  60  495  90  Invalidate  Composed
 PNarumi  Light  Fire  60  45  110  115  110  55  495  90  Invalidate  Healing Power
 ENarumi  Water  Illusion  70  125  80  55  75  90  495  90  Empowered  Unbound
 NTeireida  Wind  Illusion  50  65  40  40  40  70  305  100  Chaos Induction  Curiosity
@@ -531,15 +531,15 @@ ASatono  Illusion  Wind  120  65  75  90  75  85  510  100  Chaos Induction  Ref
 SSatono  Nature  Electric  70  75  75  110  75  105  510  100  Chaos Induction  Optimist
 ESatono  Sound  Poison  80  125  80  70  80  75  510  100  First Hit  After Move
 NOkina  Void  None  60  70  50  70  50  45  345  120  Weather Resist  None
-POkina  Nature  Illusion  90  85  75  125  115  90  580  120  Benefit of Fire  Pride
+POkina  Nature  Illusion  90  80  75  130  115  90  580  120  Benefit of Fire  Pride
 DOkina  Light  None  120  65  100  65  100  130  580  120  Infinite Changes  Infiltration
 EOkina  Nature  Dark  105  70  90  130  95  90  580  120 Secret  Ceremony  None
 NEika  Nether  Earth  45  20  60  55  50  40  270  80  Appeased Spirit  Karmic Retribution
-DEika  Nether  Earth  65  40  125  90  115  45  480  80  Appeased Spirit  Karmic Retribution
-AEika  Void  None  80  95  130  45  60  70  480  80  Appeased Spirit  Curse Return
-EEika  Nether  Water  90  45  100  80  100  65  480  80  Stone Stacker  Known Limits
+DEika  Nether  Earth  75  35  125  90  115  40  480  80  Appeased Spirit  Karmic Retribution
+AEika  Void  Nether  80  95  130  45  60  70  480  80  Appeased Spirit  Curse Return
+EEika  Nether  Water  80  45  105  80  105  65  480  80  Stone Stacker  Known Limits
 NUrumi  Water  Earth  70  40  40  60  45  40  295  90  Warning Shot  Charge!
-PUumi  Water  Earth  110  70  70  105  70  65  490  90  Warning Shot  Charge!
+PUumi  Water  Earth  110  60  70  115  70  65  490  90  Warning Shot  Charge!
 DUrumi  Dark  None  135  100  55  50  90  60  490  90  Warning Shot  Grace of Water
 EUrumi  Dark  Fighting  95  125  80  60  70  60  490  90  Warning Shot  Unbound
 NKutaka  Water  Light  50  40  60  60  50  45  305  100  Emergency Cure  Auto Heal
@@ -547,9 +547,9 @@ AKutaka  Water  Light  95  50  120  80  80  75  500  100  Emergency Cure  Auto H
 SKutaka  Sound  Warped  75  45  65  100  105  110  500  100  Positive  Strict Dosage
 EKutaka  Nether  Electric  110  95  75  45  110  65  500  100  Sound Absorb  Auto Heal
 NYachie  Warped  Fire  60  40  50  60  65  30  305  110  Ascertainment  Usurpation
-PYachie  Warped  Fire  95  75  85  100  110  60  525  110  Ascertainment  Usurpation
-DYachie  Water  Nature  110  60  80  90  135  50  525  110  Ascertainment  Restraint
-EYachie  Warped  Fighting  80  115  115  60  60  95  525  110  Precise Aim  Strategist
+PYachie  Warped  Fire  95  75  85  100  110  65  530  110  Ascertainment  Usurpation
+DYachie  Water  Nature  115  60  80  90  135  50  530  110  Ascertainment  Restraint
+EYachie  Warped  Fighting  80  115  115  60  65  95  530  110  Precise Aim  Strategist
 NMayumi  Earth  Fighting  55  65  65  40  50  30  305  100  Indomitable  Sore Loser
 DMayumi  Earth  Fighting  95  110  95  55  90  75  520  100  Indomitable  Sore Loser
 SMayumi  Steel  None  70  120  65  70  65  130  520  100  Desolation Form  General's Form
@@ -559,16 +559,16 @@ PKeiki  Earth  Electric  110  125  100  80  80  75  570  120  Unjustness  Recoil
 AKeiki  Earth  Water  100  60  65  110  120  115  570  120  Known Limits  Flawless
 EKeiki  Warped  Electric  100  125  75  105  75  90  570  120  Idola Diabolus  Sand Force
 NSaki  Wind  Fighting  55  70  50  60  30  60  325  110  Aggressive  Recoil Offset
-SSaki  Wind  Fighting  75  105  65  105  65  110  525  110  Aggressive  Battle Mania
-PSaki  Wind  Dark  105  145  75  85  45  70  525  110  Aggressive  Recoil Offset
-ESaki  Electric  None  70  75  80  120  75  105  525  110  Vigorous  Common Senseless
+SSaki  Wind  Fighting  75  105  65  105  70  110  530  110  Aggressive  Battle Mania
+PSaki  Wind  Dark  110  145  75  85  45  70  530  110  Aggressive  Recoil Offset
+ESaki  Electric  None  75  75  80  120  75  105  530  110  Vigorous  Common Senseless
 NMiyoi  Water  None  60  30  50  60  50  30  280  80  Active  Disturber
 AMiyoi  Water  Poison  60  115  70  75  110  50  480  80  Active  Good Management
 PMiyoi  Water  Illusion  70  40  130  120  65  55  480  80  Wariness  Disturber
 EMiyoi  Nature  None  130  30  75  100  75  70  480  80  Strict Dosage  Worrywart
 NMike  Void  None  40  50  40  40  40  65  275  80  Lucky  Free Will
-SMike  Void  None  70  110  65  55  55  125  480  80  Lucky  Morale Boost
-AMike  Void  None  75  60  70  95  70  110  480  80  Harassment  Free Will
+SMike  Void  None  70  115  65  45  60  125  480  80  Lucky  Morale Boost
+AMike  Void  Steel  75  60  70  95  70  110  480  80  Economist  Free Will
 EMike  Steel  Warped  70  115  90  50  55  100  480  80  Niche  Sore Loser
 NTakane  Nature  None  65  40  35  65  55  40  300  90  Overcompensate  Quick Eye
 PTakane  Nature  None  110  45  60  125  95  60  495  90  Overcompensate  Silent Running
@@ -579,7 +579,7 @@ ASannyo  Wind  Poison  105  95  135  50  50  65  500  100  Deploy Smoke  Jamming
 PSannyo  Wind  Fire  85  125  70  40  100  80  500  100  Deploy Smoke  Wisdom Eye
 ESannyo  Nature  Poison  70  70  70  110  80  100  500  100  Fog Traveler  Weather Resist
 NMisumaru  Illusion  Earth  40  40  55  50  70  55  310  110  Projection  Divine Protection
-DMisumaru  Illusion  Earth  65  70  105  95  12  75  530  110  Projection  Self Exorcism
+DMisumaru  Illusion  Earth  65  70  105  95  120  75  530  110  Projection  Self Exorcism
 PMisumaru  Illusion  Earth  70  65  65  125  115  90  530  110  Projection  Divine Protection
 EMisumaru  Light  Nether  60  80  110  95  110  75  530  110  Spirit of Yang  Spirit of Yin
 NTsukasa  Sound  Warped  40  55  40  50  40  60  285  80  Sniper  Quick Eye
@@ -598,3 +598,8 @@ NMomoyo  Poison  None  55  80  65  45  40  50  335  120  Poison Body  Negative A
 PMomoyo  Poison  Steel  70  165  90  105  80  60  570  120  Poison Body  Sand Mask
 SMomoyo  Poison  Earth  95  105  105  125  50  90  570  120  Poison Body  Koutei's Earth
 EMomoyo  Dark  Earth  75  110  125  90  75  95  570  120  Inverse Toxin  Negative Aura
+NYuuma  Dark  Poison  85  45  40  75  40  40  325  110  Empowered  Overcompensate
+PYuuma  Dark  Poison  115  60  80  120  70  85  530  110  Empowered  Projection
+DYuuma  Water  Poison  135  110  95  50  75  65  530  110  Strong Smile  Projection
+EYuuma  Dark  Water  150  65  65  105  65  80  530  110  Insatiable Greed  None
+EYuumaAlt  Dark  Water  150  65  85  145  85  100  630  10  Insatiable Greed  None

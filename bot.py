@@ -1,5 +1,6 @@
 import json
 import discord
+import random
 
 with open('config.json') as f:
     config = json.load(f)
@@ -67,12 +68,30 @@ async def on_message(message):
     if message.author == client.user:
         return
 
-    if message.content.startswith('hatatebot') or client.user in message.mentions:
+    if message.content.lower().startswith('hatatebot') or message.content.lower().startswith('hb') or client.user in message.mentions:
         author = message.author
-        commands = message.content.split(' ', 2)
+        commands = message.content.split(' ',2)
         del commands[0]
         if commands[0].lower() == 'puppet': 
             puppet = puppet_list[commands[1].lower()]
+            msg = f"""
+                    {puppet['name']}: 
+                    Type 1: {puppet['type1']} 
+                    Type 2: {puppet['type2']} 
+                    HP: {puppet['hp']} 
+                    Focus Attack: {puppet['foatk']} 
+                    Focus Defense: {puppet['fodef']} 
+                    Spread Attack: {puppet['spatk']}
+                    Spread Defense: {puppet['spdef']}
+                    Speed: {puppet['spd']}
+                    BST: {puppet['bst']}
+                    Cost: {puppet['cost']}
+                    Ability 1: {puppet['ability1']}
+                    Ability 2: {puppet['ability2']}
+                    """
+            await message.channel.send(msg)
+		elif commands[0].lower() == 'random':
+            puppet = random.choice(list(puppet_list))
             msg = f"""
                     {puppet['name']}: 
                     Type 1: {puppet['type1']} 
@@ -98,13 +117,22 @@ async def on_message(message):
         elif commands[0].lower() == 'skill':
             msg = f"{commands[1]}: {skill_list[commands[1].lower()]}"
             await message.channel.send(msg)
+        elif commands[0].lower() == 'calc':
+            msg = """
+                    English Calc: https://pikachuun.github.io/tpdpcalc/\n
+                    Japanese Calc: http://ex.doll-alice.com/calc/damage\n
+                    """
+            await message.channel.send(msg)
         elif commands[0].lower() == 'help':
             msg = """
                 The current available HatateBot commands are:\n
-                - Hatatebot puppet <puppet>\n
+                NOTE: You can replace "Hatatebot" with "Hb"
+				- Hatatebot puppet <puppet>\n
                     - Shows the name, type, stats, and abilities of the requested puppets.\n
                     - Input puppet as <first letter of style> + <puppet name> e.g. EReimu\n
                     - Capitalization does not matter\n
+				- Hatatebot random\n
+					- Shows the information for a random puppet.\n
                 - Hatatebot ability <ability>\n
                     - Shows the description of the inputted ability\n
                     - Capitalization and spacing does not matter\n
@@ -117,6 +145,8 @@ async def on_message(message):
                     - Shows the description of the inputted skill\n
                     - Capitalization and spacing does not matter\n
                     - Punctuation does matter for inputs\n
+                - Hatatebot calc\n
+                    - Brings up the links to bot the English and the Japanese damage calculators\n
                 - Hatatebot help\n
                     - Shows this help menu\n
 
