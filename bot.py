@@ -90,8 +90,9 @@ async def on_message(message):
                     Ability 2: {puppet['ability2']}
                     """
             await message.channel.send(msg)
-		elif commands[0].lower() == 'random':
-            puppet = random.choice(list(puppet_list))
+        elif commands[0].lower() == 'random':
+            random_puppet = random.choice(list(puppet_list))
+            puppet = puppet_list[random_puppet]
             msg = f"""
                     {puppet['name']}: 
                     Type 1: {puppet['type1']} 
